@@ -1,0 +1,47 @@
+[
+    {
+        "description": "Fresh citrus fragrance with bergamot and lemon notes",
+        "expected_chemicals": [
+            "Limonene",
+            "Citral",
+            "Linalool",
+            "Bergamotene"
+        ]
+    },
+    {
+        "description": "Warm, woody, slightly sweet with sandalwood and cedar",
+        "expected_chemicals": [
+            "Santalol",
+            "Cedrene",
+            "Vetiverol",
+            "Cedrol"
+        ]
+    },
+    {
+        "description": "Sweet vanilla with hints of caramel and toffee",
+        "expected_chemicals": [
+            "Vanillin",
+            "Ethyl vanillin",
+            "Maltol",
+            "Furaneol"
+        ]
+    },
+    {
+        "description": "Light floral notes of jasmine and rose petals",
+        "expected_chemicals": [
+            "Benzyl acetate",
+            "Geraniol",
+            "Linalool",
+            "Citronellol"
+        ]
+    },
+    {
+        "description": "Fresh mint with herbal undertones",
+        "expected_chemicals": [
+            "Menthol",
+            "Menthone",
+            "Linalool",
+            "Carvone"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+\section{Methodology}
+
+\subsection{Data Collection}
+
+Our dataset is compiled from multiple sources including Fragrantica, The Good Scents Company, and PubChem. We collected smell descriptions paired with known chemical compositions, applying data augmentation techniques to increase training samples.
+
+\subsection{Model Architecture}
+
+We use a BERT-based encoder followed by a multi-label classification head:
+
+\begin{equation}
+    h = \text{BERT}(x)
+\end{equation}
+
+\begin{equation}
+    \hat{y} = \sigma(W_2 \cdot \text{ReLU}(W_1 \cdot h_{[\text{CLS}]} + b_1) + b_2)
+\end{equation}
+
+where $h_{[\text{CLS}]}$ is the [CLS] token representation and $\sigma$ is the sigmoid function for multi-label output.
+
+\subsection{Training Objective}
+
+We optimize using a combination of Binary Cross-Entropy (BCE) and Focal Loss~\cite{lin2017focal} to handle class imbalance:
+
+\begin{equation}
+    \mathcal{L} = -\sum_{i=1}^{C} \alpha_i (1-p_i)^\gamma y_i \log(p_i) + (1-y_i) \log(1-p_i)
+\end{equation}
+
+where $C$ is the number of chemicals, $\gamma$ is the focusing parameter, and $\alpha$ balances positive/negative examples.
+
+\subsection{Inference}
+
+At inference time, we apply a threshold $\tau$ to predictions or select the top-$k$ highest scoring chemicals based on application requirements.

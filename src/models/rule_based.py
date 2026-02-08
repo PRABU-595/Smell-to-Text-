@@ -1,0 +1,233 @@
+"""
+Rule-based baseline for smell-to-molecule prediction
+"""
+import re
+from typing import Dict, List, Tuple, Optional
+from collections import defaultdict
+import json
+
+
+class RuleBasedPredictor:
+    """Simple rule-based system using keyword matching."""
+    
+    # Keyword to chemical mappings with confidence scores
+    RULES = {
+        # Citrus keywords
+        'citrus': [('Limonene', 0.9), ('Citral', 0.7), ('Linalool', 0.5)],
+        'lemon': [('Limonene', 0.95), ('Citral', 0.8), ('Neral', 0.6)],
+        'lime': [('Limonene', 0.9), ('Citral', 0.75), ('Gamma-terpinene', 0.5)],
+        'orange': [('Limonene', 0.95), ('Linalool', 0.6), ('Myrcene', 0.5)],
+        'bergamot': [('Linalyl acetate', 0.9), ('Limonene', 0.8), ('Linalool', 0.7)],
+        'grapefruit': [('Nootkatone', 0.9), ('Limonene', 0.85), ('Myrcene', 0.5)],
+        'zesty': [('Limonene', 0.8), ('Citral', 0.6)],
+        'tangy': [('Limonene', 0.7), ('Citral', 0.5)],
+        
+        # Floral keywords
+        'floral': [('Linalool', 0.8), ('Geraniol', 0.7), ('Phenylethyl alcohol', 0.6)],
+        'rose': [('Geraniol', 0.95), ('Citronellol', 0.9), ('Phenylethyl alcohol', 0.7)],
+        'jasmine': [('Benzyl acetate', 0.9), ('Jasmone', 0.85), ('Indole', 0.6)],
+        'lavender': [('Linalool', 0.95), ('Linalyl acetate', 0.85), ('Camphor', 0.5)],
+        'violet': [('Ionone', 0.95), ('Methyl ionone', 0.8)],
+        'iris': [('Ionone', 0.9), ('Methyl ionone', 0.7)],
+        'lily': [('Hydroxycitronellal', 0.9), ('Linalool', 0.6)],
+        'tuberose': [('Methyl benzoate', 0.8), ('Benzyl acetate', 0.7)],
+        
+        # Woody keywords
+        'woody': [('Cedrene', 0.8), ('Santalol', 0.7), ('Vetiverol', 0.6)],
+        'wood': [('Cedrene', 0.75), ('Santalol', 0.65)],
+        'cedar': [('Cedrene', 0.95), ('Thujopsene', 0.8), ('Cedrol', 0.7)],
+        'sandalwood': [('Santalol', 0.95), ('Santene', 0.7)],
+        'vetiver': [('Vetiverol', 0.95), ('Khusimol', 0.8)],
+        'oud': [('Agarospirol', 0.9), ('Jinkohol', 0.7)],
+        'pine': [('Pinene', 0.95), ('Limonene', 0.6), ('Bornyl acetate', 0.5)],
+        'forest': [('Pinene', 0.8), ('Cedrene', 0.6)],
+        
+        # Sweet keywords
+        'vanilla': [('Vanillin', 0.95), ('Ethyl vanillin', 0.8)],
+        'sweet': [('Vanillin', 0.6), ('Maltol', 0.5)],
+        'caramel': [('Furaneol', 0.9), ('Maltol', 0.85), ('Cyclotene', 0.7)],
+        'honey': [('Phenylacetic acid', 0.9), ('Methyl phenylacetate', 0.7)],
+        'toffee': [('Maltol', 0.9), ('Furaneol', 0.75)],
+        'chocolate': [('Pyrazines', 0.85), ('Methylbutanal', 0.7)],
+        
+        # Spicy keywords
+        'spicy': [('Eugenol', 0.8), ('Cinnamaldehyde', 0.7), ('Carvone', 0.5)],
+        'cinnamon': [('Cinnamaldehyde', 0.95), ('Eugenol', 0.6)],
+        'clove': [('Eugenol', 0.95), ('Beta-caryophyllene', 0.7)],
+        'pepper': [('Piperine', 0.9), ('Rotundone', 0.75)],
+        'ginger': [('Gingerol', 0.9), ('Zingiberene', 0.8)],
+        'cardamom': [('Cineole', 0.85), ('Alpha-terpinyl acetate', 0.7)],
+        
+        # Fresh keywords
+        'fresh': [('Linalool', 0.6), ('Dihydromyrcenol', 0.7), ('Calone', 0.5)],
+        'clean': [('Dihydromyrcenol', 0.8), ('Calone', 0.6)],
+        'crisp': [('Dihydromyrcenol', 0.7), ('Aldehyde C-12', 0.5)],
+        'aquatic': [('Calone', 0.95), ('Dihydromyrcenol', 0.7)],
+        'marine': [('Calone', 0.95), ('Helional', 0.8)],
+        'ozonic': [('Calone', 0.9), ('Floralozone', 0.75)],
+        
+        # Herbal keywords
+        'herbal': [('Linalool', 0.7), ('Thymol', 0.6), ('Carvacrol', 0.5)],
+        'mint': [('Menthol', 0.95), ('Menthone', 0.85), ('Menthyl acetate', 0.6)],
+        'basil': [('Linalool', 0.8), ('Estragole', 0.75), ('Eugenol', 0.5)],
+        'thyme': [('Thymol', 0.95), ('Carvacrol', 0.8)],
+        'rosemary': [('Camphor', 0.85), ('Cineole', 0.8), ('Pinene', 0.6)],
+        'sage': [('Thujone', 0.9), ('Camphor', 0.7)],
+        
+        # Musky keywords
+        'musk': [('Muscone', 0.9), ('Galaxolide', 0.85), ('Ambrettolide', 0.7)],
+        'musky': [('Muscone', 0.85), ('Galaxolide', 0.8)],
+        'amber': [('Ambroxide', 0.9), ('Labdanum', 0.75)],
+        'powdery': [('Heliotropin', 0.85), ('Ionone', 0.7), ('Coumarin', 0.65)],
+        
+        # Fruity keywords
+        'fruity': [('Ethyl butyrate', 0.7), ('Isoamyl acetate', 0.65)],
+        'apple': [('Ethyl-2-methylbutyrate', 0.9), ('Hexyl acetate', 0.75)],
+        'peach': [('Gamma-decalactone', 0.95), ('Gamma-undecalactone', 0.8)],
+        'berry': [('Ethyl butyrate', 0.8), ('Furaneol', 0.7)],
+        'tropical': [('Allyl hexanoate', 0.85), ('Ethyl butyrate', 0.7)],
+        'banana': [('Isoamyl acetate', 0.95), ('Amyl acetate', 0.8)],
+        'pear': [('Ethyl acetate', 0.85), ('Isoamyl acetate', 0.6)],
+    }
+    
+    def __init__(self, custom_rules: Optional[Dict] = None):
+        """
+        Initialize rule-based predictor.
+        
+        Args:
+            custom_rules: Additional custom rules to add
+        """
+        self.rules = self.RULES.copy()
+        if custom_rules:
+            self.rules.update(custom_rules)
+        
+        # Build chemical index
+        self.all_chemicals = set()
+        for mappings in self.rules.values():
+            for chem, _ in mappings:
+                self.all_chemicals.add(chem)
+    
+    def predict(self, description: str) -> Dict[str, float]:
+        """
+        Predict chemicals from description using keyword matching.
+        
+        Args:
+            description: Smell description
+            
+        Returns:
+            Dictionary of chemical -> confidence score
+        """
+        description = description.lower()
+        chemical_scores = defaultdict(float)
+        
+        for keyword, mappings in self.rules.items():
+            # Check for keyword in description
+            if re.search(r'\b' + keyword + r'\b', description):
+                for chemical, confidence in mappings:
+                    # Use max confidence if keyword appears multiple times
+                    chemical_scores[chemical] = max(
+                        chemical_scores[chemical], 
+                        confidence
+                    )
+        
+        return dict(sorted(
+            chemical_scores.items(), 
+            key=lambda x: x[1], 
+            reverse=True
+        ))
+    
+    def predict_top_k(self, description: str, k: int = 5) -> List[Dict]:
+        """
+        Predict top-k chemicals.
+        
+        Args:
+            description: Smell description
+            k: Number of predictions
+            
+        Returns:
+            List of prediction dictionaries
+        """
+        predictions = self.predict(description)
+        
+        results = []
+        for chemical, score in list(predictions.items())[:k]:
+            results.append({
+                'chemical': chemical,
+                'confidence': score
+            })
+        
+        return results
+    
+    def explain_prediction(self, description: str) -> Dict[str, List[str]]:
+        """
+        Explain which keywords triggered each prediction.
+        
+        Args:
+            description: Smell description
+            
+        Returns:
+            Dictionary mapping chemicals to triggering keywords
+        """
+        description = description.lower()
+        explanations = defaultdict(list)
+        
+        for keyword, mappings in self.rules.items():
+            if re.search(r'\b' + keyword + r'\b', description):
+                for chemical, _ in mappings:
+                    explanations[chemical].append(keyword)
+        
+        return dict(explanations)
+    
+    def add_rule(self, keyword: str, chemicals: List[Tuple[str, float]]) -> None:
+        """Add a new rule."""
+        self.rules[keyword.lower()] = chemicals
+        for chem, _ in chemicals:
+            self.all_chemicals.add(chem)
+    
+    def save_rules(self, filepath: str) -> None:
+        """Save rules to JSON file."""
+        with open(filepath, 'w') as f:
+            json.dump(self.rules, f, indent=2)
+    
+    def load_rules(self, filepath: str) -> None:
+        """Load rules from JSON file."""
+        with open(filepath, 'r') as f:
+            self.rules = json.load(f)
+        
+        self.all_chemicals = set()
+        for mappings in self.rules.values():
+            for chem, _ in mappings:
+                self.all_chemicals.add(chem)
+    
+    def get_chemical_keywords(self, chemical: str) -> List[str]:
+        """Get all keywords that map to a chemical."""
+        keywords = []
+        for keyword, mappings in self.rules.items():
+            for chem, _ in mappings:
+                if chem == chemical:
+                    keywords.append(keyword)
+                    break
+        return keywords
+
+
+if __name__ == '__main__':
+    predictor = RuleBasedPredictor()
+    
+    test_descriptions = [
+        "Fresh citrus with bergamot and lemon notes",
+        "Warm, woody, slightly sweet with sandalwood",
+        "Sweet vanilla with hints of caramel and toffee",
+        "Light floral notes of jasmine and rose"
+    ]
+    
+    for desc in test_descriptions:
+        print(f"\nDescription: {desc}")
+        predictions = predictor.predict_top_k(desc, k=5)
+        print("Predictions:")
+        for pred in predictions:
+            print(f"  {pred['chemical']}: {pred['confidence']:.0%}")
+        
+        print("Explanation:")
+        explanation = predictor.explain_prediction(desc)
+        for chem, keywords in list(explanation.items())[:3]:
+            print(f"  {chem} <- {keywords}")

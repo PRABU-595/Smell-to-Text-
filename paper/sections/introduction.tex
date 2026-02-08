@@ -1,0 +1,19 @@
+\section{Introduction}
+
+The perception of smell, or olfaction, plays a fundamental role in human experience, influencing memory, emotion, and behavior~\cite{yeshurun2010smell}. The fragrance industry relies heavily on expert perfumers who translate abstract scent descriptions into specific chemical formulations. However, this process requires years of training and remains largely opaque to computational approaches.
+
+Recent advances in natural language processing (NLP), particularly transformer-based models~\cite{vaswani2017attention, devlin2019bert}, have demonstrated remarkable success in understanding and generating text. We hypothesize that these models can learn the implicit mapping between smell descriptions and their underlying chemical compositions.
+
+\subsection{Problem Statement}
+
+Given a natural language description of a smell (e.g., ``fresh citrus with woody undertones''), our goal is to predict the set of chemical compounds most likely responsible for producing that olfactory experience. This is formulated as a multi-label classification problem where the input is text and the output is a ranked list of chemical compounds.
+
+\subsection{Contributions}
+
+This paper makes the following contributions:
+\begin{itemize}
+    \item We introduce a novel dataset mapping smell descriptions to chemical compounds, curated from multiple fragrance databases.
+    \item We propose NeoBERT-Smell, a transformer-based model adapted for the smell-to-molecule translation task.
+    \item We establish baseline comparisons with TF-IDF and rule-based approaches.
+    \item We conduct comprehensive evaluations including automated metrics and human expert assessment.
+\end{itemize}

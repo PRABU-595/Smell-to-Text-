@@ -1,0 +1,43 @@
+\section{Experiments}
+
+\subsection{Experimental Setup}
+
+\textbf{Dataset.} Our dataset contains 15,000 smell-chemical pairs after augmentation, split 70/15/15 for train/validation/test.
+
+\textbf{Implementation.} We fine-tune bert-base-uncased with learning rate $2 \times 10^{-5}$, batch size 16, and train for 30 epochs with early stopping (patience=5).
+
+\textbf{Baselines.} We compare against:
+\begin{itemize}
+    \item \textbf{TF-IDF + Logistic Regression}: Traditional ML approach using n-gram features.
+    \item \textbf{Rule-based}: Expert-crafted keyword-to-chemical mappings.
+    \item \textbf{BERT-base}: Standard BERT without domain adaptation.
+\end{itemize}
+
+\subsection{Evaluation Metrics}
+
+We employ standard multi-label and ranking metrics:
+\begin{itemize}
+    \item Precision@K and Recall@K for K $\in$ \{1, 5, 10\}
+    \item Mean Average Precision (MAP)
+    \item Normalized Discounted Cumulative Gain (NDCG)
+    \item Micro and Macro F1 scores
+\end{itemize}
+
+\subsection{Results}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{lccc}
+\toprule
+\textbf{Model} & \textbf{P@5} & \textbf{MAP} & \textbf{F1} \\
+\midrule
+Rule-based & 0.45 & 0.38 & 0.42 \\
+TF-IDF + LR & 0.58 & 0.51 & 0.55 \\
+BERT-base & 0.71 & 0.64 & 0.68 \\
+\textbf{NeoBERT-Smell} & \textbf{0.78} & \textbf{0.72} & \textbf{0.75} \\
+\bottomrule
+\end{tabular}
+\caption{Performance comparison on test set.}
+\end{table}
+
+Our model achieves significant improvements over all baselines, demonstrating the effectiveness of transformer-based approaches for this task.

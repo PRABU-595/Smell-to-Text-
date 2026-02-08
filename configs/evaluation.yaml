@@ -1,0 +1,27 @@
+# Evaluation Configuration
+evaluation:
+  batch_size: 32
+  threshold: 0.5
+  
+  # Metrics to compute
+  metrics:
+    - precision_at_k
+    - recall_at_k
+    - map
+    - ndcg
+    - f1_score
+  
+  # Top-k values
+  top_k: [1, 3, 5, 10, 20]
+  
+  # Output paths
+  output:
+    results: outputs/reports/evaluation_results.json
+    predictions: outputs/predictions/
+    visualizations: outputs/visualizations/
+
+# Human evaluation settings
+human_eval:
+  num_samples: 100
+  num_evaluators: 3
+  questions: standard

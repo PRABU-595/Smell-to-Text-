@@ -1,0 +1,39 @@
+# Data Configuration
+data:
+  raw_dir: data/raw
+  processed_dir: data/processed
+  augmented_dir: data/augmented
+  
+  # Data splits
+  train_ratio: 0.7
+  val_ratio: 0.15
+  test_ratio: 0.15
+  
+  # Preprocessing
+  max_description_length: 256
+  min_chemicals: 1
+  max_chemicals: 20
+
+# Scraping settings
+scraping:
+  fragrantica:
+    base_url: https://www.fragrantica.com
+    rate_limit: 2.0
+    max_pages: 100
+  
+  goodscents:
+    base_url: http://www.thegoodscentscompany.com
+    rate_limit: 2.0
+  
+  pubchem:
+    api_base: https://pubchem.ncbi.nlm.nih.gov/rest/pug
+    rate_limit: 0.5
+
+# Augmentation settings
+augmentation:
+  enabled: true
+  num_augmented: 3
+  techniques:
+    - synonym_replacement
+    - random_swap
+    - intensity_modification
