@@ -25,7 +25,7 @@ experiments/*/
 
 # Outputs
 outputs/predictions/
-outputs/visualizations/
+!outputs/visualizations/metrics/*.png
 
 # Jupyter
 .ipynb_checkpoints/
