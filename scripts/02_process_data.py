@@ -1,66 +1,110 @@
 #!/usr/bin/env python3
-"""Script to process raw data into training format."""
-import sys
-sys.path.append('.')
+"""
+Script 02: Process raw data into train/val/test splits.
+
+Reads the generated/scraped JSON data, cleans descriptions,
+maps chemicals to indices, and saves as CSV files ready for training.
+"""
+import sys, os
+sys.path.insert(0, os.path.abspath('.'))
 
 import json
 import pandas as pd
+import numpy as np
 from pathlib import Path
 from sklearn.model_selection import train_test_split
-from src.data.preprocessing.text_cleaner import TextCleaner
-from src.data.preprocessing.chemical_mapper import ChemicalMapper
+from src.data.dataset import CHEMICAL_LIST, CHEMICAL_TO_IDX
+
 
 def main():
-    print("Processing data...")
+    print("=" * 60)
+    print("Step 2: Processing raw data into training format")
+    print("=" * 60)
     
-    # Load raw data
     raw_dir = Path('data/raw')
     processed_dir = Path('data/processed')
-    processed_dir.mkdir(exist_ok=True)
+    processed_dir.mkdir(parents=True, exist_ok=True)
     
-    cleaner = TextCleaner()
-    mapper = ChemicalMapper()
+    # ---- Load raw data ----
+    raw_file = raw_dir / 'fragrantica' / 'perfumes_raw.json'
+    if not raw_file.exists():
+        print(f"ERROR: Raw data not found at {raw_file}")
+        print("Run  python scripts/01_scrape_data.py  first.")
+        sys.exit(1)
     
-    samples = []
+    with open(raw_file, 'r', encoding='utf-8') as f:
+        raw_samples = json.load(f)
     
-    # Process Fragrantica data
-    fragrantica_file = raw_dir / 'fragrantica/perfumes_raw.json'
-    if fragrantica_file.exists():
-        with open(fragrantica_file) as f:
-            perfumes = json.load(f)
+    print(f"Loaded {len(raw_samples)} raw samples")
+    
+    # ---- Clean & transform ----
+    rows = []
+    skipped = 0
+    for sample in raw_samples:
+        desc = sample.get('description', '').strip()
+        chems = sample.get('chemicals', [])
         
-        for p in perfumes:
-            desc = p.get('description', '') or ' '.join(p.get('notes', []))
-            if desc:
-                cleaned = cleaner.clean_description(desc)
-                chemicals = mapper.map_description(cleaned)
-                if chemicals:
-                    samples.append({'description': cleaned, 'chemicals': json.dumps(list(chemicals.keys()))})
+        # Skip empty descriptions
+        if not desc or len(desc) < 5:
+            skipped += 1
+            continue
+        
+        # Keep only chemicals that are in our index
+        valid_chems = []
+        for c in chems:
+            name = c if isinstance(c, str) else c.get('name', '')
+            if name in CHEMICAL_TO_IDX:
+                if isinstance(c, dict):
+                    valid_chems.append({'name': name, 'weight': c.get('weight', 1.0)})
+                else:
+                    valid_chems.append({'name': name, 'weight': 1.0})
+        
+        if not valid_chems:
+            skipped += 1
+            continue
+        
+        # Clean description
+        desc = desc.replace('\n', ' ').replace('\r', ' ')
+        desc = ' '.join(desc.split())  # normalize whitespace
+        
+        rows.append({
+            'description': desc,
+            'chemicals': json.dumps(valid_chems),
+        })
     
-    if not samples:
-        print("No data found. Creating sample data...")
-        samples = [
-            {'description': 'Fresh citrus bergamot lemon', 'chemicals': json.dumps(['Limonene', 'Citral'])},
-            {'description': 'Warm woody sandalwood cedar', 'chemicals': json.dumps(['Santalol', 'Cedrene'])},
-            {'description': 'Sweet vanilla caramel', 'chemicals': json.dumps(['Vanillin', 'Maltol'])},
-        ]
+    print(f"Valid samples: {len(rows)}  (skipped: {skipped})")
     
-    df = pd.DataFrame(samples)
+    if len(rows) < 10:
+        print("ERROR: Too few valid samples!")
+        sys.exit(1)
     
-    # Split data
-    train, temp = train_test_split(df, test_size=0.3, random_state=42)
-    val, test = train_test_split(temp, test_size=0.5, random_state=42)
+    df = pd.DataFrame(rows)
     
-    train.to_csv(processed_dir / 'train.csv', index=False)
-    val.to_csv(processed_dir / 'val.csv', index=False)
-    test.to_csv(processed_dir / 'test.csv', index=False)
+    # ---- Split data (70/15/15) ----
+    train_df, temp_df = train_test_split(df, test_size=0.30, random_state=42)
+    val_df, test_df = train_test_split(temp_df, test_size=0.50, random_state=42)
     
-    # Save statistics
-    stats = {'total': len(df), 'train': len(train), 'val': len(val), 'test': len(test)}
+    # Save
+    train_df.to_csv(processed_dir / 'train.csv', index=False)
+    val_df.to_csv(processed_dir / 'val.csv', index=False)
+    test_df.to_csv(processed_dir / 'test.csv', index=False)
+    
+    # ---- Statistics ----
+    stats = {
+        'total_samples': len(df),
+        'train': len(train_df),
+        'val': len(val_df),
+        'test': len(test_df),
+        'num_chemicals': len(CHEMICAL_LIST),
+        'chemical_list': CHEMICAL_LIST,
+    }
     with open(processed_dir / 'statistics.json', 'w') as f:
         json.dump(stats, f, indent=2)
     
-    print(f"Processed {len(df)} samples: train={len(train)}, val={len(val)}, test={len(test)}")
+    print(f"\n✓ Data saved to {processed_dir}/")
+    print(f"  Train: {len(train_df)} | Val: {len(val_df)} | Test: {len(test_df)}")
+    print(f"  Chemical classes: {len(CHEMICAL_LIST)}")
+
 
 if __name__ == '__main__':
     main()

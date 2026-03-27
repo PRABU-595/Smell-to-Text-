@@ -1,21 +1,37 @@
 #!/bin/bash
-# Run full pipeline
+# Smell-to-Molecule: Full Pipeline
+# Run all steps sequentially
+set -e
 
-echo "=== Smell-to-Molecule Pipeline ==="
+echo "================================================"
+echo "  Smell-to-Molecule Full Pipeline"
+echo "================================================"
 
-echo "Step 1: Scraping data..."
-python scripts/01_scrape_data.py
+cd "$(dirname "$0")/.."
 
-echo "Step 2: Processing data..."
+echo ""
+echo "[1/5] Generating dataset..."
+python scripts/01_scrape_data.py --n_samples 5000
+
+echo ""
+echo "[2/5] Processing data..."
 python scripts/02_process_data.py
 
-echo "Step 3: Training model..."
-python scripts/03_train_model.py
+echo ""
+echo "[3/5] Training models..."
+python scripts/03_train_model.py --epochs 5 --batch_size 8 --patience 3
 
-echo "Step 4: Evaluating..."
+echo ""
+echo "[4/5] Evaluating models..."
 python scripts/04_evaluate.py
 
-echo "Step 5: Generating predictions..."
+echo ""
+echo "[5/5] Generating predictions..."
 python scripts/05_generate_predictions.py
 
-echo "=== Pipeline complete! ==="
+echo ""
+echo "================================================"
+echo "  Pipeline complete!"
+echo "  Results: outputs/reports/evaluation_results.json"
+echo "  Predictions: outputs/predictions/predictions.json"
+echo "================================================"

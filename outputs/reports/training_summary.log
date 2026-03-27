@@ -1,0 +1,37 @@
+============================================================
+Training TF-IDF Baseline
+============================================================
+  Val Macro F1: 0.6593
+  Val Micro F1: 0.8729
+  Val P@5: 0.6750
+  Val R@5: 0.9565
+  ✓ Saved TF-IDF model
+
+============================================================
+Training NeoBERT on Odor Family Prediction
+Classes: 72 odor families
+============================================================
+Device: cpu
+Train samples: 4796, Val samples: 1027
+Train batches: 300, Val batches: 65
+
+Epoch 1/10
+----------------------------------------
+  Train Loss: 0.9583
+  Val Loss:   0.0459
+  Val Macro F1: 0.9580
+  Val Micro F1: 0.9696
+  Val P@5:      0.6775
+  Val R@5:      0.9616
+  ✓ New best model! F1=0.9580
+
+----------------------------------------
+Training complete. Best Macro F1: 0.9580
+----------------------------------------
+
+============================================================
+TRAINING SUMMARY
+============================================================
+TF-IDF  — Macro F1: 0.6593, P@5: 0.6750
+NeoBERT — Best Macro F1: 0.9580
+All training complete!

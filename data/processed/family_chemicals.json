@@ -1,0 +1,5546 @@
+{
+  "sweet_vanilla": [
+    {
+      "cas": "100-06-1",
+      "name": "100-06-1",
+      "descriptors": "sweet;vanilla;cherry maraschino cherry;powdery;anisic;balsamic;hawthorn;acacia"
+    },
+    {
+      "cas": "10024-57-4",
+      "name": "10024-57-4",
+      "descriptors": "sweet;vanilla;floral;nutty;oily;balsamic"
+    },
+    {
+      "cas": "104-21-2",
+      "name": "104-21-2",
+      "descriptors": "sweet;vanilla;plum;fruity;powdery;cherry;balsam;tonka"
+    },
+    {
+      "cas": "108-46-3",
+      "name": "108-46-3",
+      "descriptors": "musty;vanilla;nutty;phenolic;creamy;hawthorn"
+    },
+    {
+      "cas": "1080-12-2",
+      "name": "1080-12-2",
+      "descriptors": "sweet;vanilla;powdery;creamy;balsamic"
+    },
+    {
+      "cas": "1124-11-4",
+      "name": "1124-11-4",
+      "descriptors": "lard;musty;vanilla;dry;cocoa;nutty;coffee;burnt;brown;chocolate"
+    },
+    {
+      "cas": "119-53-9",
+      "name": "119-53-9",
+      "descriptors": "medicinal;vanilla;camphoreous;balsamic"
+    },
+    {
+      "cas": "119-84-6",
+      "name": "119-84-6",
+      "descriptors": "sweet;vanilla;spicy;cinnamon;herbal;coconut;creamy;coumarinic;balsamic;tonka"
+    },
+    {
+      "cas": "120-14-9",
+      "name": "120-14-9",
+      "descriptors": "sweet;vanilla;herbal;powdery;creamy;phenolic;woody"
+    },
+    {
+      "cas": "120-25-2",
+      "name": "120-25-2",
+      "descriptors": "sweet;vanilla;powdery;floral"
+    },
+    {
+      "cas": "120-57-0",
+      "name": "120-57-0",
+      "descriptors": "sweet;vanilla;almond bitter almond;custard;spicy;floral;cherry maraschino cherry;cinnamyl;creamy;cherry;tropical"
+    },
+    {
+      "cas": "121-32-4",
+      "name": "121-32-4",
+      "descriptors": "sweet;vanilla;creamy;caramel"
+    },
+    {
+      "cas": "121-33-5",
+      "name": "121-33-5",
+      "descriptors": "sweet;vanilla;creamy;chocolate"
+    },
+    {
+      "cas": "121-34-6",
+      "name": "121-34-6",
+      "descriptors": "sweet;vanilla;custard;powdery;creamy;phenolic;brown;milky;beany;dairy"
+    },
+    {
+      "cas": "122-00-9",
+      "name": "122-00-9",
+      "descriptors": "sweet;vanilla;naphthyl;floral;acacia;powdery;mimosa;coumarinic;hawthorn;cherry"
+    }
+  ],
+  "powdery": [
+    {
+      "cas": "100-06-1",
+      "name": "100-06-1",
+      "descriptors": "sweet;vanilla;cherry maraschino cherry;powdery;anisic;balsamic;hawthorn;acacia"
+    },
+    {
+      "cas": "100-52-7",
+      "name": "100-52-7",
+      "descriptors": "sweet;cherry;cherry maraschino cherry;nutty;fruity;powdery;almond;bitter;sharp"
+    },
+    {
+      "cas": "10031-71-7",
+      "name": "10031-71-7",
+      "descriptors": "raisin;plum;floral;honey;fruity;powdery;green;geranium;tropical;papaya"
+    },
+    {
+      "cas": "102-04-5",
+      "name": "102-04-5",
+      "descriptors": "sweet;almond bitter almond;seedy;floral;plastic;honey;rose;powdery;cherry"
+    },
+    {
+      "cas": "102-20-5",
+      "name": "102-20-5",
+      "descriptors": "sweet;fatty;floral;honey;rose;powdery;cinnamyl;balsamic;green"
+    },
+    {
+      "cas": "103-28-6",
+      "name": "103-28-6",
+      "descriptors": "sweet;juicy;floral;rose;fruity;oily;powdery;jasmin;tropical;woody"
+    },
+    {
+      "cas": "103-36-6",
+      "name": "103-36-6",
+      "descriptors": "sweet;spicy;plum;berry;fruity;powdery;balsam"
+    },
+    {
+      "cas": "103-38-8",
+      "name": "103-38-8",
+      "descriptors": "sweet;musty;herbal;fruity;pineapple;apple;powdery"
+    },
+    {
+      "cas": "103-41-3Z",
+      "name": "103-41-3Z",
+      "descriptors": "sweet;spicy;floral;fruity;powdery;balsamic;cherry"
+    },
+    {
+      "cas": "103-60-6",
+      "name": "103-60-6",
+      "descriptors": "sweet;rose;honey;floral;fruity;apple;powdery;green;tropical;waxy"
+    },
+    {
+      "cas": "103-82-2",
+      "name": "103-82-2",
+      "descriptors": "sweet;animal;sour;floral;honey;rose;civet;powdery;tobacco;honeysuckle;chocolate;waxy"
+    },
+    {
+      "cas": "104-21-2",
+      "name": "104-21-2",
+      "descriptors": "sweet;vanilla;plum;fruity;powdery;cherry;balsam;tonka"
+    },
+    {
+      "cas": "104-54-1",
+      "name": "104-54-1",
+      "descriptors": "sweet;fermented;spicy;cinnamon;floral;powdery;cinnamyl;balsamic;green;hyacinth"
+    },
+    {
+      "cas": "104-55-2",
+      "name": "104-55-2",
+      "descriptors": "sweet;aldehydic;resinous;spicy;cinnamon;cassia;honey;cinnamyl;powdery;balsamic;aromatic"
+    },
+    {
+      "cas": "104-93-8",
+      "name": "104-93-8",
+      "descriptors": "naphthyl;ylang;nutty;cresol;powdery"
+    }
+  ],
+  "sweet": [
+    {
+      "cas": "100-06-1",
+      "name": "100-06-1",
+      "descriptors": "sweet;vanilla;cherry maraschino cherry;powdery;anisic;balsamic;hawthorn;acacia"
+    },
+    {
+      "cas": "100-42-5",
+      "name": "100-42-5",
+      "descriptors": "sweet;plastic;floral;balsamic"
+    },
+    {
+      "cas": "100-51-6",
+      "name": "100-51-6",
+      "descriptors": "sweet;floral;rose;fruity;phenolic;balsamic;chemical"
+    },
+    {
+      "cas": "100-52-7",
+      "name": "100-52-7",
+      "descriptors": "sweet;cherry;cherry maraschino cherry;nutty;fruity;powdery;almond;bitter;sharp"
+    },
+    {
+      "cas": "10024-56-3E",
+      "name": "10024-56-3E",
+      "descriptors": "sweet;winey;nutmeg;balsamic"
+    },
+    {
+      "cas": "10024-57-4",
+      "name": "10024-57-4",
+      "descriptors": "sweet;vanilla;floral;nutty;oily;balsamic"
+    },
+    {
+      "cas": "10024-64-3",
+      "name": "10024-64-3",
+      "descriptors": "dry;sweet;natural;herbal;fruity;green"
+    },
+    {
+      "cas": "10031-82-0",
+      "name": "10031-82-0",
+      "descriptors": "sweet;anisic;floral;spicy"
+    },
+    {
+      "cas": "10031-87-5",
+      "name": "10031-87-5",
+      "descriptors": "sweet;musty;banana;fruity;oily;ethereal"
+    },
+    {
+      "cas": "10031-90-0",
+      "name": "10031-90-0",
+      "descriptors": "sweet;rummy;cooked;ripe;horseradish;fruity;pineapple;jammy;balsamic;acrylate"
+    },
+    {
+      "cas": "10031-93-3",
+      "name": "10031-93-3",
+      "descriptors": "sweet;fruity;plum"
+    },
+    {
+      "cas": "10032-00-5",
+      "name": "10032-00-5",
+      "descriptors": "sweet;fermented;fruity;winey;apple skin"
+    },
+    {
+      "cas": "10032-11-8",
+      "name": "10032-11-8",
+      "descriptors": "sweet;apple;apple green apple;green"
+    },
+    {
+      "cas": "10032-13-0",
+      "name": "10032-13-0",
+      "descriptors": "sweet;juicy;strawberry;fruity;apple;skin;fresh;green;apple skin"
+    },
+    {
+      "cas": "10039-39-1",
+      "name": "10039-39-1",
+      "descriptors": "sweet;fruity;floral"
+    }
+  ],
+  "balsamic": [
+    {
+      "cas": "100-06-1",
+      "name": "100-06-1",
+      "descriptors": "sweet;vanilla;cherry maraschino cherry;powdery;anisic;balsamic;hawthorn;acacia"
+    },
+    {
+      "cas": "100-42-5",
+      "name": "100-42-5",
+      "descriptors": "sweet;plastic;floral;balsamic"
+    },
+    {
+      "cas": "100-51-6",
+      "name": "100-51-6",
+      "descriptors": "sweet;floral;rose;fruity;phenolic;balsamic;chemical"
+    },
+    {
+      "cas": "10024-56-3E",
+      "name": "10024-56-3E",
+      "descriptors": "sweet;winey;nutmeg;balsamic"
+    },
+    {
+      "cas": "10024-57-4",
+      "name": "10024-57-4",
+      "descriptors": "sweet;vanilla;floral;nutty;oily;balsamic"
+    },
+    {
+      "cas": "10031-90-0",
+      "name": "10031-90-0",
+      "descriptors": "sweet;rummy;cooked;ripe;horseradish;fruity;pineapple;jammy;balsamic;acrylate"
+    },
+    {
+      "cas": "1009-14-9",
+      "name": "1009-14-9",
+      "descriptors": "balsamic;valerian root"
+    },
+    {
+      "cas": "101-39-3",
+      "name": "101-39-3",
+      "descriptors": "sweet;spicy;warm;cinnamon;cassia;balsamic"
+    },
+    {
+      "cas": "101-97-3",
+      "name": "101-97-3",
+      "descriptors": "sweet;chocolate dark chocolate;floral;honey;rose;cocoa;anisic;balsamic;licorice black licorice"
+    },
+    {
+      "cas": "102-17-0",
+      "name": "102-17-0",
+      "descriptors": "anise;honey;anisic;balsamic;woody"
+    },
+    {
+      "cas": "102-19-2",
+      "name": "102-19-2",
+      "descriptors": "sweet;animal;floral;honey;rose;cocoa;balsamic;castoreum;chocolate"
+    },
+    {
+      "cas": "102-20-5",
+      "name": "102-20-5",
+      "descriptors": "sweet;fatty;floral;honey;rose;powdery;cinnamyl;balsamic;green"
+    },
+    {
+      "cas": "10236-16-5",
+      "name": "10236-16-5",
+      "descriptors": "floral;orchid;fruity;oily;balsamic;green;waxy"
+    },
+    {
+      "cas": "103-07-1",
+      "name": "103-07-1",
+      "descriptors": "sweet;leafy;floral;rose;balsamic;green;narcissus"
+    },
+    {
+      "cas": "103-25-3",
+      "name": "103-25-3",
+      "descriptors": "floral;honey;fruity;winey;balsamic"
+    }
+  ],
+  "fruity_cherry": [
+    {
+      "cas": "100-06-1",
+      "name": "100-06-1",
+      "descriptors": "sweet;vanilla;cherry maraschino cherry;powdery;anisic;balsamic;hawthorn;acacia"
+    },
+    {
+      "cas": "100-52-7",
+      "name": "100-52-7",
+      "descriptors": "sweet;cherry;cherry maraschino cherry;nutty;fruity;powdery;almond;bitter;sharp"
+    },
+    {
+      "cas": "102-04-5",
+      "name": "102-04-5",
+      "descriptors": "sweet;almond bitter almond;seedy;floral;plastic;honey;rose;powdery;cherry"
+    },
+    {
+      "cas": "103-26-4",
+      "name": "103-26-4",
+      "descriptors": "sweet;strawberry;cinnamyl;balsamic;cherry"
+    },
+    {
+      "cas": "103-41-3Z",
+      "name": "103-41-3Z",
+      "descriptors": "sweet;spicy;floral;fruity;powdery;balsamic;cherry"
+    },
+    {
+      "cas": "103-50-4",
+      "name": "103-50-4",
+      "descriptors": "sweet;mushroom;rose;plastic;fruity;cherry;earthy"
+    },
+    {
+      "cas": "103-56-0",
+      "name": "103-56-0",
+      "descriptors": "sweet;spicy;bubble gum;grape;floral;fruity;balsamic;green;cherry"
+    },
+    {
+      "cas": "104-09-6",
+      "name": "104-09-6",
+      "descriptors": "sweet;cortex;lilac;nutty;fruity;phenolic;green;cherry;narcissus"
+    },
+    {
+      "cas": "104-20-1",
+      "name": "104-20-1",
+      "descriptors": "sweet;absolute;rose;fruity;dried;cassie;raspberry;cherry"
+    },
+    {
+      "cas": "104-21-2",
+      "name": "104-21-2",
+      "descriptors": "sweet;vanilla;plum;fruity;powdery;cherry;balsam;tonka"
+    },
+    {
+      "cas": "104-57-4",
+      "name": "104-57-4",
+      "descriptors": "cherry;spicy;floral;cranberry;fruity;almond;tea black tea;chemical"
+    },
+    {
+      "cas": "104-87-0",
+      "name": "104-87-0",
+      "descriptors": "phenolic;deep;fruity;cherry"
+    },
+    {
+      "cas": "105-13-5",
+      "name": "105-13-5",
+      "descriptors": "sweet;lilac;rose;floral;powdery;creamy;balsamic;coumarinic;cherry;licorice;hawthorn;hyacinth;lactonic"
+    },
+    {
+      "cas": "107-02-8",
+      "name": "107-02-8",
+      "descriptors": "cherry;fruity;almond"
+    },
+    {
+      "cas": "107-86-8",
+      "name": "107-86-8",
+      "descriptors": "sweet;cherry;nutty;fruity;brown;almond;pungent"
+    }
+  ],
+  "spicy_anise": [
+    {
+      "cas": "100-06-1",
+      "name": "100-06-1",
+      "descriptors": "sweet;vanilla;cherry maraschino cherry;powdery;anisic;balsamic;hawthorn;acacia"
+    },
+    {
+      "cas": "100-66-3",
+      "name": "100-66-3",
+      "descriptors": "gasoline;anise;phenolic;ethereal"
+    },
+    {
+      "cas": "10031-82-0",
+      "name": "10031-82-0",
+      "descriptors": "sweet;anisic;floral;spicy"
+    },
+    {
+      "cas": "1006-27-5",
+      "name": "1006-27-5",
+      "descriptors": "earthy;animal;floral;anisic;hawthorn;minty"
+    },
+    {
+      "cas": "101-97-3",
+      "name": "101-97-3",
+      "descriptors": "sweet;chocolate dark chocolate;floral;honey;rose;cocoa;anisic;balsamic;licorice black licorice"
+    },
+    {
+      "cas": "102-17-0",
+      "name": "102-17-0",
+      "descriptors": "anise;honey;anisic;balsamic;woody"
+    },
+    {
+      "cas": "104-45-0",
+      "name": "104-45-0",
+      "descriptors": "sweet;root beer;anise;herbal;sassafrass;anisic;licorice;licorice black licorice;fennel"
+    },
+    {
+      "cas": "104-46-1",
+      "name": "104-46-1",
+      "descriptors": "sweet;anise;medicinal;licorice"
+    },
+    {
+      "cas": "10415-87-9",
+      "name": "10415-87-9",
+      "descriptors": "sweet;lilac;floral;peony;anisic;fresh;narcissus;earthy"
+    },
+    {
+      "cas": "104986-28-9",
+      "name": "104986-28-9",
+      "descriptors": "floral;fruity;anisic;fresh;raspberry;jasmin"
+    },
+    {
+      "cas": "1115-11-3",
+      "name": "1115-11-3",
+      "descriptors": "nutty;fruity;anisic;green;ethereal;pungent;sharp"
+    },
+    {
+      "cas": "111753-62-9",
+      "name": "111753-62-9",
+      "descriptors": "sweet;anise;spicy;cortex;floral;powdery;mimosa;green;hawthorn"
+    },
+    {
+      "cas": "1126-79-0",
+      "name": "1126-79-0",
+      "descriptors": "anise;licorice"
+    },
+    {
+      "cas": "119-65-3",
+      "name": "119-65-3",
+      "descriptors": "sweet;anise;almond bitter almond;herbal;balsamic"
+    },
+    {
+      "cas": "121-97-1",
+      "name": "121-97-1",
+      "descriptors": "musty;anisic"
+    }
+  ],
+  "floral": [
+    {
+      "cas": "100-06-1",
+      "name": "100-06-1",
+      "descriptors": "sweet;vanilla;cherry maraschino cherry;powdery;anisic;balsamic;hawthorn;acacia"
+    },
+    {
+      "cas": "100-42-5",
+      "name": "100-42-5",
+      "descriptors": "sweet;plastic;floral;balsamic"
+    },
+    {
+      "cas": "100-51-6",
+      "name": "100-51-6",
+      "descriptors": "sweet;floral;rose;fruity;phenolic;balsamic;chemical"
+    },
+    {
+      "cas": "100-84-5",
+      "name": "100-84-5",
+      "descriptors": "floral;narcissus"
+    },
+    {
+      "cas": "100-86-7",
+      "name": "100-86-7",
+      "descriptors": "clean;rhubarb;cortex;floral;rose;oily;green"
+    },
+    {
+      "cas": "10022-28-3",
+      "name": "10022-28-3",
+      "descriptors": "leafy;floral;rose;violet;ozone;green;citrus"
+    },
+    {
+      "cas": "10024-57-4",
+      "name": "10024-57-4",
+      "descriptors": "sweet;vanilla;floral;nutty;oily;balsamic"
+    },
+    {
+      "cas": "10031-71-7",
+      "name": "10031-71-7",
+      "descriptors": "raisin;plum;floral;honey;fruity;powdery;green;geranium;tropical;papaya"
+    },
+    {
+      "cas": "10031-82-0",
+      "name": "10031-82-0",
+      "descriptors": "sweet;anisic;floral;spicy"
+    },
+    {
+      "cas": "10031-86-4",
+      "name": "10031-86-4",
+      "descriptors": "plum;floral;fruity;apricot;jasmin"
+    },
+    {
+      "cas": "10031-92-2",
+      "name": "10031-92-2",
+      "descriptors": "floral;cucumber;violet leaf;green"
+    },
+    {
+      "cas": "10032-02-7",
+      "name": "10032-02-7",
+      "descriptors": "floral;rose;fruity;geranium;waxy"
+    },
+    {
+      "cas": "10032-08-3",
+      "name": "10032-08-3",
+      "descriptors": "leafy;hyacinth;green"
+    },
+    {
+      "cas": "10039-39-1",
+      "name": "10039-39-1",
+      "descriptors": "sweet;fruity;floral"
+    },
+    {
+      "cas": "1006-27-5",
+      "name": "1006-27-5",
+      "descriptors": "earthy;animal;floral;anisic;hawthorn;minty"
+    }
+  ],
+  "smoky_phenolic": [
+    {
+      "cas": "100-09-4",
+      "name": "100-09-4",
+      "descriptors": "phenolic;animal;fecal;medicinal"
+    },
+    {
+      "cas": "100-51-6",
+      "name": "100-51-6",
+      "descriptors": "sweet;floral;rose;fruity;phenolic;balsamic;chemical"
+    },
+    {
+      "cas": "100-66-3",
+      "name": "100-66-3",
+      "descriptors": "gasoline;anise;phenolic;ethereal"
+    },
+    {
+      "cas": "101-84-8",
+      "name": "101-84-8",
+      "descriptors": "geranium;phenolic;leaf;green"
+    },
+    {
+      "cas": "104-09-6",
+      "name": "104-09-6",
+      "descriptors": "sweet;cortex;lilac;nutty;fruity;phenolic;green;cherry;narcissus"
+    },
+    {
+      "cas": "104-87-0",
+      "name": "104-87-0",
+      "descriptors": "phenolic;deep;fruity;cherry"
+    },
+    {
+      "cas": "106-44-5",
+      "name": "106-44-5",
+      "descriptors": "narcissus;animal;phenolic;mimosa"
+    },
+    {
+      "cas": "108-39-4",
+      "name": "108-39-4",
+      "descriptors": "woody;phenolic;medicinal;leathery"
+    },
+    {
+      "cas": "108-46-3",
+      "name": "108-46-3",
+      "descriptors": "musty;vanilla;nutty;phenolic;creamy;hawthorn"
+    },
+    {
+      "cas": "108-47-4",
+      "name": "108-47-4",
+      "descriptors": "smoky;phenolic"
+    },
+    {
+      "cas": "108-93-0",
+      "name": "108-93-0",
+      "descriptors": "camphoreous;phenolic;mentholic"
+    },
+    {
+      "cas": "108-95-2",
+      "name": "108-95-2",
+      "descriptors": "plastic;phenolic;rubbery"
+    },
+    {
+      "cas": "108-98-5",
+      "name": "108-98-5",
+      "descriptors": "meaty;rubbery;sulfurous;garlic;alliaceous;phenolic"
+    },
+    {
+      "cas": "116-26-7",
+      "name": "116-26-7",
+      "descriptors": "metallic;spicy;medicinal;herbal;camphoreous;powdery;phenolic;fresh;tobacco;woody;rosemary"
+    },
+    {
+      "cas": "118-72-9",
+      "name": "118-72-9",
+      "descriptors": "metallic;meaty;sulfurous;smoky;phenolic;roasted"
+    }
+  ],
+  "medicinal": [
+    {
+      "cas": "100-09-4",
+      "name": "100-09-4",
+      "descriptors": "phenolic;animal;fecal;medicinal"
+    },
+    {
+      "cas": "104-46-1",
+      "name": "104-46-1",
+      "descriptors": "sweet;anise;medicinal;licorice"
+    },
+    {
+      "cas": "105463-44-3",
+      "name": "105463-44-3",
+      "descriptors": "herbal;rooty;camphoreous;patchouli;woody;earthy"
+    },
+    {
+      "cas": "108-39-4",
+      "name": "108-39-4",
+      "descriptors": "woody;phenolic;medicinal;leathery"
+    },
+    {
+      "cas": "108-93-0",
+      "name": "108-93-0",
+      "descriptors": "camphoreous;phenolic;mentholic"
+    },
+    {
+      "cas": "108576-21-2",
+      "name": "108576-21-2",
+      "descriptors": "spicy;medicinal;cinnamon;cassia;herbal;woody"
+    },
+    {
+      "cas": "111-30-8",
+      "name": "111-30-8",
+      "descriptors": "fruity;pungent;medicinal"
+    },
+    {
+      "cas": "116-26-7",
+      "name": "116-26-7",
+      "descriptors": "metallic;spicy;medicinal;herbal;camphoreous;powdery;phenolic;fresh;tobacco;woody;rosemary"
+    },
+    {
+      "cas": "119-36-8",
+      "name": "119-36-8",
+      "descriptors": "sweet;root beer;camphoreous;phenolic;minty;wintergreen;aromatic"
+    },
+    {
+      "cas": "119-53-9",
+      "name": "119-53-9",
+      "descriptors": "medicinal;vanilla;camphoreous;balsamic"
+    },
+    {
+      "cas": "1196-01-6",
+      "name": "1196-01-6",
+      "descriptors": "camphoreous;minty;spicy"
+    },
+    {
+      "cas": "1197-01-9",
+      "name": "1197-01-9",
+      "descriptors": "sweet;floral;fruity;camphoreous;cooling;coumarinic;cherry"
+    },
+    {
+      "cas": "1200-67-5",
+      "name": "1200-67-5",
+      "descriptors": "musty;earthy;medicinal;camphoreous;cooling;balsamic;woody;minty"
+    },
+    {
+      "cas": "122-79-2",
+      "name": "122-79-2",
+      "descriptors": "animal;resinous;medicinal;smoky;burnt;phenolic;castoreum;woody"
+    },
+    {
+      "cas": "123-32-0",
+      "name": "123-32-0",
+      "descriptors": "musty;medicinal;cocoa;nutty;grassy;peanut;powdery;beefy roasted beefy;roasted;woody;earthy;chocolate"
+    }
+  ],
+  "animal": [
+    {
+      "cas": "100-09-4",
+      "name": "100-09-4",
+      "descriptors": "phenolic;animal;fecal;medicinal"
+    },
+    {
+      "cas": "1006-27-5",
+      "name": "1006-27-5",
+      "descriptors": "earthy;animal;floral;anisic;hawthorn;minty"
+    },
+    {
+      "cas": "101-94-0",
+      "name": "101-94-0",
+      "descriptors": "animal;rose;honey;narcissus;lily;hyacinth"
+    },
+    {
+      "cas": "102-19-2",
+      "name": "102-19-2",
+      "descriptors": "sweet;animal;floral;honey;rose;cocoa;balsamic;castoreum;chocolate"
+    },
+    {
+      "cas": "103-82-2",
+      "name": "103-82-2",
+      "descriptors": "sweet;animal;sour;floral;honey;rose;civet;powdery;tobacco;honeysuckle;chocolate;waxy"
+    },
+    {
+      "cas": "103-93-5",
+      "name": "103-93-5",
+      "descriptors": "animal;floral;fruity;green;narcissus;lily"
+    },
+    {
+      "cas": "10403-00-6",
+      "name": "10403-00-6",
+      "descriptors": "powdery;animal;musk"
+    },
+    {
+      "cas": "105-43-1",
+      "name": "105-43-1",
+      "descriptors": "animal;sweaty;fruity;acidic;green;cheesy;sharp"
+    },
+    {
+      "cas": "105-66-8",
+      "name": "105-66-8",
+      "descriptors": "sweet;rancid;sweaty;bubble gum;fruity;pineapple;apricot;ethereal;tutti frutti"
+    },
+    {
+      "cas": "106-02-5",
+      "name": "106-02-5",
+      "descriptors": "natural;animal;fruity;powdery;tobacco;coumarinic;licorice;brown;heliotrope;musk"
+    },
+    {
+      "cas": "106-44-5",
+      "name": "106-44-5",
+      "descriptors": "narcissus;animal;phenolic;mimosa"
+    },
+    {
+      "cas": "109-06-8",
+      "name": "109-06-8",
+      "descriptors": "sweat"
+    },
+    {
+      "cas": "109-29-5",
+      "name": "109-29-5",
+      "descriptors": "sweet;animal;amber;balsamic;musk"
+    },
+    {
+      "cas": "109-52-4",
+      "name": "109-52-4",
+      "descriptors": "rancid;sweaty;sour;fruity;acidic;tobacco;milky;cheesy;sharp"
+    },
+    {
+      "cas": "110-60-1",
+      "name": "110-60-1",
+      "descriptors": "fish;animal;rotting"
+    }
+  ],
+  "ethereal": [
+    {
+      "cas": "100-51-6",
+      "name": "100-51-6",
+      "descriptors": "sweet;floral;rose;fruity;phenolic;balsamic;chemical"
+    },
+    {
+      "cas": "100-66-3",
+      "name": "100-66-3",
+      "descriptors": "gasoline;anise;phenolic;ethereal"
+    },
+    {
+      "cas": "10031-87-5",
+      "name": "10031-87-5",
+      "descriptors": "sweet;musty;banana;fruity;oily;ethereal"
+    },
+    {
+      "cas": "104-57-4",
+      "name": "104-57-4",
+      "descriptors": "cherry;spicy;floral;cranberry;fruity;almond;tea black tea;chemical"
+    },
+    {
+      "cas": "105-37-3",
+      "name": "105-37-3",
+      "descriptors": "sweet;fermented;juicy;rummy;grape;fruity;winey;pineapple;ethereal;egg nog"
+    },
+    {
+      "cas": "105-57-7",
+      "name": "105-57-7",
+      "descriptors": "sweet;vegetable;nutty;green;ethereal;earthy"
+    },
+    {
+      "cas": "105-66-8",
+      "name": "105-66-8",
+      "descriptors": "sweet;rancid;sweaty;bubble gum;fruity;pineapple;apricot;ethereal;tutti frutti"
+    },
+    {
+      "cas": "10588-10-0",
+      "name": "10588-10-0",
+      "descriptors": "fruity;ethereal"
+    },
+    {
+      "cas": "106-36-5",
+      "name": "106-36-5",
+      "descriptors": "sweet;fruity;pineapple;winey;chemical;pungent;sharp"
+    },
+    {
+      "cas": "106-70-7",
+      "name": "106-70-7",
+      "descriptors": "bacon;banana;strawberry;fruity;pineapple;apricot;ethereal;fruit tropical fruit"
+    },
+    {
+      "cas": "107-87-9",
+      "name": "107-87-9",
+      "descriptors": "sweet;fermented;banana;fruity;winey;ethereal;woody"
+    },
+    {
+      "cas": "108-21-4",
+      "name": "108-21-4",
+      "descriptors": "sweet;banana;fruity;ethereal;chemical"
+    },
+    {
+      "cas": "108-22-5",
+      "name": "108-22-5",
+      "descriptors": "sweet;grape skin;berry;acetic;fruity;ethereal"
+    },
+    {
+      "cas": "108-50-9",
+      "name": "108-50-9",
+      "descriptors": "cocoa;buttermilk;nutty;coffee;beefy;brown;ethereal;roasted;chocolate;meaty roasted meaty"
+    },
+    {
+      "cas": "108-82-7",
+      "name": "108-82-7",
+      "descriptors": "fermented;yeasty;fresh;ethereal"
+    }
+  ],
+  "floral_rose": [
+    {
+      "cas": "100-51-6",
+      "name": "100-51-6",
+      "descriptors": "sweet;floral;rose;fruity;phenolic;balsamic;chemical"
+    },
+    {
+      "cas": "100-86-7",
+      "name": "100-86-7",
+      "descriptors": "clean;rhubarb;cortex;floral;rose;oily;green"
+    },
+    {
+      "cas": "10022-28-3",
+      "name": "10022-28-3",
+      "descriptors": "leafy;floral;rose;violet;ozone;green;citrus"
+    },
+    {
+      "cas": "10032-02-7",
+      "name": "10032-02-7",
+      "descriptors": "floral;rose;fruity;geranium;waxy"
+    },
+    {
+      "cas": "101-94-0",
+      "name": "101-94-0",
+      "descriptors": "animal;rose;honey;narcissus;lily;hyacinth"
+    },
+    {
+      "cas": "101-97-3",
+      "name": "101-97-3",
+      "descriptors": "sweet;chocolate dark chocolate;floral;honey;rose;cocoa;anisic;balsamic;licorice black licorice"
+    },
+    {
+      "cas": "10138-63-3",
+      "name": "10138-63-3",
+      "descriptors": "floral;sweet;rose"
+    },
+    {
+      "cas": "102-04-5",
+      "name": "102-04-5",
+      "descriptors": "sweet;almond bitter almond;seedy;floral;plastic;honey;rose;powdery;cherry"
+    },
+    {
+      "cas": "102-16-9",
+      "name": "102-16-9",
+      "descriptors": "sweet;floral;rose;cocoa;jasmin"
+    },
+    {
+      "cas": "102-19-2",
+      "name": "102-19-2",
+      "descriptors": "sweet;animal;floral;honey;rose;cocoa;balsamic;castoreum;chocolate"
+    },
+    {
+      "cas": "102-20-5",
+      "name": "102-20-5",
+      "descriptors": "sweet;fatty;floral;honey;rose;powdery;cinnamyl;balsamic;green"
+    },
+    {
+      "cas": "103-05-9",
+      "name": "103-05-9",
+      "descriptors": "clean;floral;rose;violet;fresh;bois de rose;green;lily"
+    },
+    {
+      "cas": "103-07-1",
+      "name": "103-07-1",
+      "descriptors": "sweet;leafy;floral;rose;balsamic;green;narcissus"
+    },
+    {
+      "cas": "103-28-6",
+      "name": "103-28-6",
+      "descriptors": "sweet;juicy;floral;rose;fruity;oily;powdery;jasmin;tropical;woody"
+    },
+    {
+      "cas": "103-45-7",
+      "name": "103-45-7",
+      "descriptors": "sweet;yeasty;floral;honey;rose;fruity;cocoa;balsamic;tropical"
+    }
+  ],
+  "fruity": [
+    {
+      "cas": "100-51-6",
+      "name": "100-51-6",
+      "descriptors": "sweet;floral;rose;fruity;phenolic;balsamic;chemical"
+    },
+    {
+      "cas": "100-52-7",
+      "name": "100-52-7",
+      "descriptors": "sweet;cherry;cherry maraschino cherry;nutty;fruity;powdery;almond;bitter;sharp"
+    },
+    {
+      "cas": "10024-64-3",
+      "name": "10024-64-3",
+      "descriptors": "dry;sweet;natural;herbal;fruity;green"
+    },
+    {
+      "cas": "10031-71-7",
+      "name": "10031-71-7",
+      "descriptors": "raisin;plum;floral;honey;fruity;powdery;green;geranium;tropical;papaya"
+    },
+    {
+      "cas": "10031-86-4",
+      "name": "10031-86-4",
+      "descriptors": "plum;floral;fruity;apricot;jasmin"
+    },
+    {
+      "cas": "10031-87-5",
+      "name": "10031-87-5",
+      "descriptors": "sweet;musty;banana;fruity;oily;ethereal"
+    },
+    {
+      "cas": "10031-90-0",
+      "name": "10031-90-0",
+      "descriptors": "sweet;rummy;cooked;ripe;horseradish;fruity;pineapple;jammy;balsamic;acrylate"
+    },
+    {
+      "cas": "10031-93-3",
+      "name": "10031-93-3",
+      "descriptors": "sweet;fruity;plum"
+    },
+    {
+      "cas": "10032-00-5",
+      "name": "10032-00-5",
+      "descriptors": "sweet;fermented;fruity;winey;apple skin"
+    },
+    {
+      "cas": "10032-02-7",
+      "name": "10032-02-7",
+      "descriptors": "floral;rose;fruity;geranium;waxy"
+    },
+    {
+      "cas": "10032-05-0",
+      "name": "10032-05-0",
+      "descriptors": "fatty;privet;fruity;oily;orange;green;tropical;waxy"
+    },
+    {
+      "cas": "10032-13-0",
+      "name": "10032-13-0",
+      "descriptors": "sweet;juicy;strawberry;fruity;apple;skin;fresh;green;apple skin"
+    },
+    {
+      "cas": "10032-15-2",
+      "name": "10032-15-2",
+      "descriptors": "spicy;fruity;apple;green;tropical;waxy"
+    },
+    {
+      "cas": "10039-39-1",
+      "name": "10039-39-1",
+      "descriptors": "sweet;fruity;floral"
+    },
+    {
+      "cas": "10072-05-6",
+      "name": "10072-05-6",
+      "descriptors": "fruity;orange;leafy;petitgrain"
+    }
+  ],
+  "nutty": [
+    {
+      "cas": "100-52-7",
+      "name": "100-52-7",
+      "descriptors": "sweet;cherry;cherry maraschino cherry;nutty;fruity;powdery;almond;bitter;sharp"
+    },
+    {
+      "cas": "10024-57-4",
+      "name": "10024-57-4",
+      "descriptors": "sweet;vanilla;floral;nutty;oily;balsamic"
+    },
+    {
+      "cas": "101426-31-7",
+      "name": "101426-31-7",
+      "descriptors": "roasted;nutty"
+    },
+    {
+      "cas": "101517-87-7",
+      "name": "101517-87-7",
+      "descriptors": "roasted;nutty;peanut;cocoa"
+    },
+    {
+      "cas": "102322-83-8",
+      "name": "102322-83-8",
+      "descriptors": "hazelnut;nutty"
+    },
+    {
+      "cas": "104-09-6",
+      "name": "104-09-6",
+      "descriptors": "sweet;cortex;lilac;nutty;fruity;phenolic;green;cherry;narcissus"
+    },
+    {
+      "cas": "104-90-5",
+      "name": "104-90-5",
+      "descriptors": "roasted;potato raw potato;nutty;earthy"
+    },
+    {
+      "cas": "104-93-8",
+      "name": "104-93-8",
+      "descriptors": "naphthyl;ylang;nutty;cresol;powdery"
+    },
+    {
+      "cas": "104691-41-0",
+      "name": "104691-41-0",
+      "descriptors": "meaty;cocoa;nutty;onion;peanut;leek"
+    },
+    {
+      "cas": "105-21-5",
+      "name": "105-21-5",
+      "descriptors": "sweet;caramellic;nutty;coconut;powdery;creamy;coumarinic;lactonic;hay;tonka"
+    },
+    {
+      "cas": "105-57-7",
+      "name": "105-57-7",
+      "descriptors": "sweet;vegetable;nutty;green;ethereal;earthy"
+    },
+    {
+      "cas": "10599-70-9",
+      "name": "10599-70-9",
+      "descriptors": "sweet;musty;cocoa;nutty;powdery;roasted;earthy;leathery;corn"
+    },
+    {
+      "cas": "106-18-3",
+      "name": "106-18-3",
+      "descriptors": "fermented;fruity;peanut;soapy;dairy;waxy"
+    },
+    {
+      "cas": "107-86-8",
+      "name": "107-86-8",
+      "descriptors": "sweet;cherry;nutty;fruity;brown;almond;pungent"
+    },
+    {
+      "cas": "1072-83-9",
+      "name": "1072-83-9",
+      "descriptors": "musty;cherry maraschino cherry;nutty;walnut;bready;coumarinic;licorice;nut skin"
+    }
+  ],
+  "nutty_almond": [
+    {
+      "cas": "100-52-7",
+      "name": "100-52-7",
+      "descriptors": "sweet;cherry;cherry maraschino cherry;nutty;fruity;powdery;almond;bitter;sharp"
+    },
+    {
+      "cas": "101-41-7",
+      "name": "101-41-7",
+      "descriptors": "sweet;spicy;floral;honey;fruity;almond;waxy"
+    },
+    {
+      "cas": "102-04-5",
+      "name": "102-04-5",
+      "descriptors": "sweet;almond bitter almond;seedy;floral;plastic;honey;rose;powdery;cherry"
+    },
+    {
+      "cas": "104-57-4",
+      "name": "104-57-4",
+      "descriptors": "cherry;spicy;floral;cranberry;fruity;almond;tea black tea;chemical"
+    },
+    {
+      "cas": "107-02-8",
+      "name": "107-02-8",
+      "descriptors": "cherry;fruity;almond"
+    },
+    {
+      "cas": "107-86-8",
+      "name": "107-86-8",
+      "descriptors": "sweet;cherry;nutty;fruity;brown;almond;pungent"
+    },
+    {
+      "cas": "107797-24-0",
+      "name": "107797-24-0",
+      "descriptors": "spicy;fatty;coconut;green;almond"
+    },
+    {
+      "cas": "110682-09-2",
+      "name": "110682-09-2",
+      "descriptors": "sweet;spicy;floral;fruity;pineapple;cinnamyl;almond;tropical"
+    },
+    {
+      "cas": "111-28-4",
+      "name": "111-28-4",
+      "descriptors": "sweet;musty;vegetable;herbal;nutty;whiskey;green;almond;raw;marzipan"
+    },
+    {
+      "cas": "1125-88-8",
+      "name": "1125-88-8",
+      "descriptors": "vegetable;floral;potato;nutty;rooty;winey;fruity;spinach;green;almond;fungal;earthy;sharp"
+    },
+    {
+      "cas": "118-93-4",
+      "name": "118-93-4",
+      "descriptors": "sweet;almond bitter almond;honey;melon;herbal;phenolic;tobacco;hawthorn;cherry;tropical;sharp"
+    },
+    {
+      "cas": "119-65-3",
+      "name": "119-65-3",
+      "descriptors": "sweet;anise;almond bitter almond;herbal;balsamic"
+    },
+    {
+      "cas": "1192-62-7",
+      "name": "1192-62-7",
+      "descriptors": "sweet;toasted;caramellic;cocoa;nutty;coffee;balsamic;brown;almond;milky;lactonic"
+    },
+    {
+      "cas": "1193-18-6",
+      "name": "1193-18-6",
+      "descriptors": "sweet;benzoin;caramellic;nutty;fruity;walnut;phenolic;almond;cherry"
+    },
+    {
+      "cas": "120-57-0",
+      "name": "120-57-0",
+      "descriptors": "sweet;vanilla;almond bitter almond;custard;spicy;floral;cherry maraschino cherry;cinnamyl;creamy;cherry;tropical"
+    }
+  ],
+  "sulfurous_allium": [
+    {
+      "cas": "100-53-8",
+      "name": "100-53-8",
+      "descriptors": "sulfurous;garlic;horseradish;alliaceous;coffee;onion;minty;sharp"
+    },
+    {
+      "cas": "1003-04-9",
+      "name": "1003-04-9",
+      "descriptors": "vegetable;meaty;cooked;garlic;alliaceous;clam;green;buttery"
+    },
+    {
+      "cas": "1003-10-7",
+      "name": "1003-10-7",
+      "descriptors": "garlic;burnt"
+    },
+    {
+      "cas": "10152-76-8",
+      "name": "10152-76-8",
+      "descriptors": "garlic;onion;sulfurous;alliaceous"
+    },
+    {
+      "cas": "10152-77-9",
+      "name": "10152-77-9",
+      "descriptors": "garlic;acidic"
+    },
+    {
+      "cas": "104691-41-0",
+      "name": "104691-41-0",
+      "descriptors": "meaty;cocoa;nutty;onion;peanut;leek"
+    },
+    {
+      "cas": "1064678-08-5",
+      "name": "1064678-08-5",
+      "descriptors": "sweet;sulfurous;garlic;fruity;lychee;pear;onion"
+    },
+    {
+      "cas": "107-03-9",
+      "name": "107-03-9",
+      "descriptors": "sweet;alliaceous;cabbage;onion;gassy"
+    },
+    {
+      "cas": "107-18-6",
+      "name": "107-18-6",
+      "descriptors": "mustard;pungent;alliaceous"
+    },
+    {
+      "cas": "1073-29-6",
+      "name": "1073-29-6",
+      "descriptors": "meaty;sulfurous;eggy;garlic;onion"
+    },
+    {
+      "cas": "108-98-5",
+      "name": "108-98-5",
+      "descriptors": "meaty;rubbery;sulfurous;garlic;alliaceous;phenolic"
+    },
+    {
+      "cas": "109-79-5",
+      "name": "109-79-5",
+      "descriptors": "sulfurous;fatty;garlic;coffee;onion;onion cooked onion;beefy roasted beefy;egg nog"
+    },
+    {
+      "cas": "110-02-1",
+      "name": "110-02-1",
+      "descriptors": "garlic;sulfurous;alliaceous"
+    },
+    {
+      "cas": "110-81-6",
+      "name": "110-81-6",
+      "descriptors": "greasy;ripe;garlic;alliaceous;onion;gassy"
+    },
+    {
+      "cas": "111-31-9",
+      "name": "111-31-9",
+      "descriptors": "meaty;sulfurous;fatty;garlic;nutty;alliaceous;burnt;roasted"
+    }
+  ],
+  "sulfurous": [
+    {
+      "cas": "100-53-8",
+      "name": "100-53-8",
+      "descriptors": "sulfurous;garlic;horseradish;alliaceous;coffee;onion;minty;sharp"
+    },
+    {
+      "cas": "10152-76-8",
+      "name": "10152-76-8",
+      "descriptors": "garlic;onion;sulfurous;alliaceous"
+    },
+    {
+      "cas": "104228-51-5",
+      "name": "104228-51-5",
+      "descriptors": "meaty;sulfurous"
+    },
+    {
+      "cas": "1064678-08-5",
+      "name": "1064678-08-5",
+      "descriptors": "sweet;sulfurous;garlic;fruity;lychee;pear;onion"
+    },
+    {
+      "cas": "1073-29-6",
+      "name": "1073-29-6",
+      "descriptors": "meaty;sulfurous;eggy;garlic;onion"
+    },
+    {
+      "cas": "108-98-5",
+      "name": "108-98-5",
+      "descriptors": "meaty;rubbery;sulfurous;garlic;alliaceous;phenolic"
+    },
+    {
+      "cas": "109-79-5",
+      "name": "109-79-5",
+      "descriptors": "sulfurous;fatty;garlic;coffee;onion;onion cooked onion;beefy roasted beefy;egg nog"
+    },
+    {
+      "cas": "109-80-8",
+      "name": "109-80-8",
+      "descriptors": "meaty;sulfurous"
+    },
+    {
+      "cas": "109537-55-5",
+      "name": "109537-55-5",
+      "descriptors": "meaty;sulfurous"
+    },
+    {
+      "cas": "110-01-0",
+      "name": "110-01-0",
+      "descriptors": "cabbage;sulfurous"
+    },
+    {
+      "cas": "110-02-1",
+      "name": "110-02-1",
+      "descriptors": "garlic;sulfurous;alliaceous"
+    },
+    {
+      "cas": "110-66-7",
+      "name": "110-66-7",
+      "descriptors": "vegetable;meaty;sulfurous;fatty;roasted"
+    },
+    {
+      "cas": "111-31-9",
+      "name": "111-31-9",
+      "descriptors": "meaty;sulfurous;fatty;garlic;nutty;alliaceous;burnt;roasted"
+    },
+    {
+      "cas": "111-88-6",
+      "name": "111-88-6",
+      "descriptors": "sulfurous"
+    },
+    {
+      "cas": "1115-84-0",
+      "name": "1115-84-0",
+      "descriptors": "malty;sulfurous;potato;tomato;green"
+    }
+  ],
+  "roasted_coffee": [
+    {
+      "cas": "100-53-8",
+      "name": "100-53-8",
+      "descriptors": "sulfurous;garlic;horseradish;alliaceous;coffee;onion;minty;sharp"
+    },
+    {
+      "cas": "1003-29-8",
+      "name": "1003-29-8",
+      "descriptors": "coffee;musty;beefy"
+    },
+    {
+      "cas": "108-50-9",
+      "name": "108-50-9",
+      "descriptors": "cocoa;buttermilk;nutty;coffee;beefy;brown;ethereal;roasted;chocolate;meaty roasted meaty"
+    },
+    {
+      "cas": "109-79-5",
+      "name": "109-79-5",
+      "descriptors": "sulfurous;fatty;garlic;coffee;onion;onion cooked onion;beefy roasted beefy;egg nog"
+    },
+    {
+      "cas": "109682-87-3",
+      "name": "109682-87-3",
+      "descriptors": "sweet;spicy;caramellic;maple;coffee;burnt;bready;licorice"
+    },
+    {
+      "cas": "1124-11-4",
+      "name": "1124-11-4",
+      "descriptors": "lard;musty;vanilla;dry;cocoa;nutty;coffee;burnt;brown;chocolate"
+    },
+    {
+      "cas": "1192-62-7",
+      "name": "1192-62-7",
+      "descriptors": "sweet;toasted;caramellic;cocoa;nutty;coffee;balsamic;brown;almond;milky;lactonic"
+    },
+    {
+      "cas": "1195-32-0",
+      "name": "1195-32-0",
+      "descriptors": "musty;spicy;nutty;guaiacol;styrene;coffee;phenolic;clove"
+    },
+    {
+      "cas": "13360-64-0",
+      "name": "13360-64-0",
+      "descriptors": "nutty;grassy;coffee;roasted;beany"
+    },
+    {
+      "cas": "13494-07-0",
+      "name": "13494-07-0",
+      "descriptors": "sweet;molasses;sugar burnt sugar;caramellic;nutty;maple;whiskey;coffee;brown;sugar;toffee"
+    },
+    {
+      "cas": "13623-11-5",
+      "name": "13623-11-5",
+      "descriptors": "musty;vegetable;cocoa;nutty;coffee;brown;toasted;hazelnut;chocolate"
+    },
+    {
+      "cas": "13678-59-6",
+      "name": "13678-59-6",
+      "descriptors": "mustard;sulfurous;garlic;horseradish;peppery;coffee;onion;pungent"
+    },
+    {
+      "cas": "13678-67-6",
+      "name": "13678-67-6",
+      "descriptors": "meaty;sulfurous;mushroom;cocoa;nutty;coffee;fungal;earthy;meaty roasted meaty"
+    },
+    {
+      "cas": "13678-68-7",
+      "name": "13678-68-7",
+      "descriptors": "vegetable;sulfurous;nutty;savory;alliaceous;coffee;burnt;roasted"
+    },
+    {
+      "cas": "13679-46-4",
+      "name": "13679-46-4",
+      "descriptors": "coffee;coffee roasted coffee"
+    }
+  ],
+  "minty": [
+    {
+      "cas": "100-53-8",
+      "name": "100-53-8",
+      "descriptors": "sulfurous;garlic;horseradish;alliaceous;coffee;onion;minty;sharp"
+    },
+    {
+      "cas": "1003050-32-5",
+      "name": "1003050-32-5",
+      "descriptors": "cooling"
+    },
+    {
+      "cas": "1006-27-5",
+      "name": "1006-27-5",
+      "descriptors": "earthy;animal;floral;anisic;hawthorn;minty"
+    },
+    {
+      "cas": "10413-18-0",
+      "name": "10413-18-0",
+      "descriptors": "minty;fruity"
+    },
+    {
+      "cas": "10458-14-7",
+      "name": "10458-14-7",
+      "descriptors": "minty"
+    },
+    {
+      "cas": "10588-15-5",
+      "name": "10588-15-5",
+      "descriptors": "leafy;minty;tuberose;green"
+    },
+    {
+      "cas": "1073-11-6",
+      "name": "1073-11-6",
+      "descriptors": "minty;fruity"
+    },
+    {
+      "cas": "1079-01-2",
+      "name": "1079-01-2",
+      "descriptors": "sweet;cedar;floral;herbal;fruity;cooling;fresh;green;woody;citrus"
+    },
+    {
+      "cas": "108-32-7",
+      "name": "108-32-7",
+      "descriptors": "minty;spicy;medical"
+    },
+    {
+      "cas": "108-93-0",
+      "name": "108-93-0",
+      "descriptors": "camphoreous;phenolic;mentholic"
+    },
+    {
+      "cas": "108-94-1",
+      "name": "108-94-1",
+      "descriptors": "acetone;minty"
+    },
+    {
+      "cas": "108766-16-1",
+      "name": "108766-16-1",
+      "descriptors": "minty;cool"
+    },
+    {
+      "cas": "1120363-98-5",
+      "name": "1120363-98-5",
+      "descriptors": "cooling;fresh"
+    },
+    {
+      "cas": "116-02-9",
+      "name": "116-02-9",
+      "descriptors": "musty;spicy;mentholic;cooling;minty"
+    },
+    {
+      "cas": "118-56-9",
+      "name": "118-56-9",
+      "descriptors": "menthol;mild"
+    }
+  ],
+  "woody": [
+    {
+      "cas": "100-68-5",
+      "name": "100-68-5",
+      "descriptors": "sawdust;solvent;spicy;woody;pungent"
+    },
+    {
+      "cas": "10031-96-6",
+      "name": "10031-96-6",
+      "descriptors": "dry;woody;orris;warm"
+    },
+    {
+      "cas": "102-17-0",
+      "name": "102-17-0",
+      "descriptors": "anise;honey;anisic;balsamic;woody"
+    },
+    {
+      "cas": "10208-80-7",
+      "name": "10208-80-7",
+      "descriptors": "woody"
+    },
+    {
+      "cas": "103-28-6",
+      "name": "103-28-6",
+      "descriptors": "sweet;juicy;floral;rose;fruity;oily;powdery;jasmin;tropical;woody"
+    },
+    {
+      "cas": "10486-25-6",
+      "name": "10486-25-6",
+      "descriptors": "woody;fresh;sandalwood"
+    },
+    {
+      "cas": "10486-26-7",
+      "name": "10486-26-7",
+      "descriptors": "woody;rooty;cedar"
+    },
+    {
+      "cas": "104864-90-6",
+      "name": "104864-90-6",
+      "descriptors": "woody;natural;sandalwood"
+    },
+    {
+      "cas": "105-01-1",
+      "name": "105-01-1",
+      "descriptors": "floral;fruity;pineapple;winey;woody"
+    },
+    {
+      "cas": "105-95-3",
+      "name": "105-95-3",
+      "descriptors": "sweet;floral;ambrette;powdery;woody;musk"
+    },
+    {
+      "cas": "10519-11-6",
+      "name": "10519-11-6",
+      "descriptors": "floral;herbal;fruity;dusty;woody"
+    },
+    {
+      "cas": "10519-12-7",
+      "name": "10519-12-7",
+      "descriptors": "dry;floral;oily;sandalwood;woody"
+    },
+    {
+      "cas": "105463-44-3",
+      "name": "105463-44-3",
+      "descriptors": "herbal;rooty;camphoreous;patchouli;woody;earthy"
+    },
+    {
+      "cas": "107-87-9",
+      "name": "107-87-9",
+      "descriptors": "sweet;fermented;banana;fruity;winey;ethereal;woody"
+    },
+    {
+      "cas": "1076-56-8",
+      "name": "1076-56-8",
+      "descriptors": "burnt;herbal;smoky;woody"
+    }
+  ],
+  "spicy": [
+    {
+      "cas": "100-68-5",
+      "name": "100-68-5",
+      "descriptors": "sawdust;solvent;spicy;woody;pungent"
+    },
+    {
+      "cas": "10031-82-0",
+      "name": "10031-82-0",
+      "descriptors": "sweet;anisic;floral;spicy"
+    },
+    {
+      "cas": "10032-15-2",
+      "name": "10032-15-2",
+      "descriptors": "spicy;fruity;apple;green;tropical;waxy"
+    },
+    {
+      "cas": "101-39-3",
+      "name": "101-39-3",
+      "descriptors": "sweet;spicy;warm;cinnamon;cassia;balsamic"
+    },
+    {
+      "cas": "101-41-7",
+      "name": "101-41-7",
+      "descriptors": "sweet;spicy;floral;honey;fruity;almond;waxy"
+    },
+    {
+      "cas": "103-36-6",
+      "name": "103-36-6",
+      "descriptors": "sweet;spicy;plum;berry;fruity;powdery;balsam"
+    },
+    {
+      "cas": "103-41-3Z",
+      "name": "103-41-3Z",
+      "descriptors": "sweet;spicy;floral;fruity;powdery;balsamic;cherry"
+    },
+    {
+      "cas": "103-53-7",
+      "name": "103-53-7",
+      "descriptors": "spicy;foliage;rose;fruity;balsamic"
+    },
+    {
+      "cas": "103-54-8",
+      "name": "103-54-8",
+      "descriptors": "sweet;spicy;cinnamon;floral;balsam"
+    },
+    {
+      "cas": "103-56-0",
+      "name": "103-56-0",
+      "descriptors": "sweet;spicy;bubble gum;grape;floral;fruity;balsamic;green;cherry"
+    },
+    {
+      "cas": "104-54-1",
+      "name": "104-54-1",
+      "descriptors": "sweet;fermented;spicy;cinnamon;floral;powdery;cinnamyl;balsamic;green;hyacinth"
+    },
+    {
+      "cas": "104-55-2",
+      "name": "104-55-2",
+      "descriptors": "sweet;aldehydic;resinous;spicy;cinnamon;cassia;honey;cinnamyl;powdery;balsamic;aromatic"
+    },
+    {
+      "cas": "104-57-4",
+      "name": "104-57-4",
+      "descriptors": "cherry;spicy;floral;cranberry;fruity;almond;tea black tea;chemical"
+    },
+    {
+      "cas": "10402-33-2",
+      "name": "10402-33-2",
+      "descriptors": "sweet;honey;spicy;carnation"
+    },
+    {
+      "cas": "10484-36-3",
+      "name": "10484-36-3",
+      "descriptors": "sweet;spicy;floral;carnation;balsamic"
+    }
+  ],
+  "green": [
+    {
+      "cas": "100-71-0",
+      "name": "100-71-0",
+      "descriptors": "green;grassy"
+    },
+    {
+      "cas": "100-86-7",
+      "name": "100-86-7",
+      "descriptors": "clean;rhubarb;cortex;floral;rose;oily;green"
+    },
+    {
+      "cas": "10022-28-3",
+      "name": "10022-28-3",
+      "descriptors": "leafy;floral;rose;violet;ozone;green;citrus"
+    },
+    {
+      "cas": "10024-64-3",
+      "name": "10024-64-3",
+      "descriptors": "dry;sweet;natural;herbal;fruity;green"
+    },
+    {
+      "cas": "1003-04-9",
+      "name": "1003-04-9",
+      "descriptors": "vegetable;meaty;cooked;garlic;alliaceous;clam;green;buttery"
+    },
+    {
+      "cas": "10031-71-7",
+      "name": "10031-71-7",
+      "descriptors": "raisin;plum;floral;honey;fruity;powdery;green;geranium;tropical;papaya"
+    },
+    {
+      "cas": "10031-92-2",
+      "name": "10031-92-2",
+      "descriptors": "floral;cucumber;violet leaf;green"
+    },
+    {
+      "cas": "10032-05-0",
+      "name": "10032-05-0",
+      "descriptors": "fatty;privet;fruity;oily;orange;green;tropical;waxy"
+    },
+    {
+      "cas": "10032-08-3",
+      "name": "10032-08-3",
+      "descriptors": "leafy;hyacinth;green"
+    },
+    {
+      "cas": "10032-11-8",
+      "name": "10032-11-8",
+      "descriptors": "sweet;apple;apple green apple;green"
+    },
+    {
+      "cas": "10032-13-0",
+      "name": "10032-13-0",
+      "descriptors": "sweet;juicy;strawberry;fruity;apple;skin;fresh;green;apple skin"
+    },
+    {
+      "cas": "10032-15-2",
+      "name": "10032-15-2",
+      "descriptors": "spicy;fruity;apple;green;tropical;waxy"
+    },
+    {
+      "cas": "10058-43-2",
+      "name": "10058-43-2",
+      "descriptors": "dry;herbal;green;lily;jasmin"
+    },
+    {
+      "cas": "10094-34-5",
+      "name": "10094-34-5",
+      "descriptors": "plum;floral;herbal;fruity;prune;green"
+    },
+    {
+      "cas": "10094-40-3",
+      "name": "10094-40-3",
+      "descriptors": "fruity;green"
+    }
+  ],
+  "fatty": [
+    {
+      "cas": "100-86-7",
+      "name": "100-86-7",
+      "descriptors": "clean;rhubarb;cortex;floral;rose;oily;green"
+    },
+    {
+      "cas": "10024-57-4",
+      "name": "10024-57-4",
+      "descriptors": "sweet;vanilla;floral;nutty;oily;balsamic"
+    },
+    {
+      "cas": "10031-87-5",
+      "name": "10031-87-5",
+      "descriptors": "sweet;musty;banana;fruity;oily;ethereal"
+    },
+    {
+      "cas": "10032-05-0",
+      "name": "10032-05-0",
+      "descriptors": "fatty;privet;fruity;oily;orange;green;tropical;waxy"
+    },
+    {
+      "cas": "102-20-5",
+      "name": "102-20-5",
+      "descriptors": "sweet;fatty;floral;honey;rose;powdery;cinnamyl;balsamic;green"
+    },
+    {
+      "cas": "10236-16-5",
+      "name": "10236-16-5",
+      "descriptors": "floral;orchid;fruity;oily;balsamic;green;waxy"
+    },
+    {
+      "cas": "10276-85-4",
+      "name": "10276-85-4",
+      "descriptors": "fatty;herbal;fruity;pineapple;peach"
+    },
+    {
+      "cas": "103-28-6",
+      "name": "103-28-6",
+      "descriptors": "sweet;juicy;floral;rose;fruity;oily;powdery;jasmin;tropical;woody"
+    },
+    {
+      "cas": "10321-71-8",
+      "name": "10321-71-8",
+      "descriptors": "blackberry;tea;fruity;fatty"
+    },
+    {
+      "cas": "104-50-7",
+      "name": "104-50-7",
+      "descriptors": "sweet;fatty;coconut;creamy;waxy;dairy;tonka"
+    },
+    {
+      "cas": "104-61-0",
+      "name": "104-61-0",
+      "descriptors": "sweet;fatty;coconut;oily;creamy;buttery;waxy"
+    },
+    {
+      "cas": "104-67-6",
+      "name": "104-67-6",
+      "descriptors": "ketonic;fatty;fruity;apricot;coconut;creamy;peach;lactonic"
+    },
+    {
+      "cas": "104-76-7",
+      "name": "104-76-7",
+      "descriptors": "sweet;floral;oily;fresh;citrus"
+    },
+    {
+      "cas": "10519-12-7",
+      "name": "10519-12-7",
+      "descriptors": "dry;floral;oily;sandalwood;woody"
+    },
+    {
+      "cas": "10519-20-7",
+      "name": "10519-20-7",
+      "descriptors": "violet leaf;violet;oily;waxy"
+    }
+  ],
+  "fresh_clean": [
+    {
+      "cas": "100-86-7",
+      "name": "100-86-7",
+      "descriptors": "clean;rhubarb;cortex;floral;rose;oily;green"
+    },
+    {
+      "cas": "102-76-1",
+      "name": "102-76-1",
+      "descriptors": "clean;fruity;acidic;creamy;tropical"
+    },
+    {
+      "cas": "103-05-9",
+      "name": "103-05-9",
+      "descriptors": "clean;floral;rose;violet;fresh;bois de rose;green;lily"
+    },
+    {
+      "cas": "10486-19-8",
+      "name": "10486-19-8",
+      "descriptors": "aldehydic;clean;petal;grapefruit peel;fresh;soapy;citrus;waxy"
+    },
+    {
+      "cas": "106-18-3",
+      "name": "106-18-3",
+      "descriptors": "fermented;fruity;peanut;soapy;dairy;waxy"
+    },
+    {
+      "cas": "106-21-8",
+      "name": "106-21-8",
+      "descriptors": "musty;aldehydic;green;soapy;citrus;leathery;waxy"
+    },
+    {
+      "cas": "106-33-2",
+      "name": "106-33-2",
+      "descriptors": "sweet;clean;floral;soapy;waxy"
+    },
+    {
+      "cas": "106-72-9",
+      "name": "106-72-9",
+      "descriptors": "sweet;clean;floral;melon;ozone;oily;watermelon rind;fresh;green;watermelon"
+    },
+    {
+      "cas": "107-74-4",
+      "name": "107-74-4",
+      "descriptors": "clean;floral;rose;green;peony;lily"
+    },
+    {
+      "cas": "109-15-9",
+      "name": "109-15-9",
+      "descriptors": "aldehydic;clean;fruity;oily;creamy;green;earthy;soapy;waxy"
+    },
+    {
+      "cas": "110458-85-0",
+      "name": "110458-85-0",
+      "descriptors": "clean;ozone;fresh outdoors;fresh;woody"
+    },
+    {
+      "cas": "111-82-0",
+      "name": "111-82-0",
+      "descriptors": "mushroom;coconut;creamy;soapy;waxy"
+    },
+    {
+      "cas": "112-17-4",
+      "name": "112-17-4",
+      "descriptors": "sweet;clean;fatty;creamy;fresh;soapy;cloth laundered cloth;citrus;waxy"
+    },
+    {
+      "cas": "112-19-6",
+      "name": "112-19-6",
+      "descriptors": "meaty;clean;fatty;rose;fruity;fresh;licorice;waxy;dairy;cheesy;cloth laundered cloth;sharp"
+    },
+    {
+      "cas": "112-30-1",
+      "name": "112-30-1",
+      "descriptors": "sweet;clean;fatty;floral;orange;watery;waxy"
+    }
+  ],
+  "waxy": [
+    {
+      "cas": "1002-84-2",
+      "name": "1002-84-2",
+      "descriptors": "waxy"
+    },
+    {
+      "cas": "10032-02-7",
+      "name": "10032-02-7",
+      "descriptors": "floral;rose;fruity;geranium;waxy"
+    },
+    {
+      "cas": "10032-05-0",
+      "name": "10032-05-0",
+      "descriptors": "fatty;privet;fruity;oily;orange;green;tropical;waxy"
+    },
+    {
+      "cas": "10032-15-2",
+      "name": "10032-15-2",
+      "descriptors": "spicy;fruity;apple;green;tropical;waxy"
+    },
+    {
+      "cas": "101-41-7",
+      "name": "101-41-7",
+      "descriptors": "sweet;spicy;floral;honey;fruity;almond;waxy"
+    },
+    {
+      "cas": "101-49-5",
+      "name": "101-49-5",
+      "descriptors": "sweet;honey;green;hyacinth;waxy"
+    },
+    {
+      "cas": "101-86-0",
+      "name": "101-86-0",
+      "descriptors": "floral;herbal;fresh;green;jasmin;waxy"
+    },
+    {
+      "cas": "102-13-6",
+      "name": "102-13-6",
+      "descriptors": "sweet;floral;honey;cocoa;fruity;amber;chocolate;waxy"
+    },
+    {
+      "cas": "10236-16-5",
+      "name": "10236-16-5",
+      "descriptors": "floral;orchid;fruity;oily;balsamic;green;waxy"
+    },
+    {
+      "cas": "103-37-7",
+      "name": "103-37-7",
+      "descriptors": "sweet;loganberry;fruity;pineapple;apricot;apple;fresh;jasmin;tropical;waxy"
+    },
+    {
+      "cas": "103-60-6",
+      "name": "103-60-6",
+      "descriptors": "sweet;rose;honey;floral;fruity;apple;powdery;green;tropical;waxy"
+    },
+    {
+      "cas": "103-82-2",
+      "name": "103-82-2",
+      "descriptors": "sweet;animal;sour;floral;honey;rose;civet;powdery;tobacco;honeysuckle;chocolate;waxy"
+    },
+    {
+      "cas": "10339-61-4",
+      "name": "10339-61-4",
+      "descriptors": "melon;cucumber;green;waxy"
+    },
+    {
+      "cas": "10340-23-5",
+      "name": "10340-23-5",
+      "descriptors": "mushroom;melon rind;fresh;green;tropical;waxy"
+    },
+    {
+      "cas": "104-50-7",
+      "name": "104-50-7",
+      "descriptors": "sweet;fatty;coconut;creamy;waxy;dairy;tonka"
+    }
+  ],
+  "citrus": [
+    {
+      "cas": "10022-28-3",
+      "name": "10022-28-3",
+      "descriptors": "leafy;floral;rose;violet;ozone;green;citrus"
+    },
+    {
+      "cas": "10032-05-0",
+      "name": "10032-05-0",
+      "descriptors": "fatty;privet;fruity;oily;orange;green;tropical;waxy"
+    },
+    {
+      "cas": "10072-05-6",
+      "name": "10072-05-6",
+      "descriptors": "fruity;orange;leafy;petitgrain"
+    },
+    {
+      "cas": "10339-55-6",
+      "name": "10339-55-6",
+      "descriptors": "floral;herbal;lavender;bois de rose;fresh;wet;green;bergamot"
+    },
+    {
+      "cas": "104-76-7",
+      "name": "104-76-7",
+      "descriptors": "sweet;floral;oily;fresh;citrus"
+    },
+    {
+      "cas": "10444-50-5E",
+      "name": "10444-50-5E",
+      "descriptors": "sweet;lemon;orange;citrus"
+    },
+    {
+      "cas": "10461-98-0",
+      "name": "10461-98-0",
+      "descriptors": "floral;peony;fresh;geranium;grapefruit"
+    },
+    {
+      "cas": "10471-96-2",
+      "name": "10471-96-2",
+      "descriptors": "lavender;fruity;apricot;citrus"
+    },
+    {
+      "cas": "10486-19-8",
+      "name": "10486-19-8",
+      "descriptors": "aldehydic;clean;petal;grapefruit peel;fresh;soapy;citrus;waxy"
+    },
+    {
+      "cas": "105-45-3",
+      "name": "105-45-3",
+      "descriptors": "fruity;fresh;citrus;green"
+    },
+    {
+      "cas": "105-85-1",
+      "name": "105-85-1",
+      "descriptors": "sweet;mandarin;plum;floral;rose;cucumber;fruity;apricot;green;bergamot;citrus;peach;waxy"
+    },
+    {
+      "cas": "105-90-8",
+      "name": "105-90-8",
+      "descriptors": "vegetable;floral;rose;honey;fruity;powdery;geranium;tropical;citrus;waxy"
+    },
+    {
+      "cas": "10521-91-2",
+      "name": "10521-91-2",
+      "descriptors": "floral;rose;verbena;carnation;lemon"
+    },
+    {
+      "cas": "106-21-8",
+      "name": "106-21-8",
+      "descriptors": "musty;aldehydic;green;soapy;citrus;leathery;waxy"
+    },
+    {
+      "cas": "106-23-0",
+      "name": "106-23-0",
+      "descriptors": "sweet;dry;aldehydic;floral;herbal;rose;green;citrus;waxy"
+    }
+  ],
+  "floral_violet": [
+    {
+      "cas": "10022-28-3",
+      "name": "10022-28-3",
+      "descriptors": "leafy;floral;rose;violet;ozone;green;citrus"
+    },
+    {
+      "cas": "10031-92-2",
+      "name": "10031-92-2",
+      "descriptors": "floral;cucumber;violet leaf;green"
+    },
+    {
+      "cas": "103-05-9",
+      "name": "103-05-9",
+      "descriptors": "clean;floral;rose;violet;fresh;bois de rose;green;lily"
+    },
+    {
+      "cas": "10519-20-7",
+      "name": "10519-20-7",
+      "descriptors": "violet leaf;violet;oily;waxy"
+    },
+    {
+      "cas": "10522-18-6",
+      "name": "10522-18-6",
+      "descriptors": "meaty;fatty;floral;fruity;violet;green;milky;waxy"
+    },
+    {
+      "cas": "111-12-6",
+      "name": "111-12-6",
+      "descriptors": "vegetable;leafy;fatty;floral;melon;cucumber;violet;fruity;violet leaf;green;waxy"
+    },
+    {
+      "cas": "111-70-6",
+      "name": "111-70-6",
+      "descriptors": "sweet;musty;vegetable;leafy;banana;herbal;fruity;violet;apple;green;peony;woody;pungent"
+    },
+    {
+      "cas": "111-79-5",
+      "name": "111-79-5",
+      "descriptors": "sweet;vegetable;melon;fruity;violet;pear;green;waxy"
+    },
+    {
+      "cas": "111-80-8",
+      "name": "111-80-8",
+      "descriptors": "floral;melon;cucumber;violet leaf;green"
+    },
+    {
+      "cas": "124-06-1",
+      "name": "124-06-1",
+      "descriptors": "sweet;orris;violet;waxy"
+    },
+    {
+      "cas": "127-41-3",
+      "name": "127-41-3",
+      "descriptors": "sweet;floral;fruity;violet;woody;tropical;orris"
+    },
+    {
+      "cas": "127-42-4",
+      "name": "127-42-4",
+      "descriptors": "sweet;tea;floral;fruity;violet;powdery;woody;orris"
+    },
+    {
+      "cas": "127-43-5",
+      "name": "127-43-5",
+      "descriptors": "floral;violet;powdery;tobacco;creamy;woody;tropical;orris"
+    },
+    {
+      "cas": "127-51-5",
+      "name": "127-51-5",
+      "descriptors": "sweet;floral;violet;powdery;woody;orris"
+    },
+    {
+      "cas": "1323-00-8",
+      "name": "1323-00-8",
+      "descriptors": "berry;floral;nutty;violet;acidic;powdery;green;cashew;woody;orris"
+    }
+  ],
+  "fresh_ozonic": [
+    {
+      "cas": "10022-28-3",
+      "name": "10022-28-3",
+      "descriptors": "leafy;floral;rose;violet;ozone;green;citrus"
+    },
+    {
+      "cas": "106-72-9",
+      "name": "106-72-9",
+      "descriptors": "sweet;clean;floral;melon;ozone;oily;watermelon rind;fresh;green;watermelon"
+    },
+    {
+      "cas": "110458-85-0",
+      "name": "110458-85-0",
+      "descriptors": "clean;ozone;fresh outdoors;fresh;woody"
+    },
+    {
+      "cas": "111-71-7",
+      "name": "111-71-7",
+      "descriptors": "aldehydic;fatty;herbal;cognac;ozone;fresh;green"
+    },
+    {
+      "cas": "111753-60-7",
+      "name": "111753-60-7",
+      "descriptors": "leafy;cortex;floral;ozone;fresh;green;orangeflower"
+    },
+    {
+      "cas": "112-43-6",
+      "name": "112-43-6",
+      "descriptors": "clean;floral;ozone;fresh;citrus;waxy"
+    },
+    {
+      "cas": "1205-17-0",
+      "name": "1205-17-0",
+      "descriptors": "cyclamen;floral;ozone;fresh;green;watery;hay"
+    },
+    {
+      "cas": "125109-84-4",
+      "name": "125109-84-4",
+      "descriptors": "cortex;floral;melon;ozone;fresh;green"
+    },
+    {
+      "cas": "134123-93-6",
+      "name": "134123-93-6",
+      "descriptors": "marine;herbal;seashore;ozone;anisic"
+    },
+    {
+      "cas": "143-14-6",
+      "name": "143-14-6",
+      "descriptors": "metallic;aldehydic;mandarin;clean;ozone;green;cloth laundered cloth;citrus;waxy"
+    },
+    {
+      "cas": "181258-87-7",
+      "name": "181258-87-7",
+      "descriptors": "marine;ozone;fresh outdoors;green;pepper bell pepper"
+    },
+    {
+      "cas": "18409-18-2",
+      "name": "18409-18-2",
+      "descriptors": "rue;rummy;fatty;rose;ozone;citrus;waxy"
+    },
+    {
+      "cas": "18445-88-0",
+      "name": "18445-88-0",
+      "descriptors": "aldehydic;marine;floral;ozone;citrus"
+    },
+    {
+      "cas": "2120-70-9",
+      "name": "2120-70-9",
+      "descriptors": "leafy;cortex;ozone;fresh;green;hyacinth;leathery"
+    },
+    {
+      "cas": "22104-80-9",
+      "name": "22104-80-9",
+      "descriptors": "rue;fatty;rose;ozone;fresh;citrus;waxy"
+    }
+  ],
+  "green_leafy": [
+    {
+      "cas": "10022-28-3",
+      "name": "10022-28-3",
+      "descriptors": "leafy;floral;rose;violet;ozone;green;citrus"
+    },
+    {
+      "cas": "10032-08-3",
+      "name": "10032-08-3",
+      "descriptors": "leafy;hyacinth;green"
+    },
+    {
+      "cas": "10072-05-6",
+      "name": "10072-05-6",
+      "descriptors": "fruity;orange;leafy;petitgrain"
+    },
+    {
+      "cas": "101-48-4",
+      "name": "101-48-4",
+      "descriptors": "foliage;mushroom;floral;rosy;green;earthy"
+    },
+    {
+      "cas": "101-84-8",
+      "name": "101-84-8",
+      "descriptors": "geranium;phenolic;leaf;green"
+    },
+    {
+      "cas": "103-07-1",
+      "name": "103-07-1",
+      "descriptors": "sweet;leafy;floral;rose;balsamic;green;narcissus"
+    },
+    {
+      "cas": "103-53-7",
+      "name": "103-53-7",
+      "descriptors": "spicy;foliage;rose;fruity;balsamic"
+    },
+    {
+      "cas": "103-64-0",
+      "name": "103-64-0",
+      "descriptors": "leafy;hyacinth;green"
+    },
+    {
+      "cas": "104-53-0",
+      "name": "104-53-0",
+      "descriptors": "aldehydic;foliage;leafy;cortex;floral;melon;fresh;balsamic;green;storax"
+    },
+    {
+      "cas": "105-82-8",
+      "name": "105-82-8",
+      "descriptors": "leafy;chrysanthemum;herbal;fresh;green"
+    },
+    {
+      "cas": "10588-15-5",
+      "name": "10588-15-5",
+      "descriptors": "leafy;minty;tuberose;green"
+    },
+    {
+      "cas": "111-12-6",
+      "name": "111-12-6",
+      "descriptors": "vegetable;leafy;fatty;floral;melon;cucumber;violet;fruity;violet leaf;green;waxy"
+    },
+    {
+      "cas": "111-70-6",
+      "name": "111-70-6",
+      "descriptors": "sweet;musty;vegetable;leafy;banana;herbal;fruity;violet;apple;green;peony;woody;pungent"
+    },
+    {
+      "cas": "1117-61-9",
+      "name": "1117-61-9",
+      "descriptors": "leafy;petal;floral;citronella;rose;oily"
+    },
+    {
+      "cas": "111753-60-7",
+      "name": "111753-60-7",
+      "descriptors": "leafy;cortex;floral;ozone;fresh;green;orangeflower"
+    }
+  ],
+  "fermented": [
+    {
+      "cas": "10024-56-3E",
+      "name": "10024-56-3E",
+      "descriptors": "sweet;winey;nutmeg;balsamic"
+    },
+    {
+      "cas": "10031-90-0",
+      "name": "10031-90-0",
+      "descriptors": "sweet;rummy;cooked;ripe;horseradish;fruity;pineapple;jammy;balsamic;acrylate"
+    },
+    {
+      "cas": "10032-00-5",
+      "name": "10032-00-5",
+      "descriptors": "sweet;fermented;fruity;winey;apple skin"
+    },
+    {
+      "cas": "10108-80-2",
+      "name": "10108-80-2",
+      "descriptors": "winey;fruity"
+    },
+    {
+      "cas": "10152-77-9",
+      "name": "10152-77-9",
+      "descriptors": "garlic;acidic"
+    },
+    {
+      "cas": "102-76-1",
+      "name": "102-76-1",
+      "descriptors": "clean;fruity;acidic;creamy;tropical"
+    },
+    {
+      "cas": "103-25-3",
+      "name": "103-25-3",
+      "descriptors": "floral;honey;fruity;winey;balsamic"
+    },
+    {
+      "cas": "103-58-2",
+      "name": "103-58-2",
+      "descriptors": "sweet;fermented;plum;honey;fruity;osmanthus;apricot;juicy fruit;jammy;bready;balsamic;sugar;fruit dried fruit;tropical"
+    },
+    {
+      "cas": "103-61-7",
+      "name": "103-61-7",
+      "descriptors": "cognac;fruity;winey;cinnamyl;balsamic"
+    },
+    {
+      "cas": "103-82-2",
+      "name": "103-82-2",
+      "descriptors": "sweet;animal;sour;floral;honey;rose;civet;powdery;tobacco;honeysuckle;chocolate;waxy"
+    },
+    {
+      "cas": "104-54-1",
+      "name": "104-54-1",
+      "descriptors": "sweet;fermented;spicy;cinnamon;floral;powdery;cinnamyl;balsamic;green;hyacinth"
+    },
+    {
+      "cas": "10402-48-9",
+      "name": "10402-48-9",
+      "descriptors": "sweet;rummy;rose;herbal;fruity;tropical"
+    },
+    {
+      "cas": "105-01-1",
+      "name": "105-01-1",
+      "descriptors": "floral;fruity;pineapple;winey;woody"
+    },
+    {
+      "cas": "105-37-3",
+      "name": "105-37-3",
+      "descriptors": "sweet;fermented;juicy;rummy;grape;fruity;winey;pineapple;ethereal;egg nog"
+    },
+    {
+      "cas": "105-43-1",
+      "name": "105-43-1",
+      "descriptors": "animal;sweaty;fruity;acidic;green;cheesy;sharp"
+    }
+  ],
+  "spicy_warm": [
+    {
+      "cas": "10024-56-3E",
+      "name": "10024-56-3E",
+      "descriptors": "sweet;winey;nutmeg;balsamic"
+    },
+    {
+      "cas": "10031-96-6",
+      "name": "10031-96-6",
+      "descriptors": "dry;woody;orris;warm"
+    },
+    {
+      "cas": "10094-41-4",
+      "name": "10094-41-4",
+      "descriptors": "sweet;juicy;vegetable;warm;herbal;fruity;pineapple;apple;pear;fresh;green"
+    },
+    {
+      "cas": "101-39-3",
+      "name": "101-39-3",
+      "descriptors": "sweet;spicy;warm;cinnamon;cassia;balsamic"
+    },
+    {
+      "cas": "108-29-2",
+      "name": "108-29-2",
+      "descriptors": "sweet;warm;cocoa;herbal;tobacco;woody"
+    },
+    {
+      "cas": "109-97-7",
+      "name": "109-97-7",
+      "descriptors": "sweet;nutty;warm;ethereal"
+    },
+    {
+      "cas": "1118-39-4",
+      "name": "1118-39-4",
+      "descriptors": "nutmeg;floral;lavender;bergamot;woody;citrus"
+    },
+    {
+      "cas": "1209-61-6",
+      "name": "1209-61-6",
+      "descriptors": "nutmeg;dusty;amber;tobacco;woody"
+    },
+    {
+      "cas": "122-48-5",
+      "name": "122-48-5",
+      "descriptors": "sweet;vanilla;spicy;ginger;phenolic;creamy;balsamic;woody"
+    },
+    {
+      "cas": "122760-84-3",
+      "name": "122760-84-3",
+      "descriptors": "woody;spicy;cardamom;ginger"
+    },
+    {
+      "cas": "127-91-3",
+      "name": "127-91-3",
+      "descriptors": "dry;resinous;spicy;nutmeg;peppery;herbal;eucalyptus;terpenic;camphoreous;cooling;fresh;green;woody;minty;hay;pine"
+    },
+    {
+      "cas": "128119-70-0",
+      "name": "128119-70-0",
+      "descriptors": "dry;warm;amber;powdery;woody"
+    },
+    {
+      "cas": "13184-86-6",
+      "name": "13184-86-6",
+      "descriptors": "sweet;vanilla;rummy;spicy;nutmeg;smoky;creamy;alcoholic;chocolate"
+    },
+    {
+      "cas": "13419-69-7",
+      "name": "13419-69-7",
+      "descriptors": "sweet;herbal;fruity;warm"
+    },
+    {
+      "cas": "13474-59-4",
+      "name": "13474-59-4",
+      "descriptors": "woody;tea;warm"
+    }
+  ],
+  "herbal": [
+    {
+      "cas": "10024-64-3",
+      "name": "10024-64-3",
+      "descriptors": "dry;sweet;natural;herbal;fruity;green"
+    },
+    {
+      "cas": "10058-43-2",
+      "name": "10058-43-2",
+      "descriptors": "dry;herbal;green;lily;jasmin"
+    },
+    {
+      "cas": "10094-34-5",
+      "name": "10094-34-5",
+      "descriptors": "plum;floral;herbal;fruity;prune;green"
+    },
+    {
+      "cas": "10094-41-4",
+      "name": "10094-41-4",
+      "descriptors": "sweet;juicy;vegetable;warm;herbal;fruity;pineapple;apple;pear;fresh;green"
+    },
+    {
+      "cas": "101-86-0",
+      "name": "101-86-0",
+      "descriptors": "floral;herbal;fresh;green;jasmin;waxy"
+    },
+    {
+      "cas": "10250-45-0",
+      "name": "10250-45-0",
+      "descriptors": "rhubarb;lilac;floral;herbal;banana"
+    },
+    {
+      "cas": "10276-85-4",
+      "name": "10276-85-4",
+      "descriptors": "fatty;herbal;fruity;pineapple;peach"
+    },
+    {
+      "cas": "103-09-3",
+      "name": "103-09-3",
+      "descriptors": "herbal;earthy;dirty;humus"
+    },
+    {
+      "cas": "103-38-8",
+      "name": "103-38-8",
+      "descriptors": "sweet;musty;herbal;fruity;pineapple;apple;powdery"
+    },
+    {
+      "cas": "10339-55-6",
+      "name": "10339-55-6",
+      "descriptors": "floral;herbal;lavender;bois de rose;fresh;wet;green;bergamot"
+    },
+    {
+      "cas": "104-45-0",
+      "name": "104-45-0",
+      "descriptors": "sweet;root beer;anise;herbal;sassafrass;anisic;licorice;licorice black licorice;fennel"
+    },
+    {
+      "cas": "104-62-1",
+      "name": "104-62-1",
+      "descriptors": "floral;rose;herbal;watercress;green;hyacinth"
+    },
+    {
+      "cas": "104-65-4",
+      "name": "104-65-4",
+      "descriptors": "floral;herbal;fruity;cinnamyl;balsamic;green;narcissus"
+    },
+    {
+      "cas": "10402-48-9",
+      "name": "10402-48-9",
+      "descriptors": "sweet;rummy;rose;herbal;fruity;tropical"
+    },
+    {
+      "cas": "104468-21-5",
+      "name": "104468-21-5",
+      "descriptors": "rose red rose;floral;herbal;fruity;chamomile;fresh"
+    }
+  ],
+  "creamy_dairy": [
+    {
+      "cas": "1003-04-9",
+      "name": "1003-04-9",
+      "descriptors": "vegetable;meaty;cooked;garlic;alliaceous;clam;green;buttery"
+    },
+    {
+      "cas": "102-76-1",
+      "name": "102-76-1",
+      "descriptors": "clean;fruity;acidic;creamy;tropical"
+    },
+    {
+      "cas": "103-13-9Z",
+      "name": "103-13-9Z",
+      "descriptors": "caramellic;fruity;buttery"
+    },
+    {
+      "cas": "104-50-7",
+      "name": "104-50-7",
+      "descriptors": "sweet;fatty;coconut;creamy;waxy;dairy;tonka"
+    },
+    {
+      "cas": "104-61-0",
+      "name": "104-61-0",
+      "descriptors": "sweet;fatty;coconut;oily;creamy;buttery;waxy"
+    },
+    {
+      "cas": "104-67-6",
+      "name": "104-67-6",
+      "descriptors": "ketonic;fatty;fruity;apricot;coconut;creamy;peach;lactonic"
+    },
+    {
+      "cas": "105-13-5",
+      "name": "105-13-5",
+      "descriptors": "sweet;lilac;rose;floral;powdery;creamy;balsamic;coumarinic;cherry;licorice;hawthorn;hyacinth;lactonic"
+    },
+    {
+      "cas": "105-21-5",
+      "name": "105-21-5",
+      "descriptors": "sweet;caramellic;nutty;coconut;powdery;creamy;coumarinic;lactonic;hay;tonka"
+    },
+    {
+      "cas": "10522-18-6",
+      "name": "10522-18-6",
+      "descriptors": "meaty;fatty;floral;fruity;violet;green;milky;waxy"
+    },
+    {
+      "cas": "106-18-3",
+      "name": "106-18-3",
+      "descriptors": "fermented;fruity;peanut;soapy;dairy;waxy"
+    },
+    {
+      "cas": "106-31-0",
+      "name": "106-31-0",
+      "descriptors": "butter"
+    },
+    {
+      "cas": "106-32-1",
+      "name": "106-32-1",
+      "descriptors": "sweet;musty;banana;brandy;fruity;winey;apricot;pineapple;pear;creamy;dairy;waxy"
+    },
+    {
+      "cas": "107-92-6",
+      "name": "107-92-6",
+      "descriptors": "acetic;fruity;dairy;cheesy;buttery;sharp"
+    },
+    {
+      "cas": "107-93-7",
+      "name": "107-93-7",
+      "descriptors": "milky"
+    },
+    {
+      "cas": "108-10-1",
+      "name": "108-10-1",
+      "descriptors": "solvent;spicy;herbal;fruity;green;dairy;sharp"
+    }
+  ],
+  "savory_meaty": [
+    {
+      "cas": "1003-04-9",
+      "name": "1003-04-9",
+      "descriptors": "vegetable;meaty;cooked;garlic;alliaceous;clam;green;buttery"
+    },
+    {
+      "cas": "10031-90-0",
+      "name": "10031-90-0",
+      "descriptors": "sweet;rummy;cooked;ripe;horseradish;fruity;pineapple;jammy;balsamic;acrylate"
+    },
+    {
+      "cas": "10414-68-3",
+      "name": "10414-68-3",
+      "descriptors": "roasted;brown;cooked"
+    },
+    {
+      "cas": "104228-51-5",
+      "name": "104228-51-5",
+      "descriptors": "meaty;sulfurous"
+    },
+    {
+      "cas": "104691-41-0",
+      "name": "104691-41-0",
+      "descriptors": "meaty;cocoa;nutty;onion;peanut;leek"
+    },
+    {
+      "cas": "10522-18-6",
+      "name": "10522-18-6",
+      "descriptors": "meaty;fatty;floral;fruity;violet;green;milky;waxy"
+    },
+    {
+      "cas": "10544-63-5",
+      "name": "10544-63-5",
+      "descriptors": "fermented;estery;rummy;meaty;cognac;fruity;acidic;pineapple;pungent;sharp"
+    },
+    {
+      "cas": "1073-29-6",
+      "name": "1073-29-6",
+      "descriptors": "meaty;sulfurous;eggy;garlic;onion"
+    },
+    {
+      "cas": "108-98-5",
+      "name": "108-98-5",
+      "descriptors": "meaty;rubbery;sulfurous;garlic;alliaceous;phenolic"
+    },
+    {
+      "cas": "109-80-8",
+      "name": "109-80-8",
+      "descriptors": "meaty;sulfurous"
+    },
+    {
+      "cas": "109537-55-5",
+      "name": "109537-55-5",
+      "descriptors": "meaty;sulfurous"
+    },
+    {
+      "cas": "110-66-7",
+      "name": "110-66-7",
+      "descriptors": "vegetable;meaty;sulfurous;fatty;roasted"
+    },
+    {
+      "cas": "111-31-9",
+      "name": "111-31-9",
+      "descriptors": "meaty;sulfurous;fatty;garlic;nutty;alliaceous;burnt;roasted"
+    },
+    {
+      "cas": "112-19-6",
+      "name": "112-19-6",
+      "descriptors": "meaty;clean;fatty;rose;fruity;fresh;licorice;waxy;dairy;cheesy;cloth laundered cloth;sharp"
+    },
+    {
+      "cas": "112-55-0",
+      "name": "112-55-0",
+      "descriptors": "meaty;skunk;sulfurous;cooked"
+    }
+  ],
+  "sweet_honey": [
+    {
+      "cas": "10031-71-7",
+      "name": "10031-71-7",
+      "descriptors": "raisin;plum;floral;honey;fruity;powdery;green;geranium;tropical;papaya"
+    },
+    {
+      "cas": "101-41-7",
+      "name": "101-41-7",
+      "descriptors": "sweet;spicy;floral;honey;fruity;almond;waxy"
+    },
+    {
+      "cas": "101-49-5",
+      "name": "101-49-5",
+      "descriptors": "sweet;honey;green;hyacinth;waxy"
+    },
+    {
+      "cas": "101-94-0",
+      "name": "101-94-0",
+      "descriptors": "animal;rose;honey;narcissus;lily;hyacinth"
+    },
+    {
+      "cas": "101-97-3",
+      "name": "101-97-3",
+      "descriptors": "sweet;chocolate dark chocolate;floral;honey;rose;cocoa;anisic;balsamic;licorice black licorice"
+    },
+    {
+      "cas": "10138-32-6",
+      "name": "10138-32-6",
+      "descriptors": "watery;fruity;honeydew;green"
+    },
+    {
+      "cas": "102-04-5",
+      "name": "102-04-5",
+      "descriptors": "sweet;almond bitter almond;seedy;floral;plastic;honey;rose;powdery;cherry"
+    },
+    {
+      "cas": "102-13-6",
+      "name": "102-13-6",
+      "descriptors": "sweet;floral;honey;cocoa;fruity;amber;chocolate;waxy"
+    },
+    {
+      "cas": "102-17-0",
+      "name": "102-17-0",
+      "descriptors": "anise;honey;anisic;balsamic;woody"
+    },
+    {
+      "cas": "102-19-2",
+      "name": "102-19-2",
+      "descriptors": "sweet;animal;floral;honey;rose;cocoa;balsamic;castoreum;chocolate"
+    },
+    {
+      "cas": "102-20-5",
+      "name": "102-20-5",
+      "descriptors": "sweet;fatty;floral;honey;rose;powdery;cinnamyl;balsamic;green"
+    },
+    {
+      "cas": "102-22-7",
+      "name": "102-22-7",
+      "descriptors": "floral;honey;fruity;geranium;aromatic"
+    },
+    {
+      "cas": "103-25-3",
+      "name": "103-25-3",
+      "descriptors": "floral;honey;fruity;winey;balsamic"
+    },
+    {
+      "cas": "103-45-7",
+      "name": "103-45-7",
+      "descriptors": "sweet;yeasty;floral;honey;rose;fruity;cocoa;balsamic;tropical"
+    },
+    {
+      "cas": "103-58-2",
+      "name": "103-58-2",
+      "descriptors": "sweet;fermented;plum;honey;fruity;osmanthus;apricot;juicy fruit;jammy;bready;balsamic;sugar;fruit dried fruit;tropical"
+    }
+  ],
+  "fruity_tropical": [
+    {
+      "cas": "10031-71-7",
+      "name": "10031-71-7",
+      "descriptors": "raisin;plum;floral;honey;fruity;powdery;green;geranium;tropical;papaya"
+    },
+    {
+      "cas": "10031-90-0",
+      "name": "10031-90-0",
+      "descriptors": "sweet;rummy;cooked;ripe;horseradish;fruity;pineapple;jammy;balsamic;acrylate"
+    },
+    {
+      "cas": "10032-05-0",
+      "name": "10032-05-0",
+      "descriptors": "fatty;privet;fruity;oily;orange;green;tropical;waxy"
+    },
+    {
+      "cas": "10032-15-2",
+      "name": "10032-15-2",
+      "descriptors": "spicy;fruity;apple;green;tropical;waxy"
+    },
+    {
+      "cas": "10094-36-7",
+      "name": "10094-36-7",
+      "descriptors": "sweet;fruity;pineapple;pear;peach"
+    },
+    {
+      "cas": "10094-41-4",
+      "name": "10094-41-4",
+      "descriptors": "sweet;juicy;vegetable;warm;herbal;fruity;pineapple;apple;pear;fresh;green"
+    },
+    {
+      "cas": "102-76-1",
+      "name": "102-76-1",
+      "descriptors": "clean;fruity;acidic;creamy;tropical"
+    },
+    {
+      "cas": "10276-85-4",
+      "name": "10276-85-4",
+      "descriptors": "fatty;herbal;fruity;pineapple;peach"
+    },
+    {
+      "cas": "103-28-6",
+      "name": "103-28-6",
+      "descriptors": "sweet;juicy;floral;rose;fruity;oily;powdery;jasmin;tropical;woody"
+    },
+    {
+      "cas": "103-37-7",
+      "name": "103-37-7",
+      "descriptors": "sweet;loganberry;fruity;pineapple;apricot;apple;fresh;jasmin;tropical;waxy"
+    },
+    {
+      "cas": "103-38-8",
+      "name": "103-38-8",
+      "descriptors": "sweet;musty;herbal;fruity;pineapple;apple;powdery"
+    },
+    {
+      "cas": "103-45-7",
+      "name": "103-45-7",
+      "descriptors": "sweet;yeasty;floral;honey;rose;fruity;cocoa;balsamic;tropical"
+    },
+    {
+      "cas": "103-58-2",
+      "name": "103-58-2",
+      "descriptors": "sweet;fermented;plum;honey;fruity;osmanthus;apricot;juicy fruit;jammy;bready;balsamic;sugar;fruit dried fruit;tropical"
+    },
+    {
+      "cas": "103-60-6",
+      "name": "103-60-6",
+      "descriptors": "sweet;rose;honey;floral;fruity;apple;powdery;green;tropical;waxy"
+    },
+    {
+      "cas": "10340-23-5",
+      "name": "10340-23-5",
+      "descriptors": "mushroom;melon rind;fresh;green;tropical;waxy"
+    }
+  ],
+  "fruity_plum": [
+    {
+      "cas": "10031-71-7",
+      "name": "10031-71-7",
+      "descriptors": "raisin;plum;floral;honey;fruity;powdery;green;geranium;tropical;papaya"
+    },
+    {
+      "cas": "10031-86-4",
+      "name": "10031-86-4",
+      "descriptors": "plum;floral;fruity;apricot;jasmin"
+    },
+    {
+      "cas": "10031-93-3",
+      "name": "10031-93-3",
+      "descriptors": "sweet;fruity;plum"
+    },
+    {
+      "cas": "10094-34-5",
+      "name": "10094-34-5",
+      "descriptors": "plum;floral;herbal;fruity;prune;green"
+    },
+    {
+      "cas": "103-36-6",
+      "name": "103-36-6",
+      "descriptors": "sweet;spicy;plum;berry;fruity;powdery;balsam"
+    },
+    {
+      "cas": "103-58-2",
+      "name": "103-58-2",
+      "descriptors": "sweet;fermented;plum;honey;fruity;osmanthus;apricot;juicy fruit;jammy;bready;balsamic;sugar;fruit dried fruit;tropical"
+    },
+    {
+      "cas": "104-21-2",
+      "name": "104-21-2",
+      "descriptors": "sweet;vanilla;plum;fruity;powdery;cherry;balsam;tonka"
+    },
+    {
+      "cas": "105-85-1",
+      "name": "105-85-1",
+      "descriptors": "sweet;mandarin;plum;floral;rose;cucumber;fruity;apricot;green;bergamot;citrus;peach;waxy"
+    },
+    {
+      "cas": "107-31-3",
+      "name": "107-31-3",
+      "descriptors": "fruity;estery;plum"
+    },
+    {
+      "cas": "110-45-2",
+      "name": "110-45-2",
+      "descriptors": "dry;estery;cortex;plum;fruity;apple;waxy;green;ethereal;earthy;currant black currant;sharp"
+    },
+    {
+      "cas": "112-23-2",
+      "name": "112-23-2",
+      "descriptors": "vegetable;plum;floral;herbal;cucumber;fruity;apple;green;waxy"
+    },
+    {
+      "cas": "126-64-7",
+      "name": "126-64-7",
+      "descriptors": "plum;ylang;floral;herbal;grape;tuberose;bergamot;lily;tropical;genet"
+    },
+    {
+      "cas": "13678-60-9",
+      "name": "13678-60-9",
+      "descriptors": "plum;ripe;grape;berry;fruity"
+    },
+    {
+      "cas": "15356-74-8",
+      "name": "15356-74-8",
+      "descriptors": "plum;berry;ripe;grape;fruity;apricot;fruit tropical fruit;woody"
+    },
+    {
+      "cas": "15848-49-4",
+      "name": "15848-49-4",
+      "descriptors": "plum;fruity;pineapple;pear;jackfruit"
+    }
+  ],
+  "floral_jasmine": [
+    {
+      "cas": "10031-86-4",
+      "name": "10031-86-4",
+      "descriptors": "plum;floral;fruity;apricot;jasmin"
+    },
+    {
+      "cas": "10058-43-2",
+      "name": "10058-43-2",
+      "descriptors": "dry;herbal;green;lily;jasmin"
+    },
+    {
+      "cas": "101-86-0",
+      "name": "101-86-0",
+      "descriptors": "floral;herbal;fresh;green;jasmin;waxy"
+    },
+    {
+      "cas": "102-16-9",
+      "name": "102-16-9",
+      "descriptors": "sweet;floral;rose;cocoa;jasmin"
+    },
+    {
+      "cas": "103-28-6",
+      "name": "103-28-6",
+      "descriptors": "sweet;juicy;floral;rose;fruity;oily;powdery;jasmin;tropical;woody"
+    },
+    {
+      "cas": "103-37-7",
+      "name": "103-37-7",
+      "descriptors": "sweet;loganberry;fruity;pineapple;apricot;apple;fresh;jasmin;tropical;waxy"
+    },
+    {
+      "cas": "104986-28-9",
+      "name": "104986-28-9",
+      "descriptors": "floral;fruity;anisic;fresh;raspberry;jasmin"
+    },
+    {
+      "cas": "110-39-4",
+      "name": "110-39-4",
+      "descriptors": "sweet;natural;fruity;oily;creamy;fresh;green;jasmin;earthy;waxy"
+    },
+    {
+      "cas": "1128-08-1",
+      "name": "1128-08-1",
+      "descriptors": "sweet;spicy;floral;woody;herbal;fruity;fresh outdoors;powdery;jasmin;myrrh"
+    },
+    {
+      "cas": "1191-16-8",
+      "name": "1191-16-8",
+      "descriptors": "sweet;ripe;banana;fruity;fresh;balsamic;jasmin;heliotrope"
+    },
+    {
+      "cas": "122-40-7",
+      "name": "122-40-7",
+      "descriptors": "sweet;floral;herbal;fruity;oily;powdery;green;jasmin;tropical"
+    },
+    {
+      "cas": "122-63-4",
+      "name": "122-63-4",
+      "descriptors": "sweet;floral;banana;fruity;jasmin;balsam"
+    },
+    {
+      "cas": "122-73-6",
+      "name": "122-73-6",
+      "descriptors": "floral;weedy;fruity;pea green pea;bean green bean;jasmin;gardenia"
+    },
+    {
+      "cas": "1271488-66-4",
+      "name": "1271488-66-4",
+      "descriptors": "floral;rose;muguet;green;jasmin"
+    },
+    {
+      "cas": "13074-63-0",
+      "name": "13074-63-0",
+      "descriptors": "sweet;spicy;fruity;coconut;jasmin"
+    }
+  ],
+  "fruity_peach": [
+    {
+      "cas": "10031-86-4",
+      "name": "10031-86-4",
+      "descriptors": "plum;floral;fruity;apricot;jasmin"
+    },
+    {
+      "cas": "10094-36-7",
+      "name": "10094-36-7",
+      "descriptors": "sweet;fruity;pineapple;pear;peach"
+    },
+    {
+      "cas": "10276-85-4",
+      "name": "10276-85-4",
+      "descriptors": "fatty;herbal;fruity;pineapple;peach"
+    },
+    {
+      "cas": "103-37-7",
+      "name": "103-37-7",
+      "descriptors": "sweet;loganberry;fruity;pineapple;apricot;apple;fresh;jasmin;tropical;waxy"
+    },
+    {
+      "cas": "103-48-0",
+      "name": "103-48-0",
+      "descriptors": "tea;floral;rose;fruity;pastry;peach"
+    },
+    {
+      "cas": "103-58-2",
+      "name": "103-58-2",
+      "descriptors": "sweet;fermented;plum;honey;fruity;osmanthus;apricot;juicy fruit;jammy;bready;balsamic;sugar;fruit dried fruit;tropical"
+    },
+    {
+      "cas": "10307-61-6",
+      "name": "10307-61-6",
+      "descriptors": "apple;fruity;fresh;peach"
+    },
+    {
+      "cas": "104-67-6",
+      "name": "104-67-6",
+      "descriptors": "ketonic;fatty;fruity;apricot;coconut;creamy;peach;lactonic"
+    },
+    {
+      "cas": "10471-96-2",
+      "name": "10471-96-2",
+      "descriptors": "lavender;fruity;apricot;citrus"
+    },
+    {
+      "cas": "105-66-8",
+      "name": "105-66-8",
+      "descriptors": "sweet;rancid;sweaty;bubble gum;fruity;pineapple;apricot;ethereal;tutti frutti"
+    },
+    {
+      "cas": "105-79-3",
+      "name": "105-79-3",
+      "descriptors": "sweet;earthy;estery;sour;fruity;pineapple;apple green apple;green;tropical;apple skin;peach"
+    },
+    {
+      "cas": "105-85-1",
+      "name": "105-85-1",
+      "descriptors": "sweet;mandarin;plum;floral;rose;cucumber;fruity;apricot;green;bergamot;citrus;peach;waxy"
+    },
+    {
+      "cas": "105-86-2",
+      "name": "105-86-2",
+      "descriptors": "floral;rose;fruity;apple;fresh;green;rose tea rose;neroli;tropical;peach"
+    },
+    {
+      "cas": "106-27-4",
+      "name": "106-27-4",
+      "descriptors": "banana;fruity;apricot;pear;green"
+    },
+    {
+      "cas": "106-29-6",
+      "name": "106-29-6",
+      "descriptors": "sweet;rose;fruity;apricot;fresh;raspberry;green;tropical;peach;waxy"
+    }
+  ],
+  "fruity_banana": [
+    {
+      "cas": "10031-87-5",
+      "name": "10031-87-5",
+      "descriptors": "sweet;musty;banana;fruity;oily;ethereal"
+    },
+    {
+      "cas": "10250-45-0",
+      "name": "10250-45-0",
+      "descriptors": "rhubarb;lilac;floral;herbal;banana"
+    },
+    {
+      "cas": "10484-09-0",
+      "name": "10484-09-0",
+      "descriptors": "banana;fruity;pineapple;wintergreen"
+    },
+    {
+      "cas": "105-46-4",
+      "name": "105-46-4",
+      "descriptors": "banana;solvent;fruity"
+    },
+    {
+      "cas": "105-68-0",
+      "name": "105-68-0",
+      "descriptors": "sweet;estery;ripe;banana;fruity;pineapple;apple;fresh;green;fruit tropical fruit;tropical"
+    },
+    {
+      "cas": "106-27-4",
+      "name": "106-27-4",
+      "descriptors": "banana;fruity;apricot;pear;green"
+    },
+    {
+      "cas": "106-30-9",
+      "name": "106-30-9",
+      "descriptors": "sweet;rummy;estery;seedy;berry;banana;cognac;fruity;pineapple;winey;green"
+    },
+    {
+      "cas": "106-32-1",
+      "name": "106-32-1",
+      "descriptors": "sweet;musty;banana;brandy;fruity;winey;apricot;pineapple;pear;creamy;dairy;waxy"
+    },
+    {
+      "cas": "106-70-7",
+      "name": "106-70-7",
+      "descriptors": "bacon;banana;strawberry;fruity;pineapple;apricot;ethereal;fruit tropical fruit"
+    },
+    {
+      "cas": "107-87-9",
+      "name": "107-87-9",
+      "descriptors": "sweet;fermented;banana;fruity;winey;ethereal;woody"
+    },
+    {
+      "cas": "1070-35-5",
+      "name": "1070-35-5",
+      "descriptors": "banana;banana peel;fruity;green"
+    },
+    {
+      "cas": "108-21-4",
+      "name": "108-21-4",
+      "descriptors": "sweet;banana;fruity;ethereal;chemical"
+    },
+    {
+      "cas": "108-83-8",
+      "name": "108-83-8",
+      "descriptors": "metallic;fermented;banana;fruity;pineapple;green;ethereal;ketonic"
+    },
+    {
+      "cas": "108-84-9",
+      "name": "108-84-9",
+      "descriptors": "sweet;fruity;banana"
+    },
+    {
+      "cas": "109-21-7",
+      "name": "109-21-7",
+      "descriptors": "sweet;ripe;banana;fruity;pineapple;juicy fruit;fresh;green;cherry;fruit tropical fruit;fruit ripe fruit"
+    }
+  ],
+  "fruity_melon": [
+    {
+      "cas": "10031-92-2",
+      "name": "10031-92-2",
+      "descriptors": "floral;cucumber;violet leaf;green"
+    },
+    {
+      "cas": "10339-61-4",
+      "name": "10339-61-4",
+      "descriptors": "melon;cucumber;green;waxy"
+    },
+    {
+      "cas": "10340-23-5",
+      "name": "10340-23-5",
+      "descriptors": "mushroom;melon rind;fresh;green;tropical;waxy"
+    },
+    {
+      "cas": "104-53-0",
+      "name": "104-53-0",
+      "descriptors": "aldehydic;foliage;leafy;cortex;floral;melon;fresh;balsamic;green;storax"
+    },
+    {
+      "cas": "105-85-1",
+      "name": "105-85-1",
+      "descriptors": "sweet;mandarin;plum;floral;rose;cucumber;fruity;apricot;green;bergamot;citrus;peach;waxy"
+    },
+    {
+      "cas": "105683-99-6",
+      "name": "105683-99-6",
+      "descriptors": "cucumber;tallow;green"
+    },
+    {
+      "cas": "106-72-9",
+      "name": "106-72-9",
+      "descriptors": "sweet;clean;floral;melon;ozone;oily;watermelon rind;fresh;green;watermelon"
+    },
+    {
+      "cas": "107-75-5",
+      "name": "107-75-5",
+      "descriptors": "sweet;floral;melon;green;lily;tropical;waxy"
+    },
+    {
+      "cas": "109-20-6",
+      "name": "109-20-6",
+      "descriptors": "sweet;blueberry;herbal;melon;fruity;pineapple;oily;apple;green"
+    },
+    {
+      "cas": "110-40-7",
+      "name": "110-40-7",
+      "descriptors": "melon;fruity;quince;winey"
+    },
+    {
+      "cas": "111-12-6",
+      "name": "111-12-6",
+      "descriptors": "vegetable;leafy;fatty;floral;melon;cucumber;violet;fruity;violet leaf;green;waxy"
+    },
+    {
+      "cas": "111-79-5",
+      "name": "111-79-5",
+      "descriptors": "sweet;vegetable;melon;fruity;violet;pear;green;waxy"
+    },
+    {
+      "cas": "111-80-8",
+      "name": "111-80-8",
+      "descriptors": "floral;melon;cucumber;violet leaf;green"
+    },
+    {
+      "cas": "112-23-2",
+      "name": "112-23-2",
+      "descriptors": "vegetable;plum;floral;herbal;cucumber;fruity;apple;green;waxy"
+    },
+    {
+      "cas": "112-32-3",
+      "name": "112-32-3",
+      "descriptors": "rose;cucumber;fruity;orange;waxy"
+    }
+  ],
+  "fruity_apple": [
+    {
+      "cas": "10032-00-5",
+      "name": "10032-00-5",
+      "descriptors": "sweet;fermented;fruity;winey;apple skin"
+    },
+    {
+      "cas": "10032-11-8",
+      "name": "10032-11-8",
+      "descriptors": "sweet;apple;apple green apple;green"
+    },
+    {
+      "cas": "10032-13-0",
+      "name": "10032-13-0",
+      "descriptors": "sweet;juicy;strawberry;fruity;apple;skin;fresh;green;apple skin"
+    },
+    {
+      "cas": "10032-15-2",
+      "name": "10032-15-2",
+      "descriptors": "spicy;fruity;apple;green;tropical;waxy"
+    },
+    {
+      "cas": "10094-41-4",
+      "name": "10094-41-4",
+      "descriptors": "sweet;juicy;vegetable;warm;herbal;fruity;pineapple;apple;pear;fresh;green"
+    },
+    {
+      "cas": "103-37-7",
+      "name": "103-37-7",
+      "descriptors": "sweet;loganberry;fruity;pineapple;apricot;apple;fresh;jasmin;tropical;waxy"
+    },
+    {
+      "cas": "103-38-8",
+      "name": "103-38-8",
+      "descriptors": "sweet;musty;herbal;fruity;pineapple;apple;powdery"
+    },
+    {
+      "cas": "103-60-6",
+      "name": "103-60-6",
+      "descriptors": "sweet;rose;honey;floral;fruity;apple;powdery;green;tropical;waxy"
+    },
+    {
+      "cas": "10307-60-5",
+      "name": "10307-60-5",
+      "descriptors": "apple;fruity"
+    },
+    {
+      "cas": "10307-61-6",
+      "name": "10307-61-6",
+      "descriptors": "apple;fruity;fresh;peach"
+    },
+    {
+      "cas": "10361-39-4",
+      "name": "10361-39-4",
+      "descriptors": "floral;fruity;apple skin"
+    },
+    {
+      "cas": "105-53-3",
+      "name": "105-53-3",
+      "descriptors": "sweet;apple;fruity;green"
+    },
+    {
+      "cas": "105-68-0",
+      "name": "105-68-0",
+      "descriptors": "sweet;estery;ripe;banana;fruity;pineapple;apple;fresh;green;fruit tropical fruit;tropical"
+    },
+    {
+      "cas": "105-79-3",
+      "name": "105-79-3",
+      "descriptors": "sweet;earthy;estery;sour;fruity;pineapple;apple green apple;green;tropical;apple skin;peach"
+    },
+    {
+      "cas": "105-86-2",
+      "name": "105-86-2",
+      "descriptors": "floral;rose;fruity;apple;fresh;green;rose tea rose;neroli;tropical;peach"
+    }
+  ],
+  "fresh": [
+    {
+      "cas": "10032-13-0",
+      "name": "10032-13-0",
+      "descriptors": "sweet;juicy;strawberry;fruity;apple;skin;fresh;green;apple skin"
+    },
+    {
+      "cas": "1009-62-7",
+      "name": "1009-62-7",
+      "descriptors": "ocean;fresh;marine"
+    },
+    {
+      "cas": "10094-41-4",
+      "name": "10094-41-4",
+      "descriptors": "sweet;juicy;vegetable;warm;herbal;fruity;pineapple;apple;pear;fresh;green"
+    },
+    {
+      "cas": "101-86-0",
+      "name": "101-86-0",
+      "descriptors": "floral;herbal;fresh;green;jasmin;waxy"
+    },
+    {
+      "cas": "103-05-9",
+      "name": "103-05-9",
+      "descriptors": "clean;floral;rose;violet;fresh;bois de rose;green;lily"
+    },
+    {
+      "cas": "103-37-7",
+      "name": "103-37-7",
+      "descriptors": "sweet;loganberry;fruity;pineapple;apricot;apple;fresh;jasmin;tropical;waxy"
+    },
+    {
+      "cas": "103-95-7",
+      "name": "103-95-7",
+      "descriptors": "cyclamen;musty;rhubarb;floral;fresh;green"
+    },
+    {
+      "cas": "10307-61-6",
+      "name": "10307-61-6",
+      "descriptors": "apple;fruity;fresh;peach"
+    },
+    {
+      "cas": "10339-55-6",
+      "name": "10339-55-6",
+      "descriptors": "floral;herbal;lavender;bois de rose;fresh;wet;green;bergamot"
+    },
+    {
+      "cas": "10340-23-5",
+      "name": "10340-23-5",
+      "descriptors": "mushroom;melon rind;fresh;green;tropical;waxy"
+    },
+    {
+      "cas": "10348-47-7",
+      "name": "10348-47-7",
+      "descriptors": "fruity;fresh;blackberry"
+    },
+    {
+      "cas": "104-53-0",
+      "name": "104-53-0",
+      "descriptors": "aldehydic;foliage;leafy;cortex;floral;melon;fresh;balsamic;green;storax"
+    },
+    {
+      "cas": "104-76-7",
+      "name": "104-76-7",
+      "descriptors": "sweet;floral;oily;fresh;citrus"
+    },
+    {
+      "cas": "10411-92-4",
+      "name": "10411-92-4",
+      "descriptors": "floral;fruity;fresh;pine"
+    },
+    {
+      "cas": "10415-87-9",
+      "name": "10415-87-9",
+      "descriptors": "sweet;lilac;floral;peony;anisic;fresh;narcissus;earthy"
+    }
+  ],
+  "fruity_berry": [
+    {
+      "cas": "10032-13-0",
+      "name": "10032-13-0",
+      "descriptors": "sweet;juicy;strawberry;fruity;apple;skin;fresh;green;apple skin"
+    },
+    {
+      "cas": "103-26-4",
+      "name": "103-26-4",
+      "descriptors": "sweet;strawberry;cinnamyl;balsamic;cherry"
+    },
+    {
+      "cas": "103-36-6",
+      "name": "103-36-6",
+      "descriptors": "sweet;spicy;plum;berry;fruity;powdery;balsam"
+    },
+    {
+      "cas": "103-37-7",
+      "name": "103-37-7",
+      "descriptors": "sweet;loganberry;fruity;pineapple;apricot;apple;fresh;jasmin;tropical;waxy"
+    },
+    {
+      "cas": "103-52-6",
+      "name": "103-52-6",
+      "descriptors": "sweet;musty;yeasty;floral;strawberry"
+    },
+    {
+      "cas": "10321-71-8",
+      "name": "10321-71-8",
+      "descriptors": "blackberry;tea;fruity;fatty"
+    },
+    {
+      "cas": "10348-47-7",
+      "name": "10348-47-7",
+      "descriptors": "fruity;fresh;blackberry"
+    },
+    {
+      "cas": "104-20-1",
+      "name": "104-20-1",
+      "descriptors": "sweet;absolute;rose;fruity;dried;cassie;raspberry;cherry"
+    },
+    {
+      "cas": "104-57-4",
+      "name": "104-57-4",
+      "descriptors": "cherry;spicy;floral;cranberry;fruity;almond;tea black tea;chemical"
+    },
+    {
+      "cas": "10484-56-7",
+      "name": "10484-56-7",
+      "descriptors": "sweet;berry;floral;strawberry;fruity;raspberry"
+    },
+    {
+      "cas": "104986-28-9",
+      "name": "104986-28-9",
+      "descriptors": "floral;fruity;anisic;fresh;raspberry;jasmin"
+    },
+    {
+      "cas": "105-91-9",
+      "name": "105-91-9",
+      "descriptors": "sweet;berry;floral;fruity;jammy;powdery;green;tutti frutti"
+    },
+    {
+      "cas": "106-29-6",
+      "name": "106-29-6",
+      "descriptors": "sweet;rose;fruity;apricot;fresh;raspberry;green;tropical;peach;waxy"
+    },
+    {
+      "cas": "106-30-9",
+      "name": "106-30-9",
+      "descriptors": "sweet;rummy;estery;seedy;berry;banana;cognac;fruity;pineapple;winey;green"
+    },
+    {
+      "cas": "106-70-7",
+      "name": "106-70-7",
+      "descriptors": "bacon;banana;strawberry;fruity;pineapple;apricot;ethereal;fruit tropical fruit"
+    }
+  ],
+  "floral_lily": [
+    {
+      "cas": "10058-43-2",
+      "name": "10058-43-2",
+      "descriptors": "dry;herbal;green;lily;jasmin"
+    },
+    {
+      "cas": "101-94-0",
+      "name": "101-94-0",
+      "descriptors": "animal;rose;honey;narcissus;lily;hyacinth"
+    },
+    {
+      "cas": "103-05-9",
+      "name": "103-05-9",
+      "descriptors": "clean;floral;rose;violet;fresh;bois de rose;green;lily"
+    },
+    {
+      "cas": "103-93-5",
+      "name": "103-93-5",
+      "descriptors": "animal;floral;fruity;green;narcissus;lily"
+    },
+    {
+      "cas": "103694-68-4",
+      "name": "103694-68-4",
+      "descriptors": "floral;tropical;lily of the valley;green"
+    },
+    {
+      "cas": "106-28-5",
+      "name": "106-28-5",
+      "descriptors": "sweet;floral;muguet;lily;waxy"
+    },
+    {
+      "cas": "107-74-4",
+      "name": "107-74-4",
+      "descriptors": "clean;floral;rose;green;peony;lily"
+    },
+    {
+      "cas": "107-75-5",
+      "name": "107-75-5",
+      "descriptors": "sweet;floral;melon;green;lily;tropical;waxy"
+    },
+    {
+      "cas": "125109-85-5",
+      "name": "125109-85-5",
+      "descriptors": "lily of the valley;floral;muguet;fresh;green;linden flower"
+    },
+    {
+      "cas": "126-64-7",
+      "name": "126-64-7",
+      "descriptors": "plum;ylang;floral;herbal;grape;tuberose;bergamot;lily;tropical;genet"
+    },
+    {
+      "cas": "1271488-66-4",
+      "name": "1271488-66-4",
+      "descriptors": "floral;rose;muguet;green;jasmin"
+    },
+    {
+      "cas": "1304037-63-5",
+      "name": "1304037-63-5",
+      "descriptors": "muguet;fatty;green"
+    },
+    {
+      "cas": "1304037-68-0",
+      "name": "1304037-68-0",
+      "descriptors": "muguet;fatty;green"
+    },
+    {
+      "cas": "13351-61-6",
+      "name": "13351-61-6",
+      "descriptors": "floral;woody;lily of the valley"
+    },
+    {
+      "cas": "1339119-15-1",
+      "name": "1339119-15-1",
+      "descriptors": "marine;floral;fruity;muguet;green;lily"
+    }
+  ],
+  "earthy": [
+    {
+      "cas": "1006-27-5",
+      "name": "1006-27-5",
+      "descriptors": "earthy;animal;floral;anisic;hawthorn;minty"
+    },
+    {
+      "cas": "101-48-4",
+      "name": "101-48-4",
+      "descriptors": "foliage;mushroom;floral;rosy;green;earthy"
+    },
+    {
+      "cas": "103-09-3",
+      "name": "103-09-3",
+      "descriptors": "herbal;earthy;dirty;humus"
+    },
+    {
+      "cas": "103-50-4",
+      "name": "103-50-4",
+      "descriptors": "sweet;mushroom;rose;plastic;fruity;cherry;earthy"
+    },
+    {
+      "cas": "104-90-5",
+      "name": "104-90-5",
+      "descriptors": "roasted;potato raw potato;nutty;earthy"
+    },
+    {
+      "cas": "10402-52-5",
+      "name": "10402-52-5",
+      "descriptors": "sweet;lilac;floral;green;earthy;hyacinth"
+    },
+    {
+      "cas": "10415-87-9",
+      "name": "10415-87-9",
+      "descriptors": "sweet;lilac;floral;peony;anisic;fresh;narcissus;earthy"
+    },
+    {
+      "cas": "10486-26-7",
+      "name": "10486-26-7",
+      "descriptors": "woody;rooty;cedar"
+    },
+    {
+      "cas": "105-57-7",
+      "name": "105-57-7",
+      "descriptors": "sweet;vegetable;nutty;green;ethereal;earthy"
+    },
+    {
+      "cas": "105-79-3",
+      "name": "105-79-3",
+      "descriptors": "sweet;earthy;estery;sour;fruity;pineapple;apple green apple;green;tropical;apple skin;peach"
+    },
+    {
+      "cas": "105463-44-3",
+      "name": "105463-44-3",
+      "descriptors": "herbal;rooty;camphoreous;patchouli;woody;earthy"
+    },
+    {
+      "cas": "10599-70-9",
+      "name": "10599-70-9",
+      "descriptors": "sweet;musty;cocoa;nutty;powdery;roasted;earthy;leathery;corn"
+    },
+    {
+      "cas": "109-08-0",
+      "name": "109-08-0",
+      "descriptors": "musty;cocoa;nutty;brown;green;peanut;roasted;earthy;nut skin;chocolate"
+    },
+    {
+      "cas": "109-15-9",
+      "name": "109-15-9",
+      "descriptors": "aldehydic;clean;fruity;oily;creamy;green;earthy;soapy;waxy"
+    },
+    {
+      "cas": "110-39-4",
+      "name": "110-39-4",
+      "descriptors": "sweet;natural;fruity;oily;creamy;fresh;green;jasmin;earthy;waxy"
+    }
+  ],
+  "fresh_marine": [
+    {
+      "cas": "1009-62-7",
+      "name": "1009-62-7",
+      "descriptors": "ocean;fresh;marine"
+    },
+    {
+      "cas": "130786-09-3",
+      "name": "130786-09-3",
+      "descriptors": "metallic;marine;floral;herbal;orchid;clover;green;waxy"
+    },
+    {
+      "cas": "1339119-15-1",
+      "name": "1339119-15-1",
+      "descriptors": "marine;floral;fruity;muguet;green;lily"
+    },
+    {
+      "cas": "134123-93-6",
+      "name": "134123-93-6",
+      "descriptors": "marine;herbal;seashore;ozone;anisic"
+    },
+    {
+      "cas": "141-13-9",
+      "name": "141-13-9",
+      "descriptors": "aldehydic;lily of the valley;marine;floral;rose;fresh;incense;watery;waxy"
+    },
+    {
+      "cas": "181258-87-7",
+      "name": "181258-87-7",
+      "descriptors": "marine;ozone;fresh outdoors;green;pepper bell pepper"
+    },
+    {
+      "cas": "18445-88-0",
+      "name": "18445-88-0",
+      "descriptors": "aldehydic;marine;floral;ozone;citrus"
+    },
+    {
+      "cas": "20184-89-8",
+      "name": "20184-89-8",
+      "descriptors": "cucumber;marine;green"
+    },
+    {
+      "cas": "28940-11-6",
+      "name": "28940-11-6",
+      "descriptors": "clean;marine;melon;ozone;phenolic;fresh;green;watery"
+    },
+    {
+      "cas": "3209-13-0",
+      "name": "3209-13-0",
+      "descriptors": "marine;oakmoss;fruity;mossy;woody;hay"
+    },
+    {
+      "cas": "32263-00-6",
+      "name": "32263-00-6",
+      "descriptors": "roasted;burnt;marine"
+    },
+    {
+      "cas": "362467-67-2",
+      "name": "362467-67-2",
+      "descriptors": "marine"
+    },
+    {
+      "cas": "37677-14-8",
+      "name": "37677-14-8",
+      "descriptors": "aldehydic;marine;greasy;floral;citrus"
+    },
+    {
+      "cas": "38462-23-6",
+      "name": "38462-23-6",
+      "descriptors": "metallic;clean;costus;marine;fresh outdoors;wet;watery;buttery"
+    },
+    {
+      "cas": "50306-18-8",
+      "name": "50306-18-8",
+      "descriptors": "metallic;marine;mushroom;green"
+    }
+  ],
+  "fruity_pear": [
+    {
+      "cas": "10094-36-7",
+      "name": "10094-36-7",
+      "descriptors": "sweet;fruity;pineapple;pear;peach"
+    },
+    {
+      "cas": "10094-41-4",
+      "name": "10094-41-4",
+      "descriptors": "sweet;juicy;vegetable;warm;herbal;fruity;pineapple;apple;pear;fresh;green"
+    },
+    {
+      "cas": "105450-79-1",
+      "name": "105450-79-1",
+      "descriptors": "fishy;estery;pear;fruity"
+    },
+    {
+      "cas": "106-27-4",
+      "name": "106-27-4",
+      "descriptors": "banana;fruity;apricot;pear;green"
+    },
+    {
+      "cas": "106-32-1",
+      "name": "106-32-1",
+      "descriptors": "sweet;musty;banana;brandy;fruity;winey;apricot;pineapple;pear;creamy;dairy;waxy"
+    },
+    {
+      "cas": "1064678-08-5",
+      "name": "1064678-08-5",
+      "descriptors": "sweet;sulfurous;garlic;fruity;lychee;pear;onion"
+    },
+    {
+      "cas": "109-19-3",
+      "name": "109-19-3",
+      "descriptors": "sweet;fruity;pineapple;apple;pear;green;pungent;peach"
+    },
+    {
+      "cas": "109-60-4",
+      "name": "109-60-4",
+      "descriptors": "sweet;solvent;fruity;pear;fusel;raspberry;celery;pungent"
+    },
+    {
+      "cas": "111-79-5",
+      "name": "111-79-5",
+      "descriptors": "sweet;vegetable;melon;fruity;violet;pear;green;waxy"
+    },
+    {
+      "cas": "112-06-1",
+      "name": "112-06-1",
+      "descriptors": "aldehydic;rummy;fatty;winey;apricot;pear;fresh;green;woody;fruit ripe fruit;citrus;waxy"
+    },
+    {
+      "cas": "124-25-4",
+      "name": "124-25-4",
+      "descriptors": "dry;fatty;fruity;pear;amber;creamy;citrus peel;fishy;incense;dairy;musk;waxy"
+    },
+    {
+      "cas": "13049-88-2",
+      "name": "13049-88-2",
+      "descriptors": "fleshy;herbal;fruity;pear;green;tropical"
+    },
+    {
+      "cas": "13481-87-3",
+      "name": "13481-87-3",
+      "descriptors": "juicy;dry;fatty;pear skin;fruity;honeydew;green;watermelon rind"
+    },
+    {
+      "cas": "136954-20-6",
+      "name": "136954-20-6",
+      "descriptors": "currant bud black currant bud;blackberry;floral;fruity;pear;raspberry;passion fruit;tropical"
+    },
+    {
+      "cas": "13894-61-6",
+      "name": "13894-61-6",
+      "descriptors": "sweet;cortex;floral;honey;fruity;pineapple;apple;pear;fresh;green;guava;tropical;hyacinth;papaya;sharp"
+    }
+  ],
+  "spicy_cinnamon": [
+    {
+      "cas": "101-39-3",
+      "name": "101-39-3",
+      "descriptors": "sweet;spicy;warm;cinnamon;cassia;balsamic"
+    },
+    {
+      "cas": "103-54-8",
+      "name": "103-54-8",
+      "descriptors": "sweet;spicy;cinnamon;floral;balsam"
+    },
+    {
+      "cas": "104-54-1",
+      "name": "104-54-1",
+      "descriptors": "sweet;fermented;spicy;cinnamon;floral;powdery;cinnamyl;balsamic;green;hyacinth"
+    },
+    {
+      "cas": "104-55-2",
+      "name": "104-55-2",
+      "descriptors": "sweet;aldehydic;resinous;spicy;cinnamon;cassia;honey;cinnamyl;powdery;balsamic;aromatic"
+    },
+    {
+      "cas": "104-64-3",
+      "name": "104-64-3",
+      "descriptors": "sweet;cinnamon;floral;honey;hyacinth"
+    },
+    {
+      "cas": "108576-21-2",
+      "name": "108576-21-2",
+      "descriptors": "spicy;medicinal;cinnamon;cassia;herbal;woody"
+    },
+    {
+      "cas": "119-84-6",
+      "name": "119-84-6",
+      "descriptors": "sweet;vanilla;spicy;cinnamon;herbal;coconut;creamy;coumarinic;balsamic;tonka"
+    },
+    {
+      "cas": "120-24-1Z",
+      "name": "120-24-1Z",
+      "descriptors": "sweet;spicy;cinnamon;floral;honey;clove"
+    },
+    {
+      "cas": "122-57-6",
+      "name": "122-57-6",
+      "descriptors": "sweet;spicy;rhubarb;cinnamon;floral;fruity;anisic;creamy;powdery;balsamic;phenolic;jammy"
+    },
+    {
+      "cas": "122-72-5",
+      "name": "122-72-5",
+      "descriptors": "sweet;spicy;cinnamon;honey;fruity;cinnamyl;balsamic;storax;hay"
+    },
+    {
+      "cas": "14371-10-9",
+      "name": "14371-10-9",
+      "descriptors": "sweet;spicy;cinnamon;warm;candy"
+    },
+    {
+      "cas": "1504-74-1",
+      "name": "1504-74-1",
+      "descriptors": "sweet;resinous;spicy;cinnamon;cassia;oily;cinnamyl;paper;woody"
+    },
+    {
+      "cas": "1504-75-2",
+      "name": "1504-75-2",
+      "descriptors": "spicy;cinnamon"
+    },
+    {
+      "cas": "15174-47-7",
+      "name": "15174-47-7",
+      "descriptors": "spicy;cinnamon;cassia"
+    },
+    {
+      "cas": "1604-28-0",
+      "name": "1604-28-0",
+      "descriptors": "sweet;spicy;cinnamon;weedy;herbal;coconut;cooling;green;woody"
+    }
+  ],
+  "earthy_mushroom": [
+    {
+      "cas": "101-48-4",
+      "name": "101-48-4",
+      "descriptors": "foliage;mushroom;floral;rosy;green;earthy"
+    },
+    {
+      "cas": "103-50-4",
+      "name": "103-50-4",
+      "descriptors": "sweet;mushroom;rose;plastic;fruity;cherry;earthy"
+    },
+    {
+      "cas": "10340-23-5",
+      "name": "10340-23-5",
+      "descriptors": "mushroom;melon rind;fresh;green;tropical;waxy"
+    },
+    {
+      "cas": "106-68-3",
+      "name": "106-68-3",
+      "descriptors": "sweet;musty;fermented;vegetable;mushroom;herbal;lavender;fresh;green;moldy;cheesy;ketonic"
+    },
+    {
+      "cas": "107697-91-6",
+      "name": "107697-91-6",
+      "descriptors": "fungal;mushroom"
+    },
+    {
+      "cas": "111-45-5",
+      "name": "111-45-5",
+      "descriptors": "mushroom;mild"
+    },
+    {
+      "cas": "111-81-9",
+      "name": "111-81-9",
+      "descriptors": "fatty;rose;floral;fungal;earthy;citrus;waxy"
+    },
+    {
+      "cas": "111-82-0",
+      "name": "111-82-0",
+      "descriptors": "mushroom;coconut;creamy;soapy;waxy"
+    },
+    {
+      "cas": "111-87-5",
+      "name": "111-87-5",
+      "descriptors": "sweet;aldehydic;mushroom;fatty;rose;floral;coconut;orange;green;citrus;waxy"
+    },
+    {
+      "cas": "112-14-1",
+      "name": "112-14-1",
+      "descriptors": "mushroom;herbal;green;earthy;waxy"
+    },
+    {
+      "cas": "1125-88-8",
+      "name": "1125-88-8",
+      "descriptors": "vegetable;floral;potato;nutty;rooty;winey;fruity;spinach;green;almond;fungal;earthy;sharp"
+    },
+    {
+      "cas": "1191-43-1",
+      "name": "1191-43-1",
+      "descriptors": "meaty;sulfurous;fatty;burnt;fungal"
+    },
+    {
+      "cas": "1191-62-4",
+      "name": "1191-62-4",
+      "descriptors": "earthy;meaty;sulfurous;mushroom"
+    },
+    {
+      "cas": "1241905-19-0",
+      "name": "1241905-19-0",
+      "descriptors": "currant bud black currant bud;sulfurous;mushroom;herbal;chocolate"
+    },
+    {
+      "cas": "13529-27-6",
+      "name": "13529-27-6",
+      "descriptors": "earthy;fruity;mushroom"
+    }
+  ],
+  "sweet_chocolate": [
+    {
+      "cas": "101-97-3",
+      "name": "101-97-3",
+      "descriptors": "sweet;chocolate dark chocolate;floral;honey;rose;cocoa;anisic;balsamic;licorice black licorice"
+    },
+    {
+      "cas": "101517-87-7",
+      "name": "101517-87-7",
+      "descriptors": "roasted;nutty;peanut;cocoa"
+    },
+    {
+      "cas": "102-13-6",
+      "name": "102-13-6",
+      "descriptors": "sweet;floral;honey;cocoa;fruity;amber;chocolate;waxy"
+    },
+    {
+      "cas": "102-16-9",
+      "name": "102-16-9",
+      "descriptors": "sweet;floral;rose;cocoa;jasmin"
+    },
+    {
+      "cas": "102-19-2",
+      "name": "102-19-2",
+      "descriptors": "sweet;animal;floral;honey;rose;cocoa;balsamic;castoreum;chocolate"
+    },
+    {
+      "cas": "103-45-7",
+      "name": "103-45-7",
+      "descriptors": "sweet;yeasty;floral;honey;rose;fruity;cocoa;balsamic;tropical"
+    },
+    {
+      "cas": "103-82-2",
+      "name": "103-82-2",
+      "descriptors": "sweet;animal;sour;floral;honey;rose;civet;powdery;tobacco;honeysuckle;chocolate;waxy"
+    },
+    {
+      "cas": "104691-41-0",
+      "name": "104691-41-0",
+      "descriptors": "meaty;cocoa;nutty;onion;peanut;leek"
+    },
+    {
+      "cas": "10599-70-9",
+      "name": "10599-70-9",
+      "descriptors": "sweet;musty;cocoa;nutty;powdery;roasted;earthy;leathery;corn"
+    },
+    {
+      "cas": "108-29-2",
+      "name": "108-29-2",
+      "descriptors": "sweet;warm;cocoa;herbal;tobacco;woody"
+    },
+    {
+      "cas": "108-48-5",
+      "name": "108-48-5",
+      "descriptors": "vegetable;cocoa;nutty;oily;bready;fishy;woody;ammoniacal"
+    },
+    {
+      "cas": "108-50-9",
+      "name": "108-50-9",
+      "descriptors": "cocoa;buttermilk;nutty;coffee;beefy;brown;ethereal;roasted;chocolate;meaty roasted meaty"
+    },
+    {
+      "cas": "109-08-0",
+      "name": "109-08-0",
+      "descriptors": "musty;cocoa;nutty;brown;green;peanut;roasted;earthy;nut skin;chocolate"
+    },
+    {
+      "cas": "1124-11-4",
+      "name": "1124-11-4",
+      "descriptors": "lard;musty;vanilla;dry;cocoa;nutty;coffee;burnt;brown;chocolate"
+    },
+    {
+      "cas": "1192-62-7",
+      "name": "1192-62-7",
+      "descriptors": "sweet;toasted;caramellic;cocoa;nutty;coffee;balsamic;brown;almond;milky;lactonic"
+    }
+  ],
+  "fresh_watery": [
+    {
+      "cas": "10138-32-6",
+      "name": "10138-32-6",
+      "descriptors": "watery;fruity;honeydew;green"
+    },
+    {
+      "cas": "112-30-1",
+      "name": "112-30-1",
+      "descriptors": "sweet;clean;fatty;floral;orange;watery;waxy"
+    },
+    {
+      "cas": "1205-17-0",
+      "name": "1205-17-0",
+      "descriptors": "cyclamen;floral;ozone;fresh;green;watery;hay"
+    },
+    {
+      "cas": "13019-16-4",
+      "name": "13019-16-4",
+      "descriptors": "metallic;aldehydic;fatty;sweaty;goaty;fruity;oily;green;watery;tropical"
+    },
+    {
+      "cas": "13019-22-2",
+      "name": "13019-22-2",
+      "descriptors": "aldehydic;clean;rose;fresh;dewy;waxy"
+    },
+    {
+      "cas": "1322-17-4",
+      "name": "1322-17-4",
+      "descriptors": "sweet;floral;oily;fresh;watery;jasmin"
+    },
+    {
+      "cas": "134769-33-8",
+      "name": "134769-33-8",
+      "descriptors": "sweet;aldehydic;tangerine;fresh;watery;citrus"
+    },
+    {
+      "cas": "141-12-8",
+      "name": "141-12-8",
+      "descriptors": "sweet;floral;rose;grapefruit;fruity;pear;dewy;tropical;soapy;citrus"
+    },
+    {
+      "cas": "141-13-9",
+      "name": "141-13-9",
+      "descriptors": "aldehydic;lily of the valley;marine;floral;rose;fresh;incense;watery;waxy"
+    },
+    {
+      "cas": "1637294-12-2",
+      "name": "1637294-12-2",
+      "descriptors": "aldehydic;floral;green;watery;lilial"
+    },
+    {
+      "cas": "16491-54-6",
+      "name": "16491-54-6",
+      "descriptors": "metallic;mushroom;floral;fruity;orchid;privet;green;watery;buttery;waxy"
+    },
+    {
+      "cas": "18127-01-0",
+      "name": "18127-01-0",
+      "descriptors": "sweet;cyclamen;floral;fresh;watery"
+    },
+    {
+      "cas": "19009-56-4",
+      "name": "19009-56-4",
+      "descriptors": "dry;fresh;watery;citrus;waxy"
+    },
+    {
+      "cas": "194934-66-2",
+      "name": "194934-66-2",
+      "descriptors": "cyclamen;floral;orchid;creamy;muguet;green;watery;waxy"
+    },
+    {
+      "cas": "21662-09-9",
+      "name": "21662-09-9",
+      "descriptors": "aldehydic;cardamom;orange;watery;citrus"
+    }
+  ],
+  "roasted": [
+    {
+      "cas": "101426-31-7",
+      "name": "101426-31-7",
+      "descriptors": "roasted;nutty"
+    },
+    {
+      "cas": "101517-87-7",
+      "name": "101517-87-7",
+      "descriptors": "roasted;nutty;peanut;cocoa"
+    },
+    {
+      "cas": "103-58-2",
+      "name": "103-58-2",
+      "descriptors": "sweet;fermented;plum;honey;fruity;osmanthus;apricot;juicy fruit;jammy;bready;balsamic;sugar;fruit dried fruit;tropical"
+    },
+    {
+      "cas": "104-90-5",
+      "name": "104-90-5",
+      "descriptors": "roasted;potato raw potato;nutty;earthy"
+    },
+    {
+      "cas": "10414-68-3",
+      "name": "10414-68-3",
+      "descriptors": "roasted;brown;cooked"
+    },
+    {
+      "cas": "105-67-9",
+      "name": "105-67-9",
+      "descriptors": "roasted;smoky"
+    },
+    {
+      "cas": "10551-58-3",
+      "name": "10551-58-3",
+      "descriptors": "baked;bread"
+    },
+    {
+      "cas": "10599-70-9",
+      "name": "10599-70-9",
+      "descriptors": "sweet;musty;cocoa;nutty;powdery;roasted;earthy;leathery;corn"
+    },
+    {
+      "cas": "1072-83-9",
+      "name": "1072-83-9",
+      "descriptors": "musty;cherry maraschino cherry;nutty;walnut;bready;coumarinic;licorice;nut skin"
+    },
+    {
+      "cas": "1073-26-3",
+      "name": "1073-26-3",
+      "descriptors": "roasted;popcorn"
+    },
+    {
+      "cas": "108-48-5",
+      "name": "108-48-5",
+      "descriptors": "vegetable;cocoa;nutty;oily;bready;fishy;woody;ammoniacal"
+    },
+    {
+      "cas": "108-50-9",
+      "name": "108-50-9",
+      "descriptors": "cocoa;buttermilk;nutty;coffee;beefy;brown;ethereal;roasted;chocolate;meaty roasted meaty"
+    },
+    {
+      "cas": "109-08-0",
+      "name": "109-08-0",
+      "descriptors": "musty;cocoa;nutty;brown;green;peanut;roasted;earthy;nut skin;chocolate"
+    },
+    {
+      "cas": "109-79-5",
+      "name": "109-79-5",
+      "descriptors": "sulfurous;fatty;garlic;coffee;onion;onion cooked onion;beefy roasted beefy;egg nog"
+    },
+    {
+      "cas": "109682-87-3",
+      "name": "109682-87-3",
+      "descriptors": "sweet;spicy;caramellic;maple;coffee;burnt;bready;licorice"
+    }
+  ],
+  "amber": [
+    {
+      "cas": "102-13-6",
+      "name": "102-13-6",
+      "descriptors": "sweet;floral;honey;cocoa;fruity;amber;chocolate;waxy"
+    },
+    {
+      "cas": "109-29-5",
+      "name": "109-29-5",
+      "descriptors": "sweet;animal;amber;balsamic;musk"
+    },
+    {
+      "cas": "110-41-8",
+      "name": "110-41-8",
+      "descriptors": "metallic;aldehydic;tuberose;amber;fresh;coumarinic;mossy;gassy;citrus;waxy"
+    },
+    {
+      "cas": "1135-66-6",
+      "name": "1135-66-6",
+      "descriptors": "woody;amber;dusty;incense"
+    },
+    {
+      "cas": "1142-85-4",
+      "name": "1142-85-4",
+      "descriptors": "sweet;orange;balsamic;incense;frankincense;pine;citrus"
+    },
+    {
+      "cas": "117933-89-8",
+      "name": "117933-89-8",
+      "descriptors": "dry;resinous;floral;dusty;amber;mahogany;woody;earthy"
+    },
+    {
+      "cas": "118562-73-5",
+      "name": "118562-73-5",
+      "descriptors": "woody;amber;musk"
+    },
+    {
+      "cas": "1209-61-6",
+      "name": "1209-61-6",
+      "descriptors": "nutmeg;dusty;amber;tobacco;woody"
+    },
+    {
+      "cas": "121251-68-1",
+      "name": "121251-68-1",
+      "descriptors": "aldehydic;spicy;amber;green;woody;seaweed"
+    },
+    {
+      "cas": "122760-85-4",
+      "name": "122760-85-4",
+      "descriptors": "woody;amber;vetiver"
+    },
+    {
+      "cas": "124-25-4",
+      "name": "124-25-4",
+      "descriptors": "dry;fatty;fruity;pear;amber;creamy;citrus peel;fishy;incense;dairy;musk;waxy"
+    },
+    {
+      "cas": "128119-70-0",
+      "name": "128119-70-0",
+      "descriptors": "dry;warm;amber;powdery;woody"
+    },
+    {
+      "cas": "1315251-11-6",
+      "name": "1315251-11-6",
+      "descriptors": "floral;amber;powdery;musk"
+    },
+    {
+      "cas": "13171-00-1",
+      "name": "13171-00-1",
+      "descriptors": "ambergris;animal;cedar;woody;musk"
+    },
+    {
+      "cas": "13567-39-0",
+      "name": "13567-39-0",
+      "descriptors": "herbal;amber;tobacco;fresh;patchouli;sandalwood;woody"
+    }
+  ],
+  "fishy": [
+    {
+      "cas": "102-69-2",
+      "name": "102-69-2",
+      "descriptors": "fishy;ammoniacal"
+    },
+    {
+      "cas": "105450-79-1",
+      "name": "105450-79-1",
+      "descriptors": "fishy;estery;pear;fruity"
+    },
+    {
+      "cas": "1066-33-7",
+      "name": "1066-33-7",
+      "descriptors": "ammoniacal;mild"
+    },
+    {
+      "cas": "107-10-8",
+      "name": "107-10-8",
+      "descriptors": "ammoniacal"
+    },
+    {
+      "cas": "107-85-7",
+      "name": "107-85-7",
+      "descriptors": "ammoniacal"
+    },
+    {
+      "cas": "108-48-5",
+      "name": "108-48-5",
+      "descriptors": "vegetable;cocoa;nutty;oily;bready;fishy;woody;ammoniacal"
+    },
+    {
+      "cas": "109-05-7",
+      "name": "109-05-7",
+      "descriptors": "corn chip;taco;fishy;seafood;ammoniacal"
+    },
+    {
+      "cas": "109-73-9",
+      "name": "109-73-9",
+      "descriptors": "fishy;ammoniacal"
+    },
+    {
+      "cas": "109-89-7",
+      "name": "109-89-7",
+      "descriptors": "fishy;ammoniacal"
+    },
+    {
+      "cas": "110-58-7",
+      "name": "110-58-7",
+      "descriptors": "fishy;ammoniacal"
+    },
+    {
+      "cas": "110-60-1",
+      "name": "110-60-1",
+      "descriptors": "fish;animal;rotting"
+    },
+    {
+      "cas": "110-85-0",
+      "name": "110-85-0",
+      "descriptors": "ammoniacal"
+    },
+    {
+      "cas": "110-86-1",
+      "name": "110-86-1",
+      "descriptors": "fishy;ammoniacal;sour"
+    },
+    {
+      "cas": "110-97-4",
+      "name": "110-97-4",
+      "descriptors": "dead;ammonia;fish"
+    },
+    {
+      "cas": "111-26-2",
+      "name": "111-26-2",
+      "descriptors": "musty;fishy;ammoniacal"
+    }
+  ],
+  "aldehydic": [
+    {
+      "cas": "1023288-21-2",
+      "name": "1023288-21-2",
+      "descriptors": "floral;aldehydic;rubbery"
+    },
+    {
+      "cas": "104-53-0",
+      "name": "104-53-0",
+      "descriptors": "aldehydic;foliage;leafy;cortex;floral;melon;fresh;balsamic;green;storax"
+    },
+    {
+      "cas": "104-55-2",
+      "name": "104-55-2",
+      "descriptors": "sweet;aldehydic;resinous;spicy;cinnamon;cassia;honey;cinnamyl;powdery;balsamic;aromatic"
+    },
+    {
+      "cas": "10486-19-8",
+      "name": "10486-19-8",
+      "descriptors": "aldehydic;clean;petal;grapefruit peel;fresh;soapy;citrus;waxy"
+    },
+    {
+      "cas": "106-21-8",
+      "name": "106-21-8",
+      "descriptors": "musty;aldehydic;green;soapy;citrus;leathery;waxy"
+    },
+    {
+      "cas": "106-23-0",
+      "name": "106-23-0",
+      "descriptors": "sweet;dry;aldehydic;floral;herbal;rose;green;citrus;waxy"
+    },
+    {
+      "cas": "109-15-9",
+      "name": "109-15-9",
+      "descriptors": "aldehydic;clean;fruity;oily;creamy;green;earthy;soapy;waxy"
+    },
+    {
+      "cas": "110-41-8",
+      "name": "110-41-8",
+      "descriptors": "metallic;aldehydic;tuberose;amber;fresh;coumarinic;mossy;gassy;citrus;waxy"
+    },
+    {
+      "cas": "111-11-5",
+      "name": "111-11-5",
+      "descriptors": "sweet;vegetable;aldehydic;herbal;orange;green;waxy"
+    },
+    {
+      "cas": "111-71-7",
+      "name": "111-71-7",
+      "descriptors": "aldehydic;fatty;herbal;cognac;ozone;fresh;green"
+    },
+    {
+      "cas": "111-87-5",
+      "name": "111-87-5",
+      "descriptors": "sweet;aldehydic;mushroom;fatty;rose;floral;coconut;orange;green;citrus;waxy"
+    },
+    {
+      "cas": "112-06-1",
+      "name": "112-06-1",
+      "descriptors": "aldehydic;rummy;fatty;winey;apricot;pear;fresh;green;woody;fruit ripe fruit;citrus;waxy"
+    },
+    {
+      "cas": "112-31-2",
+      "name": "112-31-2",
+      "descriptors": "sweet;aldehydic;floral;orange peel;orange;citrus rind;citrus;waxy"
+    },
+    {
+      "cas": "112-44-7",
+      "name": "112-44-7",
+      "descriptors": "aldehydic;fatty;floral;watermelon;pineapple;cilantro;orange;green;soapy;cloth laundered cloth;citrus;waxy"
+    },
+    {
+      "cas": "112-45-8",
+      "name": "112-45-8",
+      "descriptors": "mandarin;aldehydic;fatty;rose;soapy;citrus;waxy"
+    }
+  ],
+  "sweet_caramel": [
+    {
+      "cas": "103-13-9Z",
+      "name": "103-13-9Z",
+      "descriptors": "caramellic;fruity;buttery"
+    },
+    {
+      "cas": "10493-98-8",
+      "name": "10493-98-8",
+      "descriptors": "caramellic;maple"
+    },
+    {
+      "cas": "105-21-5",
+      "name": "105-21-5",
+      "descriptors": "sweet;caramellic;nutty;coconut;powdery;creamy;coumarinic;lactonic;hay;tonka"
+    },
+    {
+      "cas": "107797-26-2",
+      "name": "107797-26-2",
+      "descriptors": "sweet;fatty;caramellic;fruity;coconut"
+    },
+    {
+      "cas": "109682-87-3",
+      "name": "109682-87-3",
+      "descriptors": "sweet;spicy;caramellic;maple;coffee;burnt;bready;licorice"
+    },
+    {
+      "cas": "110516-60-4",
+      "name": "110516-60-4",
+      "descriptors": "caramellic"
+    },
+    {
+      "cas": "113486-29-6",
+      "name": "113486-29-6",
+      "descriptors": "caramellic;burnt;fruity;hay"
+    },
+    {
+      "cas": "116-09-6",
+      "name": "116-09-6",
+      "descriptors": "caramellic;ethereal;pungent;sweet"
+    },
+    {
+      "cas": "118-71-8",
+      "name": "118-71-8",
+      "descriptors": "sweet;cotton candy;caramellic;fruity;burnt;jammy;bread baked;bready"
+    },
+    {
+      "cas": "1192-62-7",
+      "name": "1192-62-7",
+      "descriptors": "sweet;toasted;caramellic;cocoa;nutty;coffee;balsamic;brown;almond;milky;lactonic"
+    },
+    {
+      "cas": "1193-18-6",
+      "name": "1193-18-6",
+      "descriptors": "sweet;benzoin;caramellic;nutty;fruity;walnut;phenolic;almond;cherry"
+    },
+    {
+      "cas": "1193-79-9",
+      "name": "1193-79-9",
+      "descriptors": "sweet;musty;caramellic;nutty;coconut;coumarinic;milky;hay"
+    },
+    {
+      "cas": "121-32-4",
+      "name": "121-32-4",
+      "descriptors": "sweet;vanilla;creamy;caramel"
+    },
+    {
+      "cas": "123-76-2",
+      "name": "123-76-2",
+      "descriptors": "sweet;vanilla;caramellic;acidic;guaiacol;creamy;buttery"
+    },
+    {
+      "cas": "125476-24-6",
+      "name": "125476-24-6",
+      "descriptors": "caramellic;sweet;maple"
+    }
+  ],
+  "fruity_grape": [
+    {
+      "cas": "103-56-0",
+      "name": "103-56-0",
+      "descriptors": "sweet;spicy;bubble gum;grape;floral;fruity;balsamic;green;cherry"
+    },
+    {
+      "cas": "105-37-3",
+      "name": "105-37-3",
+      "descriptors": "sweet;fermented;juicy;rummy;grape;fruity;winey;pineapple;ethereal;egg nog"
+    },
+    {
+      "cas": "108-22-5",
+      "name": "108-22-5",
+      "descriptors": "sweet;grape skin;berry;acetic;fruity;ethereal"
+    },
+    {
+      "cas": "110-38-3",
+      "name": "110-38-3",
+      "descriptors": "sweet;grape;brandy;fruity;oily;apple;waxy"
+    },
+    {
+      "cas": "123-38-6",
+      "name": "123-38-6",
+      "descriptors": "meaty;cocoa;pungent;nutty;winey;cognac;grape;whiskey;ethereal;earthy;alcoholic;brandy"
+    },
+    {
+      "cas": "126-64-7",
+      "name": "126-64-7",
+      "descriptors": "plum;ylang;floral;herbal;grape;tuberose;bergamot;lily;tropical;genet"
+    },
+    {
+      "cas": "133-18-6",
+      "name": "133-18-6",
+      "descriptors": "sweet;floral;grape;rose;honey;orange;orris"
+    },
+    {
+      "cas": "134-09-8",
+      "name": "134-09-8",
+      "descriptors": "grape;fruity;mentholic"
+    },
+    {
+      "cas": "134-20-3",
+      "name": "134-20-3",
+      "descriptors": "musty;grape;floral;fruity;powdery;neroli;orangeflower"
+    },
+    {
+      "cas": "13678-60-9",
+      "name": "13678-60-9",
+      "descriptors": "plum;ripe;grape;berry;fruity"
+    },
+    {
+      "cas": "141-78-6",
+      "name": "141-78-6",
+      "descriptors": "sweet;rummy;grape;weedy;fruity;green;ethereal"
+    },
+    {
+      "cas": "1416051-88-1",
+      "name": "1416051-88-1",
+      "descriptors": "grape;tropical;gassy;grapefruit"
+    },
+    {
+      "cas": "15356-74-8",
+      "name": "15356-74-8",
+      "descriptors": "plum;berry;ripe;grape;fruity;apricot;fruit tropical fruit;woody"
+    },
+    {
+      "cas": "16491-36-4",
+      "name": "16491-36-4",
+      "descriptors": "metallic;vegetable;grape;fruity;winey;apple;apple green apple;fresh;green;buttery"
+    },
+    {
+      "cas": "18189-07-6",
+      "name": "18189-07-6",
+      "descriptors": "floral;neroli;grape"
+    }
+  ],
+  "tobacco": [
+    {
+      "cas": "103-82-2",
+      "name": "103-82-2",
+      "descriptors": "sweet;animal;sour;floral;honey;rose;civet;powdery;tobacco;honeysuckle;chocolate;waxy"
+    },
+    {
+      "cas": "106-02-5",
+      "name": "106-02-5",
+      "descriptors": "natural;animal;fruity;powdery;tobacco;coumarinic;licorice;brown;heliotrope;musk"
+    },
+    {
+      "cas": "108-29-2",
+      "name": "108-29-2",
+      "descriptors": "sweet;warm;cocoa;herbal;tobacco;woody"
+    },
+    {
+      "cas": "109-52-4",
+      "name": "109-52-4",
+      "descriptors": "rancid;sweaty;sour;fruity;acidic;tobacco;milky;cheesy;sharp"
+    },
+    {
+      "cas": "1122-62-9",
+      "name": "1122-62-9",
+      "descriptors": "musty;fatty;nutty;corn chip;tobacco;popcorn;corn"
+    },
+    {
+      "cas": "1125-21-9",
+      "name": "1125-21-9",
+      "descriptors": "sweet;musty;tea;leafy;tobacco;brown;lemon;woody;citrus"
+    },
+    {
+      "cas": "116-26-7",
+      "name": "116-26-7",
+      "descriptors": "metallic;spicy;medicinal;herbal;camphoreous;powdery;phenolic;fresh;tobacco;woody;rosemary"
+    },
+    {
+      "cas": "118-93-4",
+      "name": "118-93-4",
+      "descriptors": "sweet;almond bitter almond;honey;melon;herbal;phenolic;tobacco;hawthorn;cherry;tropical;sharp"
+    },
+    {
+      "cas": "1209-61-6",
+      "name": "1209-61-6",
+      "descriptors": "nutmeg;dusty;amber;tobacco;woody"
+    },
+    {
+      "cas": "127-43-5",
+      "name": "127-43-5",
+      "descriptors": "floral;violet;powdery;tobacco;creamy;woody;tropical;orris"
+    },
+    {
+      "cas": "13215-88-8",
+      "name": "13215-88-8",
+      "descriptors": "sweet;spicy;tobacco;nut skin;acorn"
+    },
+    {
+      "cas": "13341-72-5",
+      "name": "13341-72-5",
+      "descriptors": "sweet;spearmint;coconut;powdery;creamy;tobacco;coumarinic;tonka"
+    },
+    {
+      "cas": "13567-39-0",
+      "name": "13567-39-0",
+      "descriptors": "herbal;amber;tobacco;fresh;patchouli;sandalwood;woody"
+    },
+    {
+      "cas": "13720-12-2",
+      "name": "13720-12-2",
+      "descriptors": "ambergris;warm;violet;amber;tobacco;woody;earthy"
+    },
+    {
+      "cas": "1670-47-9",
+      "name": "1670-47-9",
+      "descriptors": "tobacco;woody;fruity;rummy"
+    }
+  ],
+  "herbal_lavender": [
+    {
+      "cas": "10339-55-6",
+      "name": "10339-55-6",
+      "descriptors": "floral;herbal;lavender;bois de rose;fresh;wet;green;bergamot"
+    },
+    {
+      "cas": "10471-96-2",
+      "name": "10471-96-2",
+      "descriptors": "lavender;fruity;apricot;citrus"
+    },
+    {
+      "cas": "105-87-3",
+      "name": "105-87-3",
+      "descriptors": "floral;rose;lavender;green;waxy"
+    },
+    {
+      "cas": "106-68-3",
+      "name": "106-68-3",
+      "descriptors": "sweet;musty;fermented;vegetable;mushroom;herbal;lavender;fresh;green;moldy;cheesy;ketonic"
+    },
+    {
+      "cas": "1118-27-0",
+      "name": "1118-27-0",
+      "descriptors": "herbal;apricot;lavender;bergamot;citrus;peach;sage"
+    },
+    {
+      "cas": "1118-39-4",
+      "name": "1118-39-4",
+      "descriptors": "nutmeg;floral;lavender;bergamot;woody;citrus"
+    },
+    {
+      "cas": "115-95-7",
+      "name": "115-95-7",
+      "descriptors": "sweet;lavender;green;bergamot;woody;citrus"
+    },
+    {
+      "cas": "115-99-1",
+      "name": "115-99-1",
+      "descriptors": "fatty;herbal;lavender;green;bergamot;woody;soapy;citrus"
+    },
+    {
+      "cas": "125037-13-0",
+      "name": "125037-13-0",
+      "descriptors": "vegetable;floral;herbal;lavender;neroli;green;bergamot;woody;myrrh;citrus"
+    },
+    {
+      "cas": "126-90-9",
+      "name": "126-90-9",
+      "descriptors": "floral;lavender;sweet;petitgrain"
+    },
+    {
+      "cas": "126-91-0",
+      "name": "126-91-0",
+      "descriptors": "natural;deep;floral;lavender;fresh;woody"
+    },
+    {
+      "cas": "128-51-8",
+      "name": "128-51-8",
+      "descriptors": "herbal;lavender;bergamot;woody;pine"
+    },
+    {
+      "cas": "20307-84-0",
+      "name": "20307-84-0",
+      "descriptors": "sweet;herbal;lavender;woody"
+    },
+    {
+      "cas": "2153-26-6",
+      "name": "2153-26-6",
+      "descriptors": "floral;herbal;fruity;lavender;woody;cypress;citrus"
+    },
+    {
+      "cas": "23495-12-7",
+      "name": "23495-12-7",
+      "descriptors": "opoponax;resinous;fruity;lavender;hay;myrrh"
+    }
+  ],
+  "coumarinic": [
+    {
+      "cas": "104-21-2",
+      "name": "104-21-2",
+      "descriptors": "sweet;vanilla;plum;fruity;powdery;cherry;balsam;tonka"
+    },
+    {
+      "cas": "104-50-7",
+      "name": "104-50-7",
+      "descriptors": "sweet;fatty;coconut;creamy;waxy;dairy;tonka"
+    },
+    {
+      "cas": "105-13-5",
+      "name": "105-13-5",
+      "descriptors": "sweet;lilac;rose;floral;powdery;creamy;balsamic;coumarinic;cherry;licorice;hawthorn;hyacinth;lactonic"
+    },
+    {
+      "cas": "105-21-5",
+      "name": "105-21-5",
+      "descriptors": "sweet;caramellic;nutty;coconut;powdery;creamy;coumarinic;lactonic;hay;tonka"
+    },
+    {
+      "cas": "106-02-5",
+      "name": "106-02-5",
+      "descriptors": "natural;animal;fruity;powdery;tobacco;coumarinic;licorice;brown;heliotrope;musk"
+    },
+    {
+      "cas": "1072-83-9",
+      "name": "1072-83-9",
+      "descriptors": "musty;cherry maraschino cherry;nutty;walnut;bready;coumarinic;licorice;nut skin"
+    },
+    {
+      "cas": "110-41-8",
+      "name": "110-41-8",
+      "descriptors": "metallic;aldehydic;tuberose;amber;fresh;coumarinic;mossy;gassy;citrus;waxy"
+    },
+    {
+      "cas": "113486-29-6",
+      "name": "113486-29-6",
+      "descriptors": "caramellic;burnt;fruity;hay"
+    },
+    {
+      "cas": "119-84-6",
+      "name": "119-84-6",
+      "descriptors": "sweet;vanilla;spicy;cinnamon;herbal;coconut;creamy;coumarinic;balsamic;tonka"
+    },
+    {
+      "cas": "1193-79-9",
+      "name": "1193-79-9",
+      "descriptors": "sweet;musty;caramellic;nutty;coconut;coumarinic;milky;hay"
+    },
+    {
+      "cas": "1197-01-9",
+      "name": "1197-01-9",
+      "descriptors": "sweet;floral;fruity;camphoreous;cooling;coumarinic;cherry"
+    },
+    {
+      "cas": "1205-17-0",
+      "name": "1205-17-0",
+      "descriptors": "cyclamen;floral;ozone;fresh;green;watery;hay"
+    },
+    {
+      "cas": "122-00-9",
+      "name": "122-00-9",
+      "descriptors": "sweet;vanilla;naphthyl;floral;acacia;powdery;mimosa;coumarinic;hawthorn;cherry"
+    },
+    {
+      "cas": "122-43-0",
+      "name": "122-43-0",
+      "descriptors": "sweet;rose;honey;floral;cocoa;hay;chocolate"
+    },
+    {
+      "cas": "122-72-5",
+      "name": "122-72-5",
+      "descriptors": "sweet;spicy;cinnamon;honey;fruity;cinnamyl;balsamic;storax;hay"
+    }
+  ],
+  "fruity_coconut": [
+    {
+      "cas": "104-50-7",
+      "name": "104-50-7",
+      "descriptors": "sweet;fatty;coconut;creamy;waxy;dairy;tonka"
+    },
+    {
+      "cas": "104-61-0",
+      "name": "104-61-0",
+      "descriptors": "sweet;fatty;coconut;oily;creamy;buttery;waxy"
+    },
+    {
+      "cas": "104-67-6",
+      "name": "104-67-6",
+      "descriptors": "ketonic;fatty;fruity;apricot;coconut;creamy;peach;lactonic"
+    },
+    {
+      "cas": "105-21-5",
+      "name": "105-21-5",
+      "descriptors": "sweet;caramellic;nutty;coconut;powdery;creamy;coumarinic;lactonic;hay;tonka"
+    },
+    {
+      "cas": "107797-24-0",
+      "name": "107797-24-0",
+      "descriptors": "spicy;fatty;coconut;green;almond"
+    },
+    {
+      "cas": "107797-25-1",
+      "name": "107797-25-1",
+      "descriptors": "coconut;fatty"
+    },
+    {
+      "cas": "107797-26-2",
+      "name": "107797-26-2",
+      "descriptors": "sweet;fatty;caramellic;fruity;coconut"
+    },
+    {
+      "cas": "107797-27-3",
+      "name": "107797-27-3",
+      "descriptors": "sweet;fatty;soft;fruity;coconut"
+    },
+    {
+      "cas": "110-43-0",
+      "name": "110-43-0",
+      "descriptors": "sweet;spicy;banana;herbal;fruity;coconut;creamy;green;woody;cheesy;ketonic"
+    },
+    {
+      "cas": "111-82-0",
+      "name": "111-82-0",
+      "descriptors": "mushroom;coconut;creamy;soapy;waxy"
+    },
+    {
+      "cas": "111-87-5",
+      "name": "111-87-5",
+      "descriptors": "sweet;aldehydic;mushroom;fatty;rose;floral;coconut;orange;green;citrus;waxy"
+    },
+    {
+      "cas": "112-37-8",
+      "name": "112-37-8",
+      "descriptors": "fatty;coconut;creamy;cheesy;waxy"
+    },
+    {
+      "cas": "112-53-8",
+      "name": "112-53-8",
+      "descriptors": "fatty;honey;coconut;earthy;soapy;waxy"
+    },
+    {
+      "cas": "112-72-1",
+      "name": "112-72-1",
+      "descriptors": "fruity;orris;coconut;waxy"
+    },
+    {
+      "cas": "119-84-6",
+      "name": "119-84-6",
+      "descriptors": "sweet;vanilla;spicy;cinnamon;herbal;coconut;creamy;coumarinic;balsamic;tonka"
+    }
+  ],
+  "musky": [
+    {
+      "cas": "10403-00-6",
+      "name": "10403-00-6",
+      "descriptors": "powdery;animal;musk"
+    },
+    {
+      "cas": "105-95-3",
+      "name": "105-95-3",
+      "descriptors": "sweet;floral;ambrette;powdery;woody;musk"
+    },
+    {
+      "cas": "106-02-5",
+      "name": "106-02-5",
+      "descriptors": "natural;animal;fruity;powdery;tobacco;coumarinic;licorice;brown;heliotrope;musk"
+    },
+    {
+      "cas": "109-29-5",
+      "name": "109-29-5",
+      "descriptors": "sweet;animal;amber;balsamic;musk"
+    },
+    {
+      "cas": "111879-79-9",
+      "name": "111879-79-9",
+      "descriptors": "musk"
+    },
+    {
+      "cas": "111879-80-2",
+      "name": "111879-80-2",
+      "descriptors": "sweet;dry;metallic;animal;powdery;tropical;cloth laundered cloth;musk;waxy"
+    },
+    {
+      "cas": "111879-81-3",
+      "name": "111879-81-3",
+      "descriptors": "musk"
+    },
+    {
+      "cas": "1153-51-1",
+      "name": "1153-51-1",
+      "descriptors": "natural;animal;musk"
+    },
+    {
+      "cas": "116-66-5",
+      "name": "116-66-5",
+      "descriptors": "sweet;dry;ambrette;powdery;musk"
+    },
+    {
+      "cas": "118562-73-5",
+      "name": "118562-73-5",
+      "descriptors": "woody;amber;musk"
+    },
+    {
+      "cas": "1222-05-5",
+      "name": "1222-05-5",
+      "descriptors": "sweet;floral;musk"
+    },
+    {
+      "cas": "123-69-3",
+      "name": "123-69-3",
+      "descriptors": "musty;ambrette;animal;musk"
+    },
+    {
+      "cas": "124-25-4",
+      "name": "124-25-4",
+      "descriptors": "dry;fatty;fruity;pear;amber;creamy;citrus peel;fishy;incense;dairy;musk;waxy"
+    },
+    {
+      "cas": "1315251-11-6",
+      "name": "1315251-11-6",
+      "descriptors": "floral;amber;powdery;musk"
+    },
+    {
+      "cas": "13171-00-1",
+      "name": "13171-00-1",
+      "descriptors": "ambergris;animal;cedar;woody;musk"
+    }
+  ],
+  "woody_pine": [
+    {
+      "cas": "10411-92-4",
+      "name": "10411-92-4",
+      "descriptors": "floral;fruity;fresh;pine"
+    },
+    {
+      "cas": "1142-85-4",
+      "name": "1142-85-4",
+      "descriptors": "sweet;orange;balsamic;incense;frankincense;pine;citrus"
+    },
+    {
+      "cas": "126745-61-7",
+      "name": "126745-61-7",
+      "descriptors": "pine;waxy"
+    },
+    {
+      "cas": "127-91-3",
+      "name": "127-91-3",
+      "descriptors": "dry;resinous;spicy;nutmeg;peppery;herbal;eucalyptus;terpenic;camphoreous;cooling;fresh;green;woody;minty;hay;pine"
+    },
+    {
+      "cas": "128-50-7",
+      "name": "128-50-7",
+      "descriptors": "sweet;herbal;balsamic;pine;citrus"
+    },
+    {
+      "cas": "128-51-8",
+      "name": "128-51-8",
+      "descriptors": "herbal;lavender;bergamot;woody;pine"
+    },
+    {
+      "cas": "13466-78-9",
+      "name": "13466-78-9",
+      "descriptors": "solvent;resinous;medicinal;cypress;herbal;terpenic;phenolic;woody;pine;citrus"
+    },
+    {
+      "cas": "13491-79-7",
+      "name": "13491-79-7",
+      "descriptors": "earthy;herbal;camphoreous;phenolic;patchouli;woody;minty;pine"
+    },
+    {
+      "cas": "13851-11-1",
+      "name": "13851-11-1",
+      "descriptors": "sweet;herbal;fir needle;fresh;balsamic;pine;citrus"
+    },
+    {
+      "cas": "15373-31-6",
+      "name": "15373-31-6",
+      "descriptors": "hay;pine;rosemary"
+    },
+    {
+      "cas": "1632-73-1",
+      "name": "1632-73-1",
+      "descriptors": "dry;sweet;rooty;camphoreous;lemon;woody;pine"
+    },
+    {
+      "cas": "18172-67-3",
+      "name": "18172-67-3",
+      "descriptors": "dry;resinous;herbal;fresh;green;woody;hay;pine"
+    },
+    {
+      "cas": "18368-95-1",
+      "name": "18368-95-1",
+      "descriptors": "herbal;terpenic;tropical;oily;thyme;camphoreous;cooling;woody;chemical;pine"
+    },
+    {
+      "cas": "19894-97-4",
+      "name": "19894-97-4",
+      "descriptors": "medicinal;balsamic;woody;minty;pine"
+    },
+    {
+      "cas": "19902-08-0",
+      "name": "19902-08-0",
+      "descriptors": "sweet;terpenic;fresh;green;woody;hay;pine"
+    }
+  ],
+  "woody_sandalwood": [
+    {
+      "cas": "10486-25-6",
+      "name": "10486-25-6",
+      "descriptors": "woody;fresh;sandalwood"
+    },
+    {
+      "cas": "104864-90-6",
+      "name": "104864-90-6",
+      "descriptors": "woody;natural;sandalwood"
+    },
+    {
+      "cas": "10519-12-7",
+      "name": "10519-12-7",
+      "descriptors": "dry;floral;oily;sandalwood;woody"
+    },
+    {
+      "cas": "107898-54-4",
+      "name": "107898-54-4",
+      "descriptors": "herbal;woody;tropical;sandalwood"
+    },
+    {
+      "cas": "11031-45-1",
+      "name": "11031-45-1",
+      "descriptors": "sweet;woody;sandalwood"
+    },
+    {
+      "cas": "115-71-9",
+      "name": "115-71-9",
+      "descriptors": "woody;sandalwood"
+    },
+    {
+      "cas": "1323-75-7",
+      "name": "1323-75-7",
+      "descriptors": "floral;woody;sandalwood;honey"
+    },
+    {
+      "cas": "13567-39-0",
+      "name": "13567-39-0",
+      "descriptors": "herbal;amber;tobacco;fresh;patchouli;sandalwood;woody"
+    },
+    {
+      "cas": "198404-98-7",
+      "name": "198404-98-7",
+      "descriptors": "cologne;fatty;floral;herbal;sandalwood;woody;tropical"
+    },
+    {
+      "cas": "26896-48-0",
+      "name": "26896-48-0",
+      "descriptors": "sweet;floral;amber;sandalwood;musk"
+    },
+    {
+      "cas": "28219-60-5",
+      "name": "28219-60-5",
+      "descriptors": "milky;greasy;creamy;sandalwood;woody;musk;waxy"
+    },
+    {
+      "cas": "28219-61-6Z",
+      "name": "28219-61-6Z",
+      "descriptors": "greasy;oily;sandalwood;woody;waxy"
+    },
+    {
+      "cas": "30772-69-1",
+      "name": "30772-69-1",
+      "descriptors": "floral;fruity;amber;sandalwood;woody"
+    },
+    {
+      "cas": "3407-42-9",
+      "name": "3407-42-9",
+      "descriptors": "sweet;woody;clean;sandalwood"
+    },
+    {
+      "cas": "41414-75-9",
+      "name": "41414-75-9",
+      "descriptors": "woody;powdery;sandalwood"
+    }
+  ],
+  "woody_cedar": [
+    {
+      "cas": "10486-26-7",
+      "name": "10486-26-7",
+      "descriptors": "woody;rooty;cedar"
+    },
+    {
+      "cas": "1079-01-2",
+      "name": "1079-01-2",
+      "descriptors": "sweet;cedar;floral;herbal;fruity;cooling;fresh;green;woody;citrus"
+    },
+    {
+      "cas": "11028-42-5",
+      "name": "11028-42-5",
+      "descriptors": "woody;cedarwood"
+    },
+    {
+      "cas": "1125-12-8",
+      "name": "1125-12-8",
+      "descriptors": "cedar;spicy;thujonic;woody"
+    },
+    {
+      "cas": "13171-00-1",
+      "name": "13171-00-1",
+      "descriptors": "ambergris;animal;cedar;woody;musk"
+    },
+    {
+      "cas": "13794-73-5",
+      "name": "13794-73-5",
+      "descriptors": "woody;cedar"
+    },
+    {
+      "cas": "1405-92-1",
+      "name": "1405-92-1",
+      "descriptors": "dry;cedar;vetiver;peanut;woody;waxy;sharp"
+    },
+    {
+      "cas": "18358-53-7",
+      "name": "18358-53-7",
+      "descriptors": "camphoreous;woody;cedar"
+    },
+    {
+      "cas": "1888-80-8",
+      "name": "1888-80-8",
+      "descriptors": "blueberry;eucalyptus;camphoreous;cedarwood;woody"
+    },
+    {
+      "cas": "19870-74-7",
+      "name": "19870-74-7",
+      "descriptors": "dry;ambergris;cedar;vetiver;woody;earthy"
+    },
+    {
+      "cas": "23787-90-8",
+      "name": "23787-90-8",
+      "descriptors": "dry;cedar;tobacco;patchouli;incense;woody;earthy"
+    },
+    {
+      "cas": "25304-14-7",
+      "name": "25304-14-7",
+      "descriptors": "thujonic;cedar;herbal;woody;minty"
+    },
+    {
+      "cas": "28231-03-0",
+      "name": "28231-03-0",
+      "descriptors": "sweet;woody;cedarwood"
+    },
+    {
+      "cas": "2986-54-1",
+      "name": "2986-54-1",
+      "descriptors": "dry;cedar;amber;tobacco;patchouli;woody;musk"
+    },
+    {
+      "cas": "30960-39-5",
+      "name": "30960-39-5",
+      "descriptors": "woody;cedar"
+    }
+  ],
+  "fermented_cheese": [
+    {
+      "cas": "105-43-1",
+      "name": "105-43-1",
+      "descriptors": "animal;sweaty;fruity;acidic;green;cheesy;sharp"
+    },
+    {
+      "cas": "106-35-4",
+      "name": "106-35-4",
+      "descriptors": "sweet;musty;fatty;fruity;green;cheesy;ketonic"
+    },
+    {
+      "cas": "106-68-3",
+      "name": "106-68-3",
+      "descriptors": "sweet;musty;fermented;vegetable;mushroom;herbal;lavender;fresh;green;moldy;cheesy;ketonic"
+    },
+    {
+      "cas": "107-92-6",
+      "name": "107-92-6",
+      "descriptors": "acetic;fruity;dairy;cheesy;buttery;sharp"
+    },
+    {
+      "cas": "109-52-4",
+      "name": "109-52-4",
+      "descriptors": "rancid;sweaty;sour;fruity;acidic;tobacco;milky;cheesy;sharp"
+    },
+    {
+      "cas": "110-43-0",
+      "name": "110-43-0",
+      "descriptors": "sweet;spicy;banana;herbal;fruity;coconut;creamy;green;woody;cheesy;ketonic"
+    },
+    {
+      "cas": "110-93-0",
+      "name": "110-93-0",
+      "descriptors": "musty;banana;fruity;cheesy;apple;creamy;lemongrass;green;citrus;ketonic"
+    },
+    {
+      "cas": "111-13-7",
+      "name": "111-13-7",
+      "descriptors": "cheesy parmesan cheese;musty;natural;cheesy bleu cheese;weedy;herbal;woody;earthy;dairy;ketonic"
+    },
+    {
+      "cas": "111-14-8",
+      "name": "111-14-8",
+      "descriptors": "fermented;rancid;sweaty;sour;fruity;pineapple;cheesy;waxy"
+    },
+    {
+      "cas": "1119-44-4",
+      "name": "1119-44-4",
+      "descriptors": "sweet;ketonic;fruity;grassy;green;woody;cheesy;caraway"
+    },
+    {
+      "cas": "112-05-0",
+      "name": "112-05-0",
+      "descriptors": "dirty;dairy;cheesy;waxy"
+    },
+    {
+      "cas": "112-19-6",
+      "name": "112-19-6",
+      "descriptors": "meaty;clean;fatty;rose;fruity;fresh;licorice;waxy;dairy;cheesy;cloth laundered cloth;sharp"
+    },
+    {
+      "cas": "112-37-8",
+      "name": "112-37-8",
+      "descriptors": "fatty;coconut;creamy;cheesy;waxy"
+    },
+    {
+      "cas": "116-53-0",
+      "name": "116-53-0",
+      "descriptors": "fermented;dirty;cheesy roquefort cheese;fruity;acidic;pungent;cheesy"
+    },
+    {
+      "cas": "1188-02-9",
+      "name": "1188-02-9",
+      "descriptors": "sweaty;buttermilk;green;cheesy;waxy"
+    }
+  ],
+  "smoky": [
+    {
+      "cas": "105-67-9",
+      "name": "105-67-9",
+      "descriptors": "roasted;smoky"
+    },
+    {
+      "cas": "1076-56-8",
+      "name": "1076-56-8",
+      "descriptors": "burnt;herbal;smoky;woody"
+    },
+    {
+      "cas": "108-47-4",
+      "name": "108-47-4",
+      "descriptors": "smoky;phenolic"
+    },
+    {
+      "cas": "118-72-9",
+      "name": "118-72-9",
+      "descriptors": "metallic;meaty;sulfurous;smoky;phenolic;roasted"
+    },
+    {
+      "cas": "122-79-2",
+      "name": "122-79-2",
+      "descriptors": "animal;resinous;medicinal;smoky;burnt;phenolic;castoreum;woody"
+    },
+    {
+      "cas": "123-07-9",
+      "name": "123-07-9",
+      "descriptors": "smoky;savory;guaiacol;phenolic;castoreum"
+    },
+    {
+      "cas": "13184-86-6",
+      "name": "13184-86-6",
+      "descriptors": "sweet;vanilla;rummy;spicy;nutmeg;smoky;creamy;alcoholic;chocolate"
+    },
+    {
+      "cas": "150-60-7",
+      "name": "150-60-7",
+      "descriptors": "caramellic;smoky;burnt;green;earthy"
+    },
+    {
+      "cas": "1963-36-6",
+      "name": "1963-36-6",
+      "descriptors": "sweet;vanilla;spicy;cinnamon;floral;smoky;candy;cherry"
+    },
+    {
+      "cas": "20920-83-6",
+      "name": "20920-83-6",
+      "descriptors": "sweet;vanilla;smoky;castoreum"
+    },
+    {
+      "cas": "2167-14-8",
+      "name": "2167-14-8",
+      "descriptors": "roasted;burnt;smoky"
+    },
+    {
+      "cas": "26693-24-3",
+      "name": "26693-24-3",
+      "descriptors": "roasted;smoky;sulfurous"
+    },
+    {
+      "cas": "2785-89-9",
+      "name": "2785-89-9",
+      "descriptors": "sweet;vanilla;spicy;bacon;medicinal;smoky;phenolic;woody;clove"
+    },
+    {
+      "cas": "3782-00-1",
+      "name": "3782-00-1",
+      "descriptors": "resinous;bacon;meaty;smoky;licorice black licorice;tobacco;phenolic;chemical;pungent;leathery"
+    },
+    {
+      "cas": "4500-58-7",
+      "name": "4500-58-7",
+      "descriptors": "roasted;smoky;meaty;sulfurous"
+    }
+  ],
+  "woody_earthy": [
+    {
+      "cas": "105463-44-3",
+      "name": "105463-44-3",
+      "descriptors": "herbal;rooty;camphoreous;patchouli;woody;earthy"
+    },
+    {
+      "cas": "107715-18-4",
+      "name": "107715-18-4",
+      "descriptors": "herbal;sage clary sage;woody;vetiver"
+    },
+    {
+      "cas": "108910-53-8",
+      "name": "108910-53-8",
+      "descriptors": "woody;vetiver;fresh;herbal"
+    },
+    {
+      "cas": "122760-85-4",
+      "name": "122760-85-4",
+      "descriptors": "woody;amber;vetiver"
+    },
+    {
+      "cas": "13491-79-7",
+      "name": "13491-79-7",
+      "descriptors": "earthy;herbal;camphoreous;phenolic;patchouli;woody;minty;pine"
+    },
+    {
+      "cas": "13567-39-0",
+      "name": "13567-39-0",
+      "descriptors": "herbal;amber;tobacco;fresh;patchouli;sandalwood;woody"
+    },
+    {
+      "cas": "1405-92-1",
+      "name": "1405-92-1",
+      "descriptors": "dry;cedar;vetiver;peanut;woody;waxy;sharp"
+    },
+    {
+      "cas": "18368-91-7",
+      "name": "18368-91-7",
+      "descriptors": "musty;dirty;rooty;camphoreous;patchouli;earthy;humus"
+    },
+    {
+      "cas": "19870-74-7",
+      "name": "19870-74-7",
+      "descriptors": "dry;ambergris;cedar;vetiver;woody;earthy"
+    },
+    {
+      "cas": "21112-37-8",
+      "name": "21112-37-8",
+      "descriptors": "woody;forest;vetiver"
+    },
+    {
+      "cas": "21862-63-5",
+      "name": "21862-63-5",
+      "descriptors": "woody;patchouli"
+    },
+    {
+      "cas": "2226-05-3",
+      "name": "2226-05-3",
+      "descriptors": "dry;sawdust;camphoreous;patchouli;woody;minty"
+    },
+    {
+      "cas": "23787-90-8",
+      "name": "23787-90-8",
+      "descriptors": "dry;cedar;tobacco;patchouli;incense;woody;earthy"
+    },
+    {
+      "cas": "28371-99-5",
+      "name": "28371-99-5",
+      "descriptors": "ambergris;vetiver;tobacco;woody;musk"
+    },
+    {
+      "cas": "29461-13-0",
+      "name": "29461-13-0",
+      "descriptors": "woody;patchouli"
+    }
+  ],
+  "leathery": [
+    {
+      "cas": "10599-70-9",
+      "name": "10599-70-9",
+      "descriptors": "sweet;musty;cocoa;nutty;powdery;roasted;earthy;leathery;corn"
+    },
+    {
+      "cas": "106-21-8",
+      "name": "106-21-8",
+      "descriptors": "musty;aldehydic;green;soapy;citrus;leathery;waxy"
+    },
+    {
+      "cas": "108-39-4",
+      "name": "108-39-4",
+      "descriptors": "woody;phenolic;medicinal;leathery"
+    },
+    {
+      "cas": "1333-49-9",
+      "name": "1333-49-9",
+      "descriptors": "sweet;musty;floral;rose;plastic;leathery"
+    },
+    {
+      "cas": "1333-58-0",
+      "name": "1333-58-0",
+      "descriptors": "herbal;animal;green;leathery"
+    },
+    {
+      "cas": "137-32-6",
+      "name": "137-32-6",
+      "descriptors": "greasy;fatty;cocoa;winey;whiskey;fusel;ethereal;alcoholic;leathery"
+    },
+    {
+      "cas": "2120-70-9",
+      "name": "2120-70-9",
+      "descriptors": "leafy;cortex;ozone;fresh;green;hyacinth;leathery"
+    },
+    {
+      "cas": "2219-82-1",
+      "name": "2219-82-1",
+      "descriptors": "phenolic;medicinal;leathery"
+    },
+    {
+      "cas": "22717-57-3",
+      "name": "22717-57-3",
+      "descriptors": "minty;fruity;leathery;cherry"
+    },
+    {
+      "cas": "2409-55-4",
+      "name": "2409-55-4",
+      "descriptors": "medicinal;leathery"
+    },
+    {
+      "cas": "26489-01-0",
+      "name": "26489-01-0",
+      "descriptors": "floral;rose;bud;leather;citrus;waxy"
+    },
+    {
+      "cas": "28343-22-8",
+      "name": "28343-22-8",
+      "descriptors": "phenolic;animal;leathery"
+    },
+    {
+      "cas": "32388-55-9",
+      "name": "32388-55-9",
+      "descriptors": "cedar;vetiver;amber;woody;musk;leathery"
+    },
+    {
+      "cas": "3782-00-1",
+      "name": "3782-00-1",
+      "descriptors": "resinous;bacon;meaty;smoky;licorice black licorice;tobacco;phenolic;chemical;pungent;leathery"
+    },
+    {
+      "cas": "4342-60-3",
+      "name": "4342-60-3",
+      "descriptors": "sweaty;castoreum;cedar;cumin;leathery"
+    }
+  ],
+  "spicy_clove": [
+    {
+      "cas": "1195-32-0",
+      "name": "1195-32-0",
+      "descriptors": "musty;spicy;nutty;guaiacol;styrene;coffee;phenolic;clove"
+    },
+    {
+      "cas": "120-24-1Z",
+      "name": "120-24-1Z",
+      "descriptors": "sweet;spicy;cinnamon;floral;honey;clove"
+    },
+    {
+      "cas": "122-78-1",
+      "name": "122-78-1",
+      "descriptors": "sweet;fermented;floral;honey;rose;clover;cocoa;powdery;green;earthy;hyacinth;chocolate"
+    },
+    {
+      "cas": "130786-09-3",
+      "name": "130786-09-3",
+      "descriptors": "metallic;marine;floral;herbal;orchid;clover;green;waxy"
+    },
+    {
+      "cas": "13877-93-5",
+      "name": "13877-93-5",
+      "descriptors": "sweet;dry;spicy;terpenic;woody;clove"
+    },
+    {
+      "cas": "2050-08-0",
+      "name": "2050-08-0",
+      "descriptors": "sweet;floral;herbal;clover;green;chocolate"
+    },
+    {
+      "cas": "2052-14-4",
+      "name": "2052-14-4",
+      "descriptors": "ethyl;benzoate;clover;harsh"
+    },
+    {
+      "cas": "2111-75-3",
+      "name": "2111-75-3",
+      "descriptors": "sweet;lime;spicy;cinnamon;pungent;herbal;clove;grassy;fresh;orange;green;minty;cumin;citrus"
+    },
+    {
+      "cas": "24276-84-4",
+      "name": "24276-84-4",
+      "descriptors": "sweet;clove;phenolic;spicy"
+    },
+    {
+      "cas": "2785-87-7",
+      "name": "2785-87-7",
+      "descriptors": "sweet;spicy;allspice;powdery;phenolic;clove;sharp"
+    },
+    {
+      "cas": "2785-89-9",
+      "name": "2785-89-9",
+      "descriptors": "sweet;vanilla;spicy;bacon;medicinal;smoky;phenolic;woody;clove"
+    },
+    {
+      "cas": "3508-98-3",
+      "name": "3508-98-3",
+      "descriptors": "clover;orchid;balsamic;storax;narcissus"
+    },
+    {
+      "cas": "39638-67-0",
+      "name": "39638-67-0",
+      "descriptors": "spicy;coconut;incense;celery;clove"
+    },
+    {
+      "cas": "531-26-0",
+      "name": "531-26-0",
+      "descriptors": "clove;spicy;balsamic"
+    },
+    {
+      "cas": "532-08-1",
+      "name": "532-08-1",
+      "descriptors": "clove;cinnamon"
+    }
+  ],
+  "spicy_pepper": [
+    {
+      "cas": "123-35-3",
+      "name": "123-35-3",
+      "descriptors": "spicy;peppery;plastic;terpenic;herbal;rose;carrot;balsamic;woody;celery"
+    },
+    {
+      "cas": "127-91-3",
+      "name": "127-91-3",
+      "descriptors": "dry;resinous;spicy;nutmeg;peppery;herbal;eucalyptus;terpenic;camphoreous;cooling;fresh;green;woody;minty;hay;pine"
+    },
+    {
+      "cas": "13678-59-6",
+      "name": "13678-59-6",
+      "descriptors": "mustard;sulfurous;garlic;horseradish;peppery;coffee;onion;pungent"
+    },
+    {
+      "cas": "15399-05-0",
+      "name": "15399-05-0",
+      "descriptors": "peppery;spicy;pepper black pepper"
+    },
+    {
+      "cas": "1629-58-9",
+      "name": "1629-58-9",
+      "descriptors": "mustard;spicy;peppery;garlic;onion;ethereal;pungent"
+    },
+    {
+      "cas": "18374-76-0",
+      "name": "18374-76-0",
+      "descriptors": "peppery;woody;agarwood"
+    },
+    {
+      "cas": "18607-93-7",
+      "name": "18607-93-7",
+      "descriptors": "peppery;spicy"
+    },
+    {
+      "cas": "23811-08-7",
+      "name": "23811-08-7",
+      "descriptors": "peppery;woody;spicy"
+    },
+    {
+      "cas": "24168-70-5",
+      "name": "24168-70-5",
+      "descriptors": "musty;vegetable;peppery;potato;nutty;pea green pea;galbanum;green;pepper bell pepper"
+    },
+    {
+      "cas": "3691-12-1",
+      "name": "3691-12-1",
+      "descriptors": "sweet;woody;peppery;balsamic"
+    },
+    {
+      "cas": "464-45-9",
+      "name": "464-45-9",
+      "descriptors": "peppery;camphoreous;balsamic;woody;pine"
+    },
+    {
+      "cas": "4927-36-0",
+      "name": "4927-36-0",
+      "descriptors": "spicy;peppery;floral;rose;woody"
+    },
+    {
+      "cas": "515-69-5",
+      "name": "515-69-5",
+      "descriptors": "floral;peppery;clean;balsamic"
+    },
+    {
+      "cas": "562-74-3",
+      "name": "562-74-3",
+      "descriptors": "sweet;musty;spicy;mentholic;peppery;terpenic;woody;earthy;citrus"
+    },
+    {
+      "cas": "58096-46-1",
+      "name": "58096-46-1",
+      "descriptors": "peppery;woody;spicy;camphoreous"
+    }
+  ]
+}

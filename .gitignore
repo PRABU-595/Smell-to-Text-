@@ -15,7 +15,8 @@ data/processed/*.csv
 
 # Models
 models/checkpoints/*.pt
-!models/checkpoints/best_model.pt
+best_model.pt
+*.safetensors
 models/pretrained/
 
 # Experiments
