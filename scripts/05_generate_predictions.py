@@ -11,6 +11,9 @@ os.environ["HF_HUB_CACHE"] = "C:\\Users\\iampr\\.cache\\huggingface"
 import json
 import torch
 import numpy as np
+import urllib.request
+import urllib.error
+import urllib.parse
 from pathlib import Path
 from transformers import AutoTokenizer
 
@@ -52,19 +55,43 @@ def retrieve_chemicals(predicted_families, lookup):
                 if key not in seen:
                     seen.add(key)
                     chemicals.append({
-                        'name': chem.get('name', 'Unknown'),
-                        'cas': chem.get('cas', ''),
-                        'smiles': chem.get('smiles', ''),
-                        'molecular_weight': chem.get('mw', 0),
+                        'cas': chem.get('cas', chem.get('name', '')),
                         'matched_family': fam,
                     })
     return chemicals[:10]
 
+NAME_CACHE = {}
+
+def get_chemical_name(cas_number):
+    """Fetch the human-readable chemical name from PubChem using its CAS number."""
+    if not cas_number or cas_number == 'Unknown':
+        return "Unknown Chemical"
+        
+    # Clean up CAS if it has prefixes like 'Compound_'
+    clean_cas = cas_number.replace('Compound_', '').strip()
+    
+    if clean_cas in NAME_CACHE:
+        return NAME_CACHE[clean_cas]
+        
+    try:
+        url = f"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/{urllib.parse.quote(clean_cas)}/property/Title/JSON"
+        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+        with urllib.request.urlopen(req, timeout=3) as response:
+            data = json.loads(response.read().decode('utf-8'))
+            name = data['PropertyTable']['Properties'][0].get('Title', clean_cas)
+            NAME_CACHE[clean_cas] = name
+            return name
+    except Exception:
+        # Fallback to CAS if pubchem fails
+        NAME_CACHE[clean_cas] = clean_cas
+        return clean_cas
+
 
 def main():
     print("=" * 60)
-    print("Smell-to-Molecule Prediction Engine")
+    print("Smell-to-Molecule Interactive Prediction Engine")
     print("=" * 60)
+    print("Loading model... this may take a moment.")
     
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     
@@ -87,55 +114,41 @@ def main():
     if lookup_path.exists():
         with open(lookup_path) as f:
             lookup = json.load(f)
+    print("Model and chemical database loaded successfully!\n")
     
-    # Test descriptions
-    descriptions = [
-        "It smells like some fruit smell , sweet , and fresh and good but the smell is strong",
-        "Fresh citrus with bergamot and lemon notes, bright and uplifting",
-        "Warm, woody, slightly sweet with sandalwood and cedar, earthy undertones",
-        "Sweet, powdery, floral with violet and iris, soft and elegant",
-        "Spicy cinnamon and clove with warm amber base",
-        "Clean marine fragrance with fresh aquatic notes",
-        "Rich vanilla and caramel dessert-like sweetness",
-        "Green herbal rosemary and lavender blend",
-        "Juicy tropical fruits with peach and banana, summer vibes",
-        "Smoky leather with tobacco and dark chocolate notes",
-        "Delicate rose petals with a hint of jasmine and honey",
-    ]
-    
-    all_results = []
-    
-    for desc in descriptions:
-        print(f"\n  \"{desc}\"")
-        
-        # Step 1: Predict odor families
-        families = predict_smell(desc, model, tokenizer, device)
-        print("  Predicted odor families:")
-        for f in families:
-            bar = "█" * int(f['confidence'] * 20)
-            print(f"    {f['odor_family']:<25} {f['confidence']:>5.1%} {bar}")
-        
-        # Step 2: Retrieve matching chemicals
-        chemicals = retrieve_chemicals(families, lookup)
-        if chemicals:
-            print("  Matching chemicals:")
-            for c in chemicals[:5]:
-                smiles_str = f" ({c['smiles']})" if c['smiles'] else ""
-                print(f"    → {c['name']}{smiles_str}")
-        
-        all_results.append({
-            'description': desc,
-            'odor_families': families,
-            'chemicals': chemicals,
-        })
-    
-    # Save
-    out = Path('outputs/predictions')
-    out.mkdir(parents=True, exist_ok=True)
-    with open(out / 'predictions.json', 'w') as f:
-        json.dump(all_results, f, indent=2, ensure_ascii=False)
-    
-    print(f"\n✓ Predictions saved to {out / 'predictions.json'}")
+    while True:
+        try:
+            desc = input("\nEnter a smell description (or 'quit' to exit): ").strip()
+            if not desc:
+                continue
+            if desc.lower() in ('quit', 'exit', 'q'):
+                break
+                
+            print("\nAnalyzing scent profile...")
+            # Step 1: Predict odor families
+            families = predict_smell(desc, model, tokenizer, device, top_k=5)
+            print("\n  Predicted Odor Families:")
+            for f in families:
+                bar = "█" * int(f['confidence'] * 20)
+                print(f"    {f['odor_family']:<20} {f['confidence']:>5.1%} {bar}")
+            
+            # Step 2: Retrieve matching chemicals
+            chemicals = retrieve_chemicals(families, lookup)
+            if chemicals:
+                print("\n  Matching Chemicals (fetching names from PubChem...):")
+                for c in chemicals[:5]:
+                    cas = c['cas'].replace('Compound_', '')
+                    name = get_chemical_name(cas)
+                    print(f"    → {name} (CAS: {cas}) [Family: {c['matched_family']}]")
+            else:
+                print("\n  No specific chemicals found for these families.")
+                
+        except KeyboardInterrupt:
+            break
+        except Exception as e:
+            print(f"\n  Error processing request: {e}")
+            
+    print("\nExiting Predictor. Goodbye!")
 
 
 if __name__ == '__main__':
