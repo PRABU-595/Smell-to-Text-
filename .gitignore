@@ -9,12 +9,13 @@ venv/
 *.egg-info/
 
 # Data
-data/raw/
+# Unblocked for publication: data/raw/
 data/processed/*.csv
 !data/processed/sample.csv
 
 # Models
-models/checkpoints/*.pt
+# Unblocked for publication: models/checkpoints/*.pt
+!models/checkpoints/*.pt
 best_model.pt
 *.safetensors
 models/pretrained/

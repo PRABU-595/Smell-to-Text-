@@ -153,7 +153,7 @@ def families_to_vector(families):
 
 def process_goodscents():
     """Process GoodScents behavior.csv (already in root dir)."""
-    path = 'behavior.csv'
+    path = 'data/raw/behavior.csv'
     if not os.path.exists(path):
         print("  ⚠ GoodScents behavior.csv not found")
         return []
@@ -357,7 +357,7 @@ def build_chemical_lookup():
     
     # Load all available molecule files
     mol_files = [
-        ('molecules.csv', 'goodscents'),  # root-level
+        ('data/raw/molecules.csv', 'goodscents'),  # root-level
         ('data/raw/goodscents/molecules.csv', 'goodscents'),
         ('data/raw/leffingwell/molecules.csv', 'leffingwell'),
         ('data/raw/ifra_2019/molecules.csv', 'ifra'),
@@ -385,7 +385,7 @@ def build_chemical_lookup():
     print(f"  Total unique molecules loaded: {len(all_molecules)}")
     
     # Map molecules to families using behavior data
-    gs_path = 'behavior.csv'
+    gs_path = 'data/raw/behavior.csv'
     if os.path.exists(gs_path):
         gs = pd.read_csv(gs_path)
         for _, row in gs.iterrows():

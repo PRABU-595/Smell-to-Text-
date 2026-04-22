@@ -84,13 +84,10 @@ def train_neobert(args):
     all_labels = []
     for batch in train_loader:
         all_labels.append(batch['labels'].numpy())
-    all_labels = np.vstack(all_labels)
-    pos_counts = all_labels.sum(axis=0) + 1  # smoothing
-    neg_counts = len(all_labels) - pos_counts + 1
-    pos_weight = torch.tensor(neg_counts / pos_counts, dtype=torch.float32).to(device)
-    pos_weight = torch.clamp(pos_weight, max=20.0)  # cap extreme weights
-
-    criterion = nn.BCEWithLogitsLoss(pos_weight=pos_weight)
+    
+    # Use Focal Loss + Weighted BCE (Phase 3, #9)
+    # We switch to focal loss as it's superior for this sparsity level
+    criterion = get_loss_function('focal', alpha=0.25, gamma=2.0)
 
     optimizer = AdamW(model.parameters(), lr=args.lr, weight_decay=0.01)
     total_steps = len(train_loader) * args.epochs

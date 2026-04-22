@@ -3539,6 +3539,16 @@
       "cas": "110-39-4",
       "name": "110-39-4",
       "descriptors": "sweet;natural;fruity;oily;creamy;fresh;green;jasmin;earthy;waxy"
+    },
+    {
+      "cas": "19700-21-1",
+      "name": "Geosmin",
+      "descriptors": "earthy;musty;rain;damp soil;petrichor;beet;moldy"
+    },
+    {
+      "cas": "2371-42-8",
+      "name": "2-Methylisoborneol",
+      "descriptors": "earthy;musty;camphoreous;muddy;rain"
     }
   ],
   "fresh_marine": [
@@ -5541,6 +5551,30 @@
       "cas": "58096-46-1",
       "name": "58096-46-1",
       "descriptors": "peppery;woody;spicy;camphoreous"
+    }
+  ],
+  "malodor_biological": [
+    {
+      "cas": "503-74-2",
+      "name": "Isovaleric acid",
+      "descriptors": "sweaty;cheesy;acrid;sour;feet"
+    },
+    {
+      "cas": "27960-21-0",
+      "name": "3-Methyl-2-hexenoic acid",
+      "descriptors": "sweaty;underarm;acrid;biological"
+    },
+    {
+      "cas": "64-18-6",
+      "name": "Formic acid",
+      "descriptors": "acrid;sour;stinging;sweaty"
+    }
+  ],
+  "musky_animalic": [
+    {
+      "cas": "18330-05-3",
+      "name": "5-alpha-Androst-16-en-3-one",
+      "descriptors": "musky;animalic;pheromonal;sweaty;urine"
     }
   ]
 }

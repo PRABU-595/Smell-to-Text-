@@ -391,7 +391,7 @@ def main():
     tokenizer = AutoTokenizer.from_pretrained('bert-base-uncased')
     checkpoint = torch.load(ckpt, map_location=device, weights_only=False)
     model = SmellToMoleculeModel(model_name='bert-base-uncased', num_chemicals=NUM_CHEMICALS)
-    model.load_state_dict(checkpoint['model_state_dict'])
+    model.load_state_dict(checkpoint['model_state_dict'], strict=False)
     model.to(device)
     model.eval()
     

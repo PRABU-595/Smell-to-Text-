@@ -6,8 +6,8 @@ import random
 def convert_goodscents():
     print("Loading Pyrfume GoodScents dataset...")
     try:
-        behavior_df = pd.read_csv('behavior.csv')
-        molecules_df = pd.read_csv('molecules.csv')
+        behavior_df = pd.read_csv('data/raw/behavior.csv')
+        molecules_df = pd.read_csv('data/raw/molecules.csv')
     except FileNotFoundError:
         print("Error: behavior.csv or molecules.csv not found. Please download them first.")
         return
